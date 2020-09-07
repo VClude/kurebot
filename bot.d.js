@@ -1,12 +1,12 @@
 const Discord = require('discord.js');
-const {prefix} = require('./bot.config.json');
+const {prefix, conf_token} = require('./bot.config.json');
 const fs = require('fs');
 
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 
 //Remove the OR (||) before deploying!
-const token = process.env.TOKEN || 'NzQwOTMzMTk0NTM0MzU1MTM0.XywNzw.bWDnd94bIXVEGgskzgbhq2Jty98';
+const token = process.env.TOKEN || conf_token;
 
 const cmdFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
