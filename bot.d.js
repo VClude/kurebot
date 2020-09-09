@@ -1,9 +1,17 @@
+
 const Discord = require('discord.js');
 const bot_config = require('./bot.config.json');
 const fs = require('fs');
 
+var FBAdmin = require('firebase-admin');
+
 const prefix = bot_config.bot_config.prefix;
 const conf_token = bot_config.bot_config.conf_token;
+
+FBAdmin.initializeApp({
+    credential: FBAdmin.credential.cert(bot_config.firebase),
+    databaseUrl: bot_config.bot_config.db_url
+});
 
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
@@ -20,6 +28,7 @@ for (const file of cmdFiles){
 
 client.on("ready", () => {
    console.log('bot is ready');
+    client.user.setActivity("SINoALICE");
 });
 
 client.on('message', message => {
@@ -31,7 +40,7 @@ client.on('message', message => {
     if (!client.commands.has(command)) return;
 
     try{
-        client.commands.get(command).execute(message, args);
+        client.commands.get(command).execute(message, args, client, FBAdmin);
     }catch (e) {
         console.error('Error! -> ' + e);
         message.reply('BPJS Bot is having some trouble parsing your message, please dm @chillrend');
