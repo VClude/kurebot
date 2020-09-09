@@ -19,6 +19,7 @@ for (let i = 0; i < card.length; i++) {
         nightmare.shortName = card[i].shortName;
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
+        nightmare.attribute = card[i].attribute;
 
         let evo = _.find(evo_card, {"cardMstId": card[i].cardMstId})
         if(evo !== undefined){
@@ -31,35 +32,45 @@ for (let i = 0; i < card.length; i++) {
             nightmare.isEvolvable = false;
         }
 
-        let nmSkill, preEvoSkill;
+        let nmSkill, preEvoSkill, storySkill;
+
+        preEvoSkill = _.find(skill, {"artMstId": card[i].artMstId});
+
+        nightmare.skill = {};
+
+        nightmare.skill.gvg = {};
+
+        nightmare.skill.gvg.preEvo = {
+            skillName: preEvoSkill.name,
+            skillDescription: preEvoSkill.description,
+            skillDuration: preEvoSkill.duration,
+            skillPreparationTime: preEvoSkill.leadTime,
+            skillSPCost: preEvoSkill.sp
+        }
 
         if(nightmare.isEvolvable){
-            preEvoSkill = _.find(skill, {"artMstId": card[i].artMstId});
             nmSkill = _.find(skill, {"artMstId": evo.artMstId});
+            storySkill = _.find(skill, {"artMstId": evo.questArtMstId})
 
-            nightmare.skill = {};
-            nightmare.skill.preEvolvedSkillName = preEvoSkill.name;
-            nightmare.skill.preEvolvedSkillDescription = preEvoSkill.description;
-            nightmare.skill.preEvolvedSkillDurationSec = preEvoSkill.duration;
-            nightmare.skill.preEvolvedSkillPreparationTimeSec = preEvoSkill.leadTime;
-            nightmare.skill.preEvolvedSkillSPCost = preEvoSkill.sp;
-
-            nightmare.skill.skillName = nmSkill.name;
-            nightmare.skill.skillDescription = nmSkill.description;
-            nightmare.skill.skillDurationSec = nmSkill.duration;
-            nightmare.skill.skillPreparationTimeSec = nmSkill.leadTime;
-            nightmare.skill.skillSPCost= nmSkill.sp;
+            nightmare.skill.gvg.postEvo = {
+                skillName: nmSkill.name,
+                skillDescription: nmSkill.description,
+                skillDuration: nmSkill.duration,
+                skillPreparationTime: nmSkill.leadTime,
+                skillSPCost: nmSkill.sp
+            }
 
         }else{
-            nightmare.skill = {};
-
-            nmSkill = _.find(skill, {"artMstId": card[i].artMstId});
-            nightmare.skill.skillName = nmSkill.name;
-            nightmare.skill.skillDescription = nmSkill.description;
-            nightmare.skill.skillDurationSec = nmSkill.duration;
-            nightmare.skill.skillPreparationTimeSec = nmSkill.leadTime;
-            nightmare.skill.skillSPCost = nmSkill.sp;
+            storySkill = _.find(skill, {"artMstId": card[i].questArtMstId})
         }
+
+        nightmare.skill.pve = {
+            skillName: storySkill.name,
+            skillDescription: storySkill.description,
+            skillDuration: storySkill.duration,
+            skillPreparationTime: storySkill.leadTime,
+            skillSPCost: storySkill.sp
+        };
 
 
         nightmares.push(nightmare);

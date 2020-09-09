@@ -14,7 +14,7 @@ var db = admin.firestore();
 for (let i = 0; i < nightmares.length; i++) {
 
     db.collection("nightmares").doc(nightmares[i].mstId.toString()).set(nightmares[i]).then(docRef => {
-        console.log("Document written with ID: ", docRef.id);
+        console.log("Document written with ID: ", nightmares[i].mstId.toString());
     }).catch(err => {
         console.error("Error adding document: ", err)
     });
