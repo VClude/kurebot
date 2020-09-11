@@ -60,7 +60,7 @@ module.exports = {
                     },
                     {
                         name: "Duration",
-                        value: nightmare.isEvolvable ? `${nightmare.skill.gvg.postEvo.skillDuration}s (${nightmare.skill.gvg.preEvo.skillDuration}s unevolved) ${nightmare.skill.gvg.preEvo.skillDuration === 0 ? '(immediate)' : ''}` : `${nightmare.skill.gvg.preEvo.skillDuration} ${nightmare.skill.gvg.preEvo.skillDuration === 0 ? '(immediate)' : ''}`,
+                        value: nightmare.isEvolvable ? `${nightmare.skill.gvg.postEvo.skillDuration}s (${nightmare.skill.gvg.preEvo.skillDuration}s unevolved) ${nightmare.skill.gvg.preEvo.skillDuration === 0 ? '(immediate)' : ''}` : `${nightmare.skill.gvg.preEvo.skillDuration}s ${nightmare.skill.gvg.preEvo.skillDuration === 0 ? '(immediate)' : ''}`,
                         inline: false
                     },
                     {
@@ -74,7 +74,7 @@ module.exports = {
                         inline: false
                     }
                 )
-                dsEmbeds.setThumbnail(nightmare.isEvolvable ? `https://sinoalice.game-db.tw/images/card/CardS${nightmare.mstId+1}.png` : `https://sinoalice.game-db.tw/images/card/CardS${nightmare.mstId}.png`);
+                dsEmbeds.setThumbnail(nightmare.isEvolvable ? `https://sinoalice.game-db.tw/images/card/CardS${nightmare.evolvedResourceName}.png` : `https://sinoalice.game-db.tw/images/card/CardS${nightmare.resourceName}.png`);
                 dsEmbeds.setFooter('Tempest sinoalice bot © 2020 - Good weapons are more important than good waifu -T');
 
                 message.channel.send(dsEmbeds).catch(err => console.error(err));

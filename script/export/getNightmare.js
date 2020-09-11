@@ -17,14 +17,16 @@ for (let i = 0; i < card.length; i++) {
 
         nightmare.name = card[i].name;
         nightmare.shortName = card[i].shortName;
+        nightmare.attribute = card[i].attribute;
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
-        nightmare.attribute = card[i].attribute;
 
         let evo = _.find(evo_card, {"cardMstId": card[i].cardMstId})
         if(evo !== undefined){
             evo = _.find(card, {"cardMstId": evo.evolvedCardMstId});
 
+            nightmare.evolvedMstId = evo.cardMstId;
+            nightmare.evolvedResourceName = evo.resourceName;
             nightmare.rarity = evo.rarity;
             nightmare.isEvolvable = true;
         }else{

@@ -20,4 +20,9 @@ module.exports = {
                 return undefined;
         }
     },
+
+    findNeedle: function (needle, haystack) {
+        let query = this.strToTitle(needle);
+        return haystack.filter(item => item.indexOf(query) >= 0);
+    }
 }
