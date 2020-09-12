@@ -33,24 +33,22 @@ module.exports = {
 
             return weapon;
         },
-        getNightmare: function (nmRef, nmArray) {
+        getNightmare: function (nmRef, nmArray, message) {
+            const util = require('../util/util');
 
             return nmArray.map(nms => {
-                let searchString = nms.trim();
-                let strLen = searchString.length;
-                let strFrontCode = searchString.slice(0, strLen-1);
-                let strEndCode = searchString.slice(strLen-1, searchString.length);
-                let endStr = strFrontCode + String.fromCharCode(strEndCode.charCodeAt(0) + 1);
 
-                const query = nmRef.where('name', '>=', searchString)
-                    .where('name', '<', endStr)
-                    .limit(1);
+                let searchArray = nms.split(' ');
 
-                return query.get().then(nightmares => {
-                    if(nightmares.empty) return undefined;
+                return util.getNightmaresList(searchArray, nmRef, message).then(nightmares => {
+                    if(nightmares.length < 1){
+                        return undefined;
+                    }
 
-                    return nightmares.docs[0].data().name;
-                });
+                    let nightmare = util.getTrueNightmare(searchArray, nightmares);
+
+                    return nightmare;
+                })
             })
         },
         stopCollector: function (message, collector) {
@@ -77,7 +75,7 @@ module.exports = {
 
         message.author.createDM().then(dmChannel => {
             const filter = m => m.author.id === message.author.id;
-            const collector = dmChannel.createMessageCollector(filter, {time: 200000})
+            const collector = dmChannel.createMessageCollector(filter, {time: 600000})
 
             /*
                 The iterator have 4 phases: [POSITION_SELECTION, WEAPON_SELECTION, ELEMENT_SELECTION, NIGHTMARE_SELECTION]
@@ -154,12 +152,14 @@ module.exports = {
 
                     member.nightmares = [];
 
-                    let result = this.localUtil.getNightmare(nmRef, nmArray);
+                    let result = this.localUtil.getNightmare(nmRef, nmArray, message);
 
                     Promise.all(result).then(nm => {
                         let validNightmares= [];
                         nm.map(nightmare => {
-                            if(typeof nightmare != 'undefined') validNightmares.push(nightmare);
+                            if(typeof nightmare != 'undefined') {
+                                validNightmares.push(nightmare.name);
+                            }
                         })
 
                         if(validNightmares.length < 1){

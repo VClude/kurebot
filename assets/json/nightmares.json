@@ -1,1 +1,3756 @@
-[{"name":"Hound (Fire)","shortName":"Hound (Fire)","attribute":1,"mstId":448,"resourceName":"0448","evolvedMstId":449,"evolvedResourceName":"0449","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (I)","skillDescription":"Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hound (Water)","shortName":"Hound (Water)","attribute":2,"mstId":450,"resourceName":"0450","evolvedMstId":451,"evolvedResourceName":"0451","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (I)","skillDescription":"Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hound (Wind)","shortName":"Hound (Wind)","attribute":3,"mstId":452,"resourceName":"0452","evolvedMstId":453,"evolvedResourceName":"0453","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (I)","skillDescription":"Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Hound (Fire)","shortName":"Hateful Hound (Fire)","attribute":1,"mstId":454,"resourceName":"0454","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Hound (Water)","shortName":"Hateful Hound (Water","attribute":2,"mstId":455,"resourceName":"0455","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Hound (Wind)","shortName":"Hateful Hound (Wind)","attribute":3,"mstId":456,"resourceName":"0456","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Ugallu","shortName":"Ugallu","attribute":1,"mstId":457,"resourceName":"0457","evolvedMstId":458,"evolvedResourceName":"0458","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":0},"postEvo":{"skillName":"Combustive Blessing (III)","skillDescription":"Massively increases the effectiveness of ally fire skills.","skillDuration":120,"skillPreparationTime":80,"skillSPCost":0}},"pve":{"skillName":"Combustive Blessing (III)","skillDescription":"Massively increases the effectiveness of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":0}}},{"name":"Clock Rabbit","shortName":"Clock Rabbit","attribute":1,"mstId":459,"resourceName":"0459","evolvedMstId":460,"evolvedResourceName":"0460","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Infernal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally fire skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Infernal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally fire skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Infernal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Plant (Fire)","shortName":"Plant (Fire)","attribute":1,"mstId":461,"resourceName":"0461","evolvedMstId":462,"evolvedResourceName":"0462","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (I)","skillDescription":"Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Plant (Water)","shortName":"Plant (Water)","attribute":2,"mstId":463,"resourceName":"0463","evolvedMstId":464,"evolvedResourceName":"0464","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (I)","skillDescription":"Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Plant (Wind)","shortName":"Plant (Wind)","attribute":3,"mstId":465,"resourceName":"0465","evolvedMstId":466,"evolvedResourceName":"0466","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (I)","skillDescription":"Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Plant (Fire)","shortName":"Hateful Plant (Fire)","attribute":1,"mstId":467,"resourceName":"0467","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Plant (Water)","shortName":"Hateful Plant (Water","attribute":2,"mstId":468,"resourceName":"0468","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Plant (Wind)","shortName":"Hateful Plant (Wind)","attribute":3,"mstId":469,"resourceName":"0469","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Golem (Fire)","shortName":"Golem (Fire)","attribute":1,"mstId":470,"resourceName":"0470","evolvedMstId":471,"evolvedResourceName":"0471","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (I)","skillDescription":"Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Golem (Water)","shortName":"Golem (Water)","attribute":2,"mstId":472,"resourceName":"0472","evolvedMstId":473,"evolvedResourceName":"0473","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (I)","skillDescription":"Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Golem (Wind)","shortName":"Golem (Wind)","attribute":3,"mstId":474,"resourceName":"0474","evolvedMstId":475,"evolvedResourceName":"0475","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (I)","skillDescription":"Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Golem (Fire)","shortName":"Hateful Golem (Fire)","attribute":1,"mstId":476,"resourceName":"0476","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Golem (Water)","shortName":"Hateful Golem (Water","attribute":2,"mstId":477,"resourceName":"0477","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Golem (Wind)","shortName":"Hateful Golem (Wind)","attribute":3,"mstId":478,"resourceName":"0478","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Freeze Golem","shortName":"Freeze Golem","attribute":2,"mstId":479,"resourceName":"0479","evolvedMstId":480,"evolvedResourceName":"0480","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":0},"postEvo":{"skillName":"Aqueous Blessing (III)","skillDescription":"Massively increases the effectiveness of ally water skills.","skillDuration":120,"skillPreparationTime":80,"skillSPCost":0}},"pve":{"skillName":"Aqueous Blessing (III)","skillDescription":"Massively increases the effectiveness of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":0}}},{"name":"Bird (Fire)","shortName":"Bird (Fire)","attribute":1,"mstId":483,"resourceName":"0483","evolvedMstId":484,"evolvedResourceName":"0484","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Begrudging Blade (I)","skillDescription":"Reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Bird (Water)","shortName":"Bird (Water)","attribute":2,"mstId":485,"resourceName":"0485","evolvedMstId":486,"evolvedResourceName":"0486","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Begrudging Blade (I)","skillDescription":"Reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Bird (Wind)","shortName":"Bird (Wind)","attribute":3,"mstId":487,"resourceName":"0487","evolvedMstId":488,"evolvedResourceName":"0488","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Begrudging Blade (I)","skillDescription":"Reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Bird (Fire)","shortName":"Hateful Bird (Fire)","attribute":1,"mstId":489,"resourceName":"0489","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Bird (Water)","shortName":"Hateful Bird (Water)","attribute":2,"mstId":490,"resourceName":"0490","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Hateful Bird (Wind)","shortName":"Hateful Bird (Wind)","attribute":3,"mstId":491,"resourceName":"0491","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Begrudging Blade (II)","skillDescription":"Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Ghost (Fire)","shortName":"Ghost (Fire)","attribute":1,"mstId":494,"resourceName":"0494","evolvedMstId":495,"evolvedResourceName":"0495","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Infernal Fairy Magic (I)","skillDescription":"Reduces the SP cost of ally fire skills.","skillDuration":80,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Infernal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally fire skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Infernal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Ghost (Water)","shortName":"Ghost (Water)","attribute":2,"mstId":496,"resourceName":"0496","evolvedMstId":497,"evolvedResourceName":"0497","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Tidal Fairy Magic (I)","skillDescription":"Reduces the SP cost of ally water skills.","skillDuration":80,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Tidal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Tidal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Ghost (Wind)","shortName":"Ghost (Wind)","attribute":3,"mstId":498,"resourceName":"0498","evolvedMstId":499,"evolvedResourceName":"0499","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Zephyr Fairy Magic (I)","skillDescription":"Reduces the SP cost of ally wind skills.","skillDuration":80,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Ghost (Fire)","shortName":"Hateful Ghost (Fire)","attribute":1,"mstId":500,"resourceName":"0500","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Infernal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally fire skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Infernal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Ghost (Water)","shortName":"Hateful Ghost (Water","attribute":2,"mstId":501,"resourceName":"0501","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Tidal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Tidal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Ghost (Wind)","shortName":"Hateful Ghost (Wind)","attribute":3,"mstId":502,"resourceName":"0502","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"強化ゴースト(剣)","shortName":"強化ゴースト(剣)","attribute":0,"mstId":503,"resourceName":"0503","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (I)","skillDescription":"Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (I)","skillDescription":"Increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"強化ハイゴースト(剣)","shortName":"強化ハイゴースト(剣)","attribute":0,"mstId":504,"resourceName":"0504","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"強化ゴースト(盾)","shortName":"強化ゴースト(盾)","attribute":0,"mstId":505,"resourceName":"0505","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (I)","skillDescription":"Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (I)","skillDescription":"Increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"強化ハイゴースト(盾)","shortName":"強化ハイゴースト(盾)","attribute":0,"mstId":506,"resourceName":"0506","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Lizard (Fire)","shortName":"Lizard (Fire)","attribute":1,"mstId":507,"resourceName":"0507","evolvedMstId":508,"evolvedResourceName":"0508","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Combustive Blessing (I)","skillDescription":"Increases the effectiveness of ally fire skills.","skillDuration":100,"skillPreparationTime":100,"skillSPCost":200},"postEvo":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Lizard (Water)","shortName":"Lizard (Water)","attribute":2,"mstId":509,"resourceName":"0509","evolvedMstId":510,"evolvedResourceName":"0510","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Aqueous Blessing (I)","skillDescription":"Increases the effectiveness of ally water skills.","skillDuration":100,"skillPreparationTime":100,"skillSPCost":200},"postEvo":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Lizard (Wind)","shortName":"Lizard (Wind)","attribute":3,"mstId":511,"resourceName":"0511","evolvedMstId":512,"evolvedResourceName":"0512","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Gale Blessing (I)","skillDescription":"Increases the effectiveness of ally wind skills.","skillDuration":100,"skillPreparationTime":100,"skillSPCost":200},"postEvo":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Lizard (Fire)","shortName":"Hateful Lizard (Fire","attribute":1,"mstId":513,"resourceName":"0513","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Lizard (Water)","shortName":"Hateful Lizard (Wate","attribute":2,"mstId":514,"resourceName":"0514","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Lizard (Wind)","shortName":"Hateful Lizard (Wind","attribute":3,"mstId":515,"resourceName":"0515","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Lindwyrm","shortName":"Lindwyrm","attribute":3,"mstId":516,"resourceName":"0516","evolvedMstId":517,"evolvedResourceName":"0517","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":0},"postEvo":{"skillName":"Gale Blessing (III)","skillDescription":"Massively increases the effectiveness of ally wind skills.","skillDuration":120,"skillPreparationTime":80,"skillSPCost":0}},"pve":{"skillName":"Gale Blessing (III)","skillDescription":"Massively increases the effectiveness of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":0}}},{"name":"Orc (Fire)","shortName":"Orc (Fire)","attribute":1,"mstId":518,"resourceName":"0518","evolvedMstId":519,"evolvedResourceName":"0519","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Blazing Wildfire (II)","skillDescription":"Greatly increases fire damage against wind enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Orc (Water)","shortName":"Orc (Water)","attribute":2,"mstId":520,"resourceName":"0520","evolvedMstId":521,"evolvedResourceName":"0521","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (II)","skillDescription":"Greatly increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Orc (Wind)","shortName":"Orc (Wind)","attribute":3,"mstId":522,"resourceName":"0522","evolvedMstId":523,"evolvedResourceName":"0523","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Abyssal Whirlwind (II)","skillDescription":"Greatly increases wind damage against water enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Orc (Fire)","shortName":"Hateful Orc (Fire)","attribute":1,"mstId":524,"resourceName":"0524","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Blazing Wildfire (II)","skillDescription":"Greatly increases fire damage against wind enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Orc (Water)","shortName":"Hateful Orc (Water)","attribute":2,"mstId":525,"resourceName":"0525","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (II)","skillDescription":"Greatly increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Orc (Wind)","shortName":"Hateful Orc (Wind)","attribute":3,"mstId":526,"resourceName":"0526","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Abyssal Whirlwind (II)","skillDescription":"Greatly increases wind damage against water enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Spider (Fire)","shortName":"Spider (Fire)","attribute":1,"mstId":527,"resourceName":"0527","evolvedMstId":528,"evolvedResourceName":"0528","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Blazing Wildfire (II)","skillDescription":"Greatly increases fire damage against wind enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Spider (Water)","shortName":"Spider (Water)","attribute":2,"mstId":529,"resourceName":"0529","evolvedMstId":530,"evolvedResourceName":"0530","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (II)","skillDescription":"Greatly increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Spider (Wind)","shortName":"Spider (Wind)","attribute":3,"mstId":531,"resourceName":"0531","evolvedMstId":532,"evolvedResourceName":"0532","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Abyssal Whirlwind (II)","skillDescription":"Greatly increases wind damage against water enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Spider (Fire)","shortName":"Hateful Spider (Fire","attribute":1,"mstId":533,"resourceName":"0533","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Blazing Wildfire (II)","skillDescription":"Greatly increases fire damage against wind enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Spider (Water)","shortName":"Hateful Spider (Wate","attribute":2,"mstId":534,"resourceName":"0534","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (II)","skillDescription":"Greatly increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Spider (Wind)","shortName":"Hateful Spider (Wind","attribute":3,"mstId":535,"resourceName":"0535","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Abyssal Whirlwind (II)","skillDescription":"Greatly increases wind damage against water enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Absorbent Spider","shortName":"Absorbent Spider","attribute":2,"mstId":536,"resourceName":"0536","evolvedMstId":537,"evolvedResourceName":"0537","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (I)","skillDescription":"Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (II)","skillDescription":"Greatly increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Shield Wisp (Fire)","shortName":"Shield Wisp (Fire)","attribute":1,"mstId":538,"resourceName":"0538","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Infernal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally fire skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Infernal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Shield Wisp (Water)","shortName":"Shield Wisp (Water)","attribute":2,"mstId":539,"resourceName":"0539","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Tidal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally water skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Tidal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Shield Wisp (Wind)","shortName":"Shield Wisp (Wind)","attribute":3,"mstId":540,"resourceName":"0540","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Zephyr Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally wind skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Zephyr Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Snake (Fire)","shortName":"Snake (Fire)","attribute":1,"mstId":541,"resourceName":"0541","evolvedMstId":542,"evolvedResourceName":"0542","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Engulfing Shout (I)","skillDescription":"Reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":80,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces damage from enemy fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Snake (Water)","shortName":"Snake (Water)","attribute":2,"mstId":543,"resourceName":"0543","evolvedMstId":544,"evolvedResourceName":"0544","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Cry of the Damned (I)","skillDescription":"Reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":80,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces damage from enemy water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Snake (Wind)","shortName":"Snake (Wind)","attribute":3,"mstId":545,"resourceName":"0545","evolvedMstId":546,"evolvedResourceName":"0546","rarity":4,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Soothing Command (I)","skillDescription":"Reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":80,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces damage from enemy wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Snake (Fire)","shortName":"Hateful Snake (Fire)","attribute":1,"mstId":547,"resourceName":"0547","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces damage from enemy fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Snake (Water)","shortName":"Hateful Snake (Water","attribute":2,"mstId":548,"resourceName":"0548","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces damage from enemy water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Hateful Snake (Wind)","shortName":"Hateful Snake (Wind)","attribute":3,"mstId":549,"resourceName":"0549","rarity":3,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces damage from enemy wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Jörmungandr","shortName":"Jörmungandr","attribute":2,"mstId":550,"resourceName":"0550","evolvedMstId":551,"evolvedResourceName":"0551","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Uplifting Chant (II)","skillDescription":"Greatly increases the activation rate of ally support skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200},"postEvo":{"skillName":"Uplifting Chant (III)","skillDescription":"Massively increases the activation rate of ally support skills.","skillDuration":120,"skillPreparationTime":80,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (III)","skillDescription":"Massively increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Drizella, the Jealous Serpent","shortName":"Drizella, the Jealou","attribute":2,"mstId":553,"resourceName":"0553","evolvedMstId":554,"evolvedResourceName":"0554","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Tidal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Tidal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally water skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Tidal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Gluttonous Eris","shortName":"Gluttonous Eris","attribute":3,"mstId":557,"resourceName":"0557","evolvedMstId":558,"evolvedResourceName":"0558","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Fairy King Magic (II)","skillDescription":"Greatly reduces the SP cost of ally skills of any affinity.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":0},"postEvo":{"skillName":"Fairy King Magic (III)","skillDescription":"Massively reduces the SP cost of ally skills of any affinity.","skillDuration":120,"skillPreparationTime":60,"skillSPCost":0}},"pve":{"skillName":"Fairy King Magic (III)","skillDescription":"Massively reduces the SP cost of ally skills of any affinity.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":0}}},{"name":"Nightmare (Bondage)","shortName":"Nightmare (Bondage)","attribute":2,"mstId":559,"resourceName":"0559","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Aqueous Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Justice)","shortName":"Nightmare (Justice)","attribute":2,"mstId":560,"resourceName":"0560","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Dark Tsunami (II)","skillDescription":"Greatly increases water damage against fire enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Brutality)","shortName":"Nightmare (Brutality","attribute":1,"mstId":561,"resourceName":"0561","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Depravity)","shortName":"Nightmare (Depravity","attribute":1,"mstId":562,"resourceName":"0562","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces damage from enemy fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Depravity)","shortName":"Nightmare (N/A)","attribute":1,"mstId":563,"resourceName":"0563","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Engulfing Shout (II)","skillDescription":"Greatly reduces damage from enemy fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Dependence)","shortName":"Nightmare (Dependenc","attribute":3,"mstId":564,"resourceName":"0564","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Gale Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Delusion)","shortName":"Nightmare (Delusion)","attribute":3,"mstId":567,"resourceName":"0567","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces damage from enemy wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Delusion)","shortName":"Nightmare (N/A)","attribute":3,"mstId":568,"resourceName":"0568","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Soothing Command (II)","skillDescription":"Greatly reduces damage from enemy wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Languor)","shortName":"Nightmare (Languor)","attribute":3,"mstId":569,"resourceName":"0569","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Languor)","shortName":"Nightmare (N/A)","attribute":3,"mstId":570,"resourceName":"0570","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Zephyr Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally wind skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Masochism)","shortName":"Nightmare (Masochism","attribute":2,"mstId":571,"resourceName":"0571","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces damage from enemy water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Nightmare (Masochism)","shortName":"Nightmare (N/A)","attribute":2,"mstId":572,"resourceName":"0572","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces damage from enemy water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Fina, the Loyal Falsehood","shortName":"Fina, the Loyal Fals","attribute":2,"mstId":583,"resourceName":"0583","evolvedMstId":584,"evolvedResourceName":"0584","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Song of Camaraderie (I)","skillDescription":"Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200},"postEvo":{"skillName":"Song of Camaraderie (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":200}},"pve":{"skillName":"Song of Camaraderie (II)","skillDescription":"Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":15,"skillSPCost":50}}},{"name":"Digitalis, the Undertaker","shortName":"Digitalis, the Under","attribute":2,"mstId":639,"resourceName":"0639","evolvedMstId":640,"evolvedResourceName":"0640","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Cry of the Damned (II)","skillDescription":"Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":0},"postEvo":{"skillName":"Cry of the Damned (III)","skillDescription":"Massively reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":100,"skillPreparationTime":50,"skillSPCost":0}},"pve":{"skillName":"Cry of the Damned (III)","skillDescription":"Massively reduces damage from enemy water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":0}}},{"name":"Solitary Black Rabbit","shortName":"Solitary Black Rabbi","attribute":2,"mstId":663,"resourceName":"0663","evolvedMstId":664,"evolvedResourceName":"0664","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200},"postEvo":{"skillName":"Victorious Melody (III)","skillDescription":"Massively increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":200}},"pve":{"skillName":"Victorious Melody (III)","skillDescription":"Massively increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Fafnir","shortName":"Fafnir","attribute":1,"mstId":665,"resourceName":"0665","evolvedMstId":666,"evolvedResourceName":"0666","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200},"postEvo":{"skillName":"Combustive Blessing (III)","skillDescription":"Massively increases the effectiveness of ally fire skills.","skillDuration":120,"skillPreparationTime":80,"skillSPCost":200}},"pve":{"skillName":"Combustive Blessing (III)","skillDescription":"Massively increases the effectiveness of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Tricky Wisp","shortName":"Tricky Wisp","attribute":3,"mstId":667,"resourceName":"0667","evolvedMstId":668,"evolvedResourceName":"0668","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Enchanted Armor (I)","skillDescription":"Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200},"postEvo":{"skillName":"Enchanted Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":200}},"pve":{"skillName":"Enchanted Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":15,"skillSPCost":50}}},{"name":"Puppet Dragon","shortName":"Puppet Dragon","attribute":2,"mstId":669,"resourceName":"0669","evolvedMstId":670,"evolvedResourceName":"0670","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Tidal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Tidal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally water skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Tidal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally water skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Noin, Sandstorm's Mandate","shortName":"Noin, Sandstorm's Ma","attribute":1,"mstId":743,"resourceName":"0743","evolvedMstId":744,"evolvedResourceName":"0744","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Hindering Wail (II)","skillDescription":"Greatly reduces the activation rate of enemy support skills.\\nThis summon skill ends when there are less than 2 minutes left in the Colosseum.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":0},"postEvo":{"skillName":"Hindering Wail (III)","skillDescription":"Massively reduces the activation rate of enemy support skills.\\nThis summon skill ends when there are less than 2 minutes left in the Colosseum.","skillDuration":100,"skillPreparationTime":50,"skillSPCost":0}},"pve":{"skillName":"Blazing Wildfire (III)","skillDescription":"Massively increases fire damage against wind enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":0}}},{"name":"Phoenix","shortName":"Phoenix","attribute":1,"mstId":769,"resourceName":"0769","evolvedMstId":770,"evolvedResourceName":"0770","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Combustive Blessing (I)","skillDescription":"Increases the effectiveness of ally fire skills.","skillDuration":100,"skillPreparationTime":100,"skillSPCost":200},"postEvo":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":110,"skillPreparationTime":90,"skillSPCost":200}},"pve":{"skillName":"Combustive Blessing (II)","skillDescription":"Greatly increases the effectiveness of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Esse, the Investigator","shortName":"Esse, the Investigat","attribute":1,"mstId":771,"resourceName":"0771","evolvedMstId":772,"evolvedResourceName":"0772","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Infernal Fairy Magic (II)","skillDescription":"Greatly reduces the SP cost of ally fire skills.","skillDuration":90,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Infernal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally fire skills.","skillDuration":100,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Infernal Fairy Magic (III)","skillDescription":"Massively reduces the SP cost of ally fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Ogre","shortName":"Ogre","attribute":3,"mstId":773,"resourceName":"0773","evolvedMstId":774,"evolvedResourceName":"0774","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Defiant Roar (II)","skillDescription":"Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Defiant Roar (III)","skillDescription":"Massively increases the effectiveness of all vanguard ally skills.\\nEffective only when at a disadvantage during a combo chance.","skillDuration":120,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Abyssal Whirlwind (III)","skillDescription":"Massively increases wind damage against water enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Simone","shortName":"Simone","attribute":1,"mstId":825,"resourceName":"0825","evolvedMstId":826,"evolvedResourceName":"0826","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Fairy King Magic (I)","skillDescription":"Reduces the SP cost of all ally skills.","skillDuration":100,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"Fairy King Magic (II)","skillDescription":"Greatly reduces the SP cost of ally skills of any affinity.","skillDuration":110,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Fairy King Magic (II)","skillDescription":"Greatly reduces the SP cost of ally skills of any affinity.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Machine Lifeform","shortName":"Machine Lifeform","attribute":1,"mstId":827,"resourceName":"0827","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Engulfing Shout (I)","skillDescription":"Reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.","skillDuration":80,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"Engulfing Shout (I)","skillDescription":"Reduces damage from enemy fire skills.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Machine Lifeform (Gun)","shortName":"Machine Lifeform (Gu","attribute":1,"mstId":829,"resourceName":"0829","rarity":4,"isEvolvable":false,"skill":{"gvg":{"preEvo":{"skillName":"Uplifting Chant (I)","skillDescription":"Increases the activation rate of all ally support skills.","skillDuration":100,"skillPreparationTime":100,"skillSPCost":200}},"pve":{"skillName":"Blazing Wildfire (I)","skillDescription":"Increases fire damage against wind enemies.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Cecilia, the Crimson Banisher","shortName":"Cecilia, the Crimson","attribute":1,"mstId":979,"resourceName":"0979","evolvedMstId":980,"evolvedResourceName":"0980","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Victorious Melody (II)","skillDescription":"Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":0},"postEvo":{"skillName":"Victorious Melody (III)","skillDescription":"Massively increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":0}},"pve":{"skillName":"Victorious Melody (III)","skillDescription":"Massively increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":0}}},{"name":"Library Wisp","shortName":"Library Wisp","attribute":1,"mstId":1107,"resourceName":"1107","evolvedMstId":1108,"evolvedResourceName":"1108","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":0},"postEvo":{"skillName":"Blessed Armor (III)","skillDescription":"Massively increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":0}},"pve":{"skillName":"Blessed Armor (III)","skillDescription":"Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":0}}},{"name":"Lammy","shortName":"Lammy","attribute":2,"mstId":1915,"resourceName":"1915","evolvedMstId":1916,"evolvedResourceName":"1916","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Magical Torrent (I)","skillDescription":"Recover 5% of all ally SP.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200},"postEvo":{"skillName":"Magical Torrent (II)","skillDescription":"Recover 15% of all ally SP.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":200}},"pve":{"skillName":"Magical Torrent (II)","skillDescription":"Recover 15% of all ally SP.","skillDuration":0,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Sea Snail","shortName":"Sea Snail","attribute":2,"mstId":1917,"resourceName":"1917","evolvedMstId":1918,"evolvedResourceName":"1918","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Wall Sacrifice (I)","skillDescription":"Increases M.DEF of all surviving allies in the vanguard.","skillDuration":0,"skillPreparationTime":90,"skillSPCost":200},"postEvo":{"skillName":"Wall Sacrifice (II)","skillDescription":"Greatly increases M.DEF of all surviving allies in the vanguard.","skillDuration":0,"skillPreparationTime":80,"skillSPCost":200}},"pve":{"skillName":"Wall Sacrifice (II)","skillDescription":"Greatly increases M.DEF of surviving allies.","skillDuration":0,"skillPreparationTime":25,"skillSPCost":50}}},{"name":"Karkinos","shortName":"Karkinos","attribute":1,"mstId":1929,"resourceName":"1929","evolvedMstId":1930,"evolvedResourceName":"1930","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Blessed Armor (II)","skillDescription":"Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":0},"postEvo":{"skillName":"Blessed Armor (III)","skillDescription":"Massively increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":50,"skillSPCost":0}},"pve":{"skillName":"Blessed Armor (III)","skillDescription":"Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":0}}},{"name":"Disembodied Emil","shortName":"Disembodied Emil","attribute":1,"mstId":2218,"resourceName":"2218","evolvedMstId":2219,"evolvedResourceName":"2219","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"False Blade (II)","skillDescription":"Greatly increases P.ATK of surviving allies in the vanguard.","skillDuration":0,"skillPreparationTime":80,"skillSPCost":200},"postEvo":{"skillName":"False Blade (III)","skillDescription":"Massively increases P.ATK of surviving allies in the vanguard.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200}},"pve":{"skillName":"False Blade (III)","skillDescription":"Massively increases P.ATK of surviving allies.","skillDuration":0,"skillPreparationTime":25,"skillSPCost":50}}},{"name":"Shadowlord","shortName":"Shadowlord","attribute":2,"mstId":2975,"resourceName":"2975","evolvedMstId":2976,"evolvedResourceName":"2976","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"For Whom The Bell Splashes (I)","skillDescription":"Increases the effectiveness of water weapon skills, but also increases enemy wind damage.","skillDuration":80,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"For Whom The Bell Splashes (II)","skillDescription":"Greatly increases the effectiveness of water weapon skills, but also increases enemy wind damage.","skillDuration":90,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"For Whom The Bell Splashes (II)","skillDescription":"Greatly increases the effectiveness of water weapon skills, but also increases enemy wind damage.","skillDuration":20,"skillPreparationTime":10,"skillSPCost":50}}},{"name":"Girl","shortName":"Girl","attribute":2,"mstId":2977,"resourceName":"2977","evolvedMstId":2978,"evolvedResourceName":"2978","rarity":6,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Song of Betrayal (I)","skillDescription":"Increases P.ATK and M.ATK of surviving allies in the front row.\\nIf there is an ATK debuff effective, effect will be increased according to the reduction.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Song of Betrayal (II)","skillDescription":"Greatly increases P.ATK and M.ATK of surviving allies in the vanguard.\\nIf there is an ATK debuff effective, effect will be increased according to the reduction.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Song of Betrayal (II)","skillDescription":"Greatly increases P.ATK and M.ATK of surviving allies.\\nIf there is an ATK debuff effective, effect will be increased according to the reduction.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Swift Soldier","shortName":"Swift Soldier","attribute":2,"mstId":2989,"resourceName":"2989","evolvedMstId":2990,"evolvedResourceName":"2990","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Armor of Lamentation (I)","skillDescription":"Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":70,"skillSPCost":200},"postEvo":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":60,"skillSPCost":200}},"pve":{"skillName":"Armor of Lamentation (II)","skillDescription":"Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.","skillDuration":0,"skillPreparationTime":20,"skillSPCost":50}}},{"name":"Flying Magician","shortName":"Flying Magician","attribute":2,"mstId":2991,"resourceName":"2991","evolvedMstId":2992,"evolvedResourceName":"2992","rarity":5,"isEvolvable":true,"skill":{"gvg":{"preEvo":{"skillName":"Tidal Fairy Master (I)","skillDescription":"Reduces the SP cost of ally water skills.","skillDuration":60,"skillPreparationTime":60,"skillSPCost":200},"postEvo":{"skillName":"Tidal Fairy Master (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":70,"skillPreparationTime":50,"skillSPCost":200}},"pve":{"skillName":"Tidal Fairy Master (II)","skillDescription":"Greatly reduces the SP cost of ally water skills.","skillDuration":18,"skillPreparationTime":8,"skillSPCost":50}}}]
+[
+  {
+    "name": "Hound (Fire)",
+    "shortName": "Hound (Fire)",
+    "attribute": 1,
+    "mstId": 448,
+    "resourceName": "0448",
+    "searchString": [
+      "Hound",
+      "Fire"
+    ],
+    "evolvedMstId": 449,
+    "evolvedResourceName": "0449",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (I)",
+          "skillDescription": "Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hound (Water)",
+    "shortName": "Hound (Water)",
+    "attribute": 2,
+    "mstId": 450,
+    "resourceName": "0450",
+    "searchString": [
+      "Hound",
+      "Water"
+    ],
+    "evolvedMstId": 451,
+    "evolvedResourceName": "0451",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (I)",
+          "skillDescription": "Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hound (Wind)",
+    "shortName": "Hound (Wind)",
+    "attribute": 3,
+    "mstId": 452,
+    "resourceName": "0452",
+    "searchString": [
+      "Hound",
+      "Wind"
+    ],
+    "evolvedMstId": 453,
+    "evolvedResourceName": "0453",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (I)",
+          "skillDescription": "Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Hound (Fire)",
+    "shortName": "Hateful Hound (Fire)",
+    "attribute": 1,
+    "mstId": 454,
+    "resourceName": "0454",
+    "searchString": [
+      "Hateful",
+      "Hound",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Hound (Water)",
+    "shortName": "Hateful Hound (Water",
+    "attribute": 2,
+    "mstId": 455,
+    "resourceName": "0455",
+    "searchString": [
+      "Hateful",
+      "Hound",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Hound (Wind)",
+    "shortName": "Hateful Hound (Wind)",
+    "attribute": 3,
+    "mstId": 456,
+    "resourceName": "0456",
+    "searchString": [
+      "Hateful",
+      "Hound",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Ugallu",
+    "shortName": "Ugallu",
+    "attribute": 1,
+    "mstId": 457,
+    "resourceName": "0457",
+    "searchString": [
+      "Ugallu"
+    ],
+    "evolvedMstId": 458,
+    "evolvedResourceName": "0458",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Combustive Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Combustive Blessing (III)",
+          "skillDescription": "Massively increases the effectiveness of ally fire skills.",
+          "skillDuration": 120,
+          "skillPreparationTime": 80,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Combustive Blessing (III)",
+        "skillDescription": "Massively increases the effectiveness of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Clock Rabbit",
+    "shortName": "Clock Rabbit",
+    "attribute": 1,
+    "mstId": 459,
+    "resourceName": "0459",
+    "searchString": [
+      "Clock",
+      "Rabbit"
+    ],
+    "evolvedMstId": 460,
+    "evolvedResourceName": "0460",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Infernal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally fire skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Infernal Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally fire skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Infernal Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Plant (Fire)",
+    "shortName": "Plant (Fire)",
+    "attribute": 1,
+    "mstId": 461,
+    "resourceName": "0461",
+    "searchString": [
+      "Plant",
+      "Fire"
+    ],
+    "evolvedMstId": 462,
+    "evolvedResourceName": "0462",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (I)",
+          "skillDescription": "Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Plant (Water)",
+    "shortName": "Plant (Water)",
+    "attribute": 2,
+    "mstId": 463,
+    "resourceName": "0463",
+    "searchString": [
+      "Plant",
+      "Water"
+    ],
+    "evolvedMstId": 464,
+    "evolvedResourceName": "0464",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (I)",
+          "skillDescription": "Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Plant (Wind)",
+    "shortName": "Plant (Wind)",
+    "attribute": 3,
+    "mstId": 465,
+    "resourceName": "0465",
+    "searchString": [
+      "Plant",
+      "Wind"
+    ],
+    "evolvedMstId": 466,
+    "evolvedResourceName": "0466",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (I)",
+          "skillDescription": "Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Plant (Fire)",
+    "shortName": "Hateful Plant (Fire)",
+    "attribute": 1,
+    "mstId": 467,
+    "resourceName": "0467",
+    "searchString": [
+      "Hateful",
+      "Plant",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Plant (Water)",
+    "shortName": "Hateful Plant (Water",
+    "attribute": 2,
+    "mstId": 468,
+    "resourceName": "0468",
+    "searchString": [
+      "Hateful",
+      "Plant",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Plant (Wind)",
+    "shortName": "Hateful Plant (Wind)",
+    "attribute": 3,
+    "mstId": 469,
+    "resourceName": "0469",
+    "searchString": [
+      "Hateful",
+      "Plant",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Golem (Fire)",
+    "shortName": "Golem (Fire)",
+    "attribute": 1,
+    "mstId": 470,
+    "resourceName": "0470",
+    "searchString": [
+      "Golem",
+      "Fire"
+    ],
+    "evolvedMstId": 471,
+    "evolvedResourceName": "0471",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (I)",
+          "skillDescription": "Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Golem (Water)",
+    "shortName": "Golem (Water)",
+    "attribute": 2,
+    "mstId": 472,
+    "resourceName": "0472",
+    "searchString": [
+      "Golem",
+      "Water"
+    ],
+    "evolvedMstId": 473,
+    "evolvedResourceName": "0473",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (I)",
+          "skillDescription": "Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Golem (Wind)",
+    "shortName": "Golem (Wind)",
+    "attribute": 3,
+    "mstId": 474,
+    "resourceName": "0474",
+    "searchString": [
+      "Golem",
+      "Wind"
+    ],
+    "evolvedMstId": 475,
+    "evolvedResourceName": "0475",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (I)",
+          "skillDescription": "Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Golem (Fire)",
+    "shortName": "Hateful Golem (Fire)",
+    "attribute": 1,
+    "mstId": 476,
+    "resourceName": "0476",
+    "searchString": [
+      "Hateful",
+      "Golem",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Golem (Water)",
+    "shortName": "Hateful Golem (Water",
+    "attribute": 2,
+    "mstId": 477,
+    "resourceName": "0477",
+    "searchString": [
+      "Hateful",
+      "Golem",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Golem (Wind)",
+    "shortName": "Hateful Golem (Wind)",
+    "attribute": 3,
+    "mstId": 478,
+    "resourceName": "0478",
+    "searchString": [
+      "Hateful",
+      "Golem",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Freeze Golem",
+    "shortName": "Freeze Golem",
+    "attribute": 2,
+    "mstId": 479,
+    "resourceName": "0479",
+    "searchString": [
+      "Freeze",
+      "Golem"
+    ],
+    "evolvedMstId": 480,
+    "evolvedResourceName": "0480",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Aqueous Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Aqueous Blessing (III)",
+          "skillDescription": "Massively increases the effectiveness of ally water skills.",
+          "skillDuration": 120,
+          "skillPreparationTime": 80,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Aqueous Blessing (III)",
+        "skillDescription": "Massively increases the effectiveness of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Bird (Fire)",
+    "shortName": "Bird (Fire)",
+    "attribute": 1,
+    "mstId": 483,
+    "resourceName": "0483",
+    "searchString": [
+      "Bird",
+      "Fire"
+    ],
+    "evolvedMstId": 484,
+    "evolvedResourceName": "0484",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Begrudging Blade (I)",
+          "skillDescription": "Reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Begrudging Blade (II)",
+          "skillDescription": "Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Begrudging Blade (II)",
+        "skillDescription": "Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Bird (Water)",
+    "shortName": "Bird (Water)",
+    "attribute": 2,
+    "mstId": 485,
+    "resourceName": "0485",
+    "searchString": [
+      "Bird",
+      "Water"
+    ],
+    "evolvedMstId": 486,
+    "evolvedResourceName": "0486",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Begrudging Blade (I)",
+          "skillDescription": "Reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Begrudging Blade (II)",
+          "skillDescription": "Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Begrudging Blade (II)",
+        "skillDescription": "Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Bird (Wind)",
+    "shortName": "Bird (Wind)",
+    "attribute": 3,
+    "mstId": 487,
+    "resourceName": "0487",
+    "searchString": [
+      "Bird",
+      "Wind"
+    ],
+    "evolvedMstId": 488,
+    "evolvedResourceName": "0488",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Begrudging Blade (I)",
+          "skillDescription": "Reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Begrudging Blade (II)",
+          "skillDescription": "Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Begrudging Blade (II)",
+        "skillDescription": "Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Bird (Fire)",
+    "shortName": "Hateful Bird (Fire)",
+    "attribute": 1,
+    "mstId": 489,
+    "resourceName": "0489",
+    "searchString": [
+      "Hateful",
+      "Bird",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Begrudging Blade (II)",
+          "skillDescription": "Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Begrudging Blade (II)",
+        "skillDescription": "Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Bird (Water)",
+    "shortName": "Hateful Bird (Water)",
+    "attribute": 2,
+    "mstId": 490,
+    "resourceName": "0490",
+    "searchString": [
+      "Hateful",
+      "Bird",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Begrudging Blade (II)",
+          "skillDescription": "Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Begrudging Blade (II)",
+        "skillDescription": "Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Bird (Wind)",
+    "shortName": "Hateful Bird (Wind)",
+    "attribute": 3,
+    "mstId": 491,
+    "resourceName": "0491",
+    "searchString": [
+      "Hateful",
+      "Bird",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Begrudging Blade (II)",
+          "skillDescription": "Greatly reduces ATK of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Begrudging Blade (II)",
+        "skillDescription": "Greatly reduces ATK of all enemies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Ghost (Fire)",
+    "shortName": "Ghost (Fire)",
+    "attribute": 1,
+    "mstId": 494,
+    "resourceName": "0494",
+    "searchString": [
+      "Ghost",
+      "Fire"
+    ],
+    "evolvedMstId": 495,
+    "evolvedResourceName": "0495",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Infernal Fairy Magic (I)",
+          "skillDescription": "Reduces the SP cost of ally fire skills.",
+          "skillDuration": 80,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Infernal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally fire skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Infernal Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Ghost (Water)",
+    "shortName": "Ghost (Water)",
+    "attribute": 2,
+    "mstId": 496,
+    "resourceName": "0496",
+    "searchString": [
+      "Ghost",
+      "Water"
+    ],
+    "evolvedMstId": 497,
+    "evolvedResourceName": "0497",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Tidal Fairy Magic (I)",
+          "skillDescription": "Reduces the SP cost of ally water skills.",
+          "skillDuration": 80,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Tidal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Tidal Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Ghost (Wind)",
+    "shortName": "Ghost (Wind)",
+    "attribute": 3,
+    "mstId": 498,
+    "resourceName": "0498",
+    "searchString": [
+      "Ghost",
+      "Wind"
+    ],
+    "evolvedMstId": 499,
+    "evolvedResourceName": "0499",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Zephyr Fairy Magic (I)",
+          "skillDescription": "Reduces the SP cost of ally wind skills.",
+          "skillDuration": 80,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Zephyr Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Zephyr Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Ghost (Fire)",
+    "shortName": "Hateful Ghost (Fire)",
+    "attribute": 1,
+    "mstId": 500,
+    "resourceName": "0500",
+    "searchString": [
+      "Hateful",
+      "Ghost",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Infernal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally fire skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Infernal Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Ghost (Water)",
+    "shortName": "Hateful Ghost (Water",
+    "attribute": 2,
+    "mstId": 501,
+    "resourceName": "0501",
+    "searchString": [
+      "Hateful",
+      "Ghost",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Tidal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Tidal Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Ghost (Wind)",
+    "shortName": "Hateful Ghost (Wind)",
+    "attribute": 3,
+    "mstId": 502,
+    "resourceName": "0502",
+    "searchString": [
+      "Hateful",
+      "Ghost",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Zephyr Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Zephyr Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "強化ゴースト(剣)",
+    "shortName": "強化ゴースト(剣)",
+    "attribute": 0,
+    "mstId": 503,
+    "resourceName": "0503",
+    "searchString": [
+      ""
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (I)",
+          "skillDescription": "Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (I)",
+        "skillDescription": "Increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "強化ハイゴースト(剣)",
+    "shortName": "強化ハイゴースト(剣)",
+    "attribute": 0,
+    "mstId": 504,
+    "resourceName": "0504",
+    "searchString": [
+      ""
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "強化ゴースト(盾)",
+    "shortName": "強化ゴースト(盾)",
+    "attribute": 0,
+    "mstId": 505,
+    "resourceName": "0505",
+    "searchString": [
+      ""
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (I)",
+          "skillDescription": "Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (I)",
+        "skillDescription": "Increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "強化ハイゴースト(盾)",
+    "shortName": "強化ハイゴースト(盾)",
+    "attribute": 0,
+    "mstId": 506,
+    "resourceName": "0506",
+    "searchString": [
+      ""
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Lizard (Fire)",
+    "shortName": "Lizard (Fire)",
+    "attribute": 1,
+    "mstId": 507,
+    "resourceName": "0507",
+    "searchString": [
+      "Lizard",
+      "Fire"
+    ],
+    "evolvedMstId": 508,
+    "evolvedResourceName": "0508",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Combustive Blessing (I)",
+          "skillDescription": "Increases the effectiveness of ally fire skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 100,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Combustive Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Combustive Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Lizard (Water)",
+    "shortName": "Lizard (Water)",
+    "attribute": 2,
+    "mstId": 509,
+    "resourceName": "0509",
+    "searchString": [
+      "Lizard",
+      "Water"
+    ],
+    "evolvedMstId": 510,
+    "evolvedResourceName": "0510",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Aqueous Blessing (I)",
+          "skillDescription": "Increases the effectiveness of ally water skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 100,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Aqueous Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Aqueous Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Lizard (Wind)",
+    "shortName": "Lizard (Wind)",
+    "attribute": 3,
+    "mstId": 511,
+    "resourceName": "0511",
+    "searchString": [
+      "Lizard",
+      "Wind"
+    ],
+    "evolvedMstId": 512,
+    "evolvedResourceName": "0512",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Gale Blessing (I)",
+          "skillDescription": "Increases the effectiveness of ally wind skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 100,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Gale Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Gale Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Lizard (Fire)",
+    "shortName": "Hateful Lizard (Fire",
+    "attribute": 1,
+    "mstId": 513,
+    "resourceName": "0513",
+    "searchString": [
+      "Hateful",
+      "Lizard",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Combustive Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Combustive Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Lizard (Water)",
+    "shortName": "Hateful Lizard (Wate",
+    "attribute": 2,
+    "mstId": 514,
+    "resourceName": "0514",
+    "searchString": [
+      "Hateful",
+      "Lizard",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Aqueous Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Aqueous Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Lizard (Wind)",
+    "shortName": "Hateful Lizard (Wind",
+    "attribute": 3,
+    "mstId": 515,
+    "resourceName": "0515",
+    "searchString": [
+      "Hateful",
+      "Lizard",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Gale Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Gale Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Lindwyrm",
+    "shortName": "Lindwyrm",
+    "attribute": 3,
+    "mstId": 516,
+    "resourceName": "0516",
+    "searchString": [
+      "Lindwyrm"
+    ],
+    "evolvedMstId": 517,
+    "evolvedResourceName": "0517",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Gale Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Gale Blessing (III)",
+          "skillDescription": "Massively increases the effectiveness of ally wind skills.",
+          "skillDuration": 120,
+          "skillPreparationTime": 80,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Gale Blessing (III)",
+        "skillDescription": "Massively increases the effectiveness of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Orc (Fire)",
+    "shortName": "Orc (Fire)",
+    "attribute": 1,
+    "mstId": 518,
+    "resourceName": "0518",
+    "searchString": [
+      "Orc",
+      "Fire"
+    ],
+    "evolvedMstId": 519,
+    "evolvedResourceName": "0519",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blazing Wildfire (II)",
+        "skillDescription": "Greatly increases fire damage against wind enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Orc (Water)",
+    "shortName": "Orc (Water)",
+    "attribute": 2,
+    "mstId": 520,
+    "resourceName": "0520",
+    "searchString": [
+      "Orc",
+      "Water"
+    ],
+    "evolvedMstId": 521,
+    "evolvedResourceName": "0521",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (II)",
+        "skillDescription": "Greatly increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Orc (Wind)",
+    "shortName": "Orc (Wind)",
+    "attribute": 3,
+    "mstId": 522,
+    "resourceName": "0522",
+    "searchString": [
+      "Orc",
+      "Wind"
+    ],
+    "evolvedMstId": 523,
+    "evolvedResourceName": "0523",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Abyssal Whirlwind (II)",
+        "skillDescription": "Greatly increases wind damage against water enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Orc (Fire)",
+    "shortName": "Hateful Orc (Fire)",
+    "attribute": 1,
+    "mstId": 524,
+    "resourceName": "0524",
+    "searchString": [
+      "Hateful",
+      "Orc",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blazing Wildfire (II)",
+        "skillDescription": "Greatly increases fire damage against wind enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Orc (Water)",
+    "shortName": "Hateful Orc (Water)",
+    "attribute": 2,
+    "mstId": 525,
+    "resourceName": "0525",
+    "searchString": [
+      "Hateful",
+      "Orc",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (II)",
+        "skillDescription": "Greatly increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Orc (Wind)",
+    "shortName": "Hateful Orc (Wind)",
+    "attribute": 3,
+    "mstId": 526,
+    "resourceName": "0526",
+    "searchString": [
+      "Hateful",
+      "Orc",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Abyssal Whirlwind (II)",
+        "skillDescription": "Greatly increases wind damage against water enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Spider (Fire)",
+    "shortName": "Spider (Fire)",
+    "attribute": 1,
+    "mstId": 527,
+    "resourceName": "0527",
+    "searchString": [
+      "Spider",
+      "Fire"
+    ],
+    "evolvedMstId": 528,
+    "evolvedResourceName": "0528",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blazing Wildfire (II)",
+        "skillDescription": "Greatly increases fire damage against wind enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Spider (Water)",
+    "shortName": "Spider (Water)",
+    "attribute": 2,
+    "mstId": 529,
+    "resourceName": "0529",
+    "searchString": [
+      "Spider",
+      "Water"
+    ],
+    "evolvedMstId": 530,
+    "evolvedResourceName": "0530",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (II)",
+        "skillDescription": "Greatly increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Spider (Wind)",
+    "shortName": "Spider (Wind)",
+    "attribute": 3,
+    "mstId": 531,
+    "resourceName": "0531",
+    "searchString": [
+      "Spider",
+      "Wind"
+    ],
+    "evolvedMstId": 532,
+    "evolvedResourceName": "0532",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Abyssal Whirlwind (II)",
+        "skillDescription": "Greatly increases wind damage against water enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Spider (Fire)",
+    "shortName": "Hateful Spider (Fire",
+    "attribute": 1,
+    "mstId": 533,
+    "resourceName": "0533",
+    "searchString": [
+      "Hateful",
+      "Spider",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blazing Wildfire (II)",
+        "skillDescription": "Greatly increases fire damage against wind enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Spider (Water)",
+    "shortName": "Hateful Spider (Wate",
+    "attribute": 2,
+    "mstId": 534,
+    "resourceName": "0534",
+    "searchString": [
+      "Hateful",
+      "Spider",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (II)",
+        "skillDescription": "Greatly increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Spider (Wind)",
+    "shortName": "Hateful Spider (Wind",
+    "attribute": 3,
+    "mstId": 535,
+    "resourceName": "0535",
+    "searchString": [
+      "Hateful",
+      "Spider",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Abyssal Whirlwind (II)",
+        "skillDescription": "Greatly increases wind damage against water enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Absorbent Spider",
+    "shortName": "Absorbent Spider",
+    "attribute": 2,
+    "mstId": 536,
+    "resourceName": "0536",
+    "searchString": [
+      "Absorbent",
+      "Spider"
+    ],
+    "evolvedMstId": 537,
+    "evolvedResourceName": "0537",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (I)",
+          "skillDescription": "Note: Increases the effectiveness of all vanguard ally attack skills.\\nEffective only when your lifeforce is lower than the enemy's during a combo chance.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (II)",
+        "skillDescription": "Greatly increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Shield Wisp (Fire)",
+    "shortName": "Shield Wisp (Fire)",
+    "attribute": 1,
+    "mstId": 538,
+    "resourceName": "0538",
+    "searchString": [
+      "Shield",
+      "Wisp",
+      "Fire"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Infernal Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally fire skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Infernal Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Shield Wisp (Water)",
+    "shortName": "Shield Wisp (Water)",
+    "attribute": 2,
+    "mstId": 539,
+    "resourceName": "0539",
+    "searchString": [
+      "Shield",
+      "Wisp",
+      "Water"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Tidal Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally water skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Tidal Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Shield Wisp (Wind)",
+    "shortName": "Shield Wisp (Wind)",
+    "attribute": 3,
+    "mstId": 540,
+    "resourceName": "0540",
+    "searchString": [
+      "Shield",
+      "Wisp",
+      "Wind"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Zephyr Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally wind skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Zephyr Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Snake (Fire)",
+    "shortName": "Snake (Fire)",
+    "attribute": 1,
+    "mstId": 541,
+    "resourceName": "0541",
+    "searchString": [
+      "Snake",
+      "Fire"
+    ],
+    "evolvedMstId": 542,
+    "evolvedResourceName": "0542",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Engulfing Shout (I)",
+          "skillDescription": "Reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 80,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Engulfing Shout (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Engulfing Shout (II)",
+        "skillDescription": "Greatly reduces damage from enemy fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Snake (Water)",
+    "shortName": "Snake (Water)",
+    "attribute": 2,
+    "mstId": 543,
+    "resourceName": "0543",
+    "searchString": [
+      "Snake",
+      "Water"
+    ],
+    "evolvedMstId": 544,
+    "evolvedResourceName": "0544",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Cry of the Damned (I)",
+          "skillDescription": "Reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 80,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Cry of the Damned (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Cry of the Damned (II)",
+        "skillDescription": "Greatly reduces damage from enemy water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Snake (Wind)",
+    "shortName": "Snake (Wind)",
+    "attribute": 3,
+    "mstId": 545,
+    "resourceName": "0545",
+    "searchString": [
+      "Snake",
+      "Wind"
+    ],
+    "evolvedMstId": 546,
+    "evolvedResourceName": "0546",
+    "rarity": 4,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Soothing Command (I)",
+          "skillDescription": "Reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 80,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Soothing Command (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Soothing Command (II)",
+        "skillDescription": "Greatly reduces damage from enemy wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Snake (Fire)",
+    "shortName": "Hateful Snake (Fire)",
+    "attribute": 1,
+    "mstId": 547,
+    "resourceName": "0547",
+    "searchString": [
+      "Hateful",
+      "Snake",
+      "Fire"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Engulfing Shout (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Engulfing Shout (II)",
+        "skillDescription": "Greatly reduces damage from enemy fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Snake (Water)",
+    "shortName": "Hateful Snake (Water",
+    "attribute": 2,
+    "mstId": 548,
+    "resourceName": "0548",
+    "searchString": [
+      "Hateful",
+      "Snake",
+      "Water"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Cry of the Damned (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Cry of the Damned (II)",
+        "skillDescription": "Greatly reduces damage from enemy water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Hateful Snake (Wind)",
+    "shortName": "Hateful Snake (Wind)",
+    "attribute": 3,
+    "mstId": 549,
+    "resourceName": "0549",
+    "searchString": [
+      "Hateful",
+      "Snake",
+      "Wind"
+    ],
+    "rarity": 3,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Soothing Command (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Soothing Command (II)",
+        "skillDescription": "Greatly reduces damage from enemy wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Jormungandr",
+    "shortName": "Jörmungandr",
+    "attribute": 2,
+    "mstId": 550,
+    "resourceName": "0550",
+    "searchString": [
+      "Jormungandr"
+    ],
+    "evolvedMstId": 551,
+    "evolvedResourceName": "0551",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Uplifting Chant (II)",
+          "skillDescription": "Greatly increases the activation rate of ally support skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Uplifting Chant (III)",
+          "skillDescription": "Massively increases the activation rate of ally support skills.",
+          "skillDuration": 120,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (III)",
+        "skillDescription": "Massively increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Drizella, the Jealous Serpent",
+    "shortName": "Drizella, the Jealou",
+    "attribute": 2,
+    "mstId": 553,
+    "resourceName": "0553",
+    "searchString": [
+      "Drizella",
+      "the",
+      "Jealous",
+      "Serpent"
+    ],
+    "evolvedMstId": 554,
+    "evolvedResourceName": "0554",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Tidal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Tidal Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally water skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Tidal Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Gluttonous Eris",
+    "shortName": "Gluttonous Eris",
+    "attribute": 3,
+    "mstId": 557,
+    "resourceName": "0557",
+    "searchString": [
+      "Gluttonous",
+      "Eris"
+    ],
+    "evolvedMstId": 558,
+    "evolvedResourceName": "0558",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Fairy King Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally skills of any affinity.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Fairy King Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally skills of any affinity.",
+          "skillDuration": 120,
+          "skillPreparationTime": 60,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Fairy King Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally skills of any affinity.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Bondage)",
+    "shortName": "Nightmare (Bondage)",
+    "attribute": 2,
+    "mstId": 559,
+    "resourceName": "0559",
+    "searchString": [
+      "Nightmare",
+      "Bondage"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Aqueous Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Aqueous Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Justice)",
+    "shortName": "Nightmare (Justice)",
+    "attribute": 2,
+    "mstId": 560,
+    "resourceName": "0560",
+    "searchString": [
+      "Nightmare",
+      "Justice"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Dark Tsunami (II)",
+        "skillDescription": "Greatly increases water damage against fire enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Brutality)",
+    "shortName": "Nightmare (Brutality",
+    "attribute": 1,
+    "mstId": 561,
+    "resourceName": "0561",
+    "searchString": [
+      "Nightmare",
+      "Brutality"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Combustive Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Combustive Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Depravity)",
+    "shortName": "Nightmare (Depravity",
+    "attribute": 1,
+    "mstId": 562,
+    "resourceName": "0562",
+    "searchString": [
+      "Nightmare",
+      "Depravity"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Engulfing Shout (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Engulfing Shout (II)",
+        "skillDescription": "Greatly reduces damage from enemy fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Depravity)",
+    "shortName": "Nightmare (N/A)",
+    "attribute": 1,
+    "mstId": 563,
+    "resourceName": "0563",
+    "searchString": [
+      "Nightmare",
+      "Depravity"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Engulfing Shout (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Engulfing Shout (II)",
+        "skillDescription": "Greatly reduces damage from enemy fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Dependence)",
+    "shortName": "Nightmare (Dependenc",
+    "attribute": 3,
+    "mstId": 564,
+    "resourceName": "0564",
+    "searchString": [
+      "Nightmare",
+      "Dependence"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Gale Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Gale Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Delusion)",
+    "shortName": "Nightmare (Delusion)",
+    "attribute": 3,
+    "mstId": 567,
+    "resourceName": "0567",
+    "searchString": [
+      "Nightmare",
+      "Delusion"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Soothing Command (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Soothing Command (II)",
+        "skillDescription": "Greatly reduces damage from enemy wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Delusion)",
+    "shortName": "Nightmare (N/A)",
+    "attribute": 3,
+    "mstId": 568,
+    "resourceName": "0568",
+    "searchString": [
+      "Nightmare",
+      "Delusion"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Soothing Command (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Soothing Command (II)",
+        "skillDescription": "Greatly reduces damage from enemy wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Languor)",
+    "shortName": "Nightmare (Languor)",
+    "attribute": 3,
+    "mstId": 569,
+    "resourceName": "0569",
+    "searchString": [
+      "Nightmare",
+      "Languor"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Zephyr Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Zephyr Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Languor)",
+    "shortName": "Nightmare (N/A)",
+    "attribute": 3,
+    "mstId": 570,
+    "resourceName": "0570",
+    "searchString": [
+      "Nightmare",
+      "Languor"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Zephyr Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Zephyr Fairy Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally wind skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Masochism)",
+    "shortName": "Nightmare (Masochism",
+    "attribute": 2,
+    "mstId": 571,
+    "resourceName": "0571",
+    "searchString": [
+      "Nightmare",
+      "Masochism"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Cry of the Damned (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Cry of the Damned (II)",
+        "skillDescription": "Greatly reduces damage from enemy water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Nightmare (Masochism)",
+    "shortName": "Nightmare (N/A)",
+    "attribute": 2,
+    "mstId": 572,
+    "resourceName": "0572",
+    "searchString": [
+      "Nightmare",
+      "Masochism"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Cry of the Damned (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Cry of the Damned (II)",
+        "skillDescription": "Greatly reduces damage from enemy water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Fina, the Loyal Falsehood",
+    "shortName": "Fina, the Loyal Fals",
+    "attribute": 2,
+    "mstId": 583,
+    "resourceName": "0583",
+    "searchString": [
+      "Fina",
+      "the",
+      "Loyal",
+      "Falsehood"
+    ],
+    "evolvedMstId": 584,
+    "evolvedResourceName": "0584",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Song of Camaraderie (I)",
+          "skillDescription": "Increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Song of Camaraderie (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Song of Camaraderie (II)",
+        "skillDescription": "Greatly increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 15,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Digitalis, the Undertaker",
+    "shortName": "Digitalis, the Under",
+    "attribute": 2,
+    "mstId": 639,
+    "resourceName": "0639",
+    "searchString": [
+      "Digitalis",
+      "the",
+      "Undertaker"
+    ],
+    "evolvedMstId": 640,
+    "evolvedResourceName": "0640",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Cry of the Damned (II)",
+          "skillDescription": "Greatly reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Cry of the Damned (III)",
+          "skillDescription": "Massively reduces the effectiveness of enemy water skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 100,
+          "skillPreparationTime": 50,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Cry of the Damned (III)",
+        "skillDescription": "Massively reduces damage from enemy water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Solitary Black Rabbit",
+    "shortName": "Solitary Black Rabbi",
+    "attribute": 2,
+    "mstId": 663,
+    "resourceName": "0663",
+    "searchString": [
+      "Solitary",
+      "Black",
+      "Rabbit"
+    ],
+    "evolvedMstId": 664,
+    "evolvedResourceName": "0664",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Victorious Melody (III)",
+          "skillDescription": "Massively increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (III)",
+        "skillDescription": "Massively increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Fafnir",
+    "shortName": "Fafnir",
+    "attribute": 1,
+    "mstId": 665,
+    "resourceName": "0665",
+    "searchString": [
+      "Fafnir"
+    ],
+    "evolvedMstId": 666,
+    "evolvedResourceName": "0666",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Combustive Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Combustive Blessing (III)",
+          "skillDescription": "Massively increases the effectiveness of ally fire skills.",
+          "skillDuration": 120,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Combustive Blessing (III)",
+        "skillDescription": "Massively increases the effectiveness of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Tricky Wisp",
+    "shortName": "Tricky Wisp",
+    "attribute": 3,
+    "mstId": 667,
+    "resourceName": "0667",
+    "searchString": [
+      "Tricky",
+      "Wisp"
+    ],
+    "evolvedMstId": 668,
+    "evolvedResourceName": "0668",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Enchanted Armor (I)",
+          "skillDescription": "Increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Enchanted Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Enchanted Armor (II)",
+        "skillDescription": "Greatly increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 15,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Puppet Dragon",
+    "shortName": "Puppet Dragon",
+    "attribute": 2,
+    "mstId": 669,
+    "resourceName": "0669",
+    "searchString": [
+      "Puppet",
+      "Dragon"
+    ],
+    "evolvedMstId": 670,
+    "evolvedResourceName": "0670",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Tidal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Tidal Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally water skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Tidal Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally water skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Noin, Sandstorm's Mandate",
+    "shortName": "Noin, Sandstorm's Ma",
+    "attribute": 1,
+    "mstId": 743,
+    "resourceName": "0743",
+    "searchString": [
+      "Noin",
+      "Sandstorms",
+      "Mandate"
+    ],
+    "evolvedMstId": 744,
+    "evolvedResourceName": "0744",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Hindering Wail (II)",
+          "skillDescription": "Greatly reduces the activation rate of enemy support skills.\\nThis summon skill ends when there are less than 2 minutes left in the Colosseum.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Hindering Wail (III)",
+          "skillDescription": "Massively reduces the activation rate of enemy support skills.\\nThis summon skill ends when there are less than 2 minutes left in the Colosseum.",
+          "skillDuration": 100,
+          "skillPreparationTime": 50,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Blazing Wildfire (III)",
+        "skillDescription": "Massively increases fire damage against wind enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Phoenix",
+    "shortName": "Phoenix",
+    "attribute": 1,
+    "mstId": 769,
+    "resourceName": "0769",
+    "searchString": [
+      "Phoenix"
+    ],
+    "evolvedMstId": 770,
+    "evolvedResourceName": "0770",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Combustive Blessing (I)",
+          "skillDescription": "Increases the effectiveness of ally fire skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 100,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Combustive Blessing (II)",
+          "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+          "skillDuration": 110,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Combustive Blessing (II)",
+        "skillDescription": "Greatly increases the effectiveness of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Esse, the Investigator",
+    "shortName": "Esse, the Investigat",
+    "attribute": 1,
+    "mstId": 771,
+    "resourceName": "0771",
+    "searchString": [
+      "Esse",
+      "the",
+      "Investigator"
+    ],
+    "evolvedMstId": 772,
+    "evolvedResourceName": "0772",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Infernal Fairy Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally fire skills.",
+          "skillDuration": 90,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Infernal Fairy Magic (III)",
+          "skillDescription": "Massively reduces the SP cost of ally fire skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Infernal Fairy Magic (III)",
+        "skillDescription": "Massively reduces the SP cost of ally fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Ogre",
+    "shortName": "Ogre",
+    "attribute": 3,
+    "mstId": 773,
+    "resourceName": "0773",
+    "searchString": [
+      "Ogre"
+    ],
+    "evolvedMstId": 774,
+    "evolvedResourceName": "0774",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Defiant Roar (II)",
+          "skillDescription": "Greatly increases the effectiveness of all vanguard ally attack skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Defiant Roar (III)",
+          "skillDescription": "Massively increases the effectiveness of all vanguard ally skills.\\nEffective only when at a disadvantage during a combo chance.",
+          "skillDuration": 120,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Abyssal Whirlwind (III)",
+        "skillDescription": "Massively increases wind damage against water enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Simone",
+    "shortName": "Simone",
+    "attribute": 1,
+    "mstId": 825,
+    "resourceName": "0825",
+    "searchString": [
+      "Simone"
+    ],
+    "evolvedMstId": 826,
+    "evolvedResourceName": "0826",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Fairy King Magic (I)",
+          "skillDescription": "Reduces the SP cost of all ally skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Fairy King Magic (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally skills of any affinity.",
+          "skillDuration": 110,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Fairy King Magic (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally skills of any affinity.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Machine Lifeform",
+    "shortName": "Machine Lifeform",
+    "attribute": 1,
+    "mstId": 827,
+    "resourceName": "0827",
+    "searchString": [
+      "Machine",
+      "Lifeform"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Engulfing Shout (I)",
+          "skillDescription": "Reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+          "skillDuration": 80,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Engulfing Shout (I)",
+        "skillDescription": "Reduces damage from enemy fire skills.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Machine Lifeform (Gun)",
+    "shortName": "Machine Lifeform (Gu",
+    "attribute": 1,
+    "mstId": 829,
+    "resourceName": "0829",
+    "searchString": [
+      "Machine",
+      "Lifeform",
+      "Gun"
+    ],
+    "rarity": 4,
+    "isEvolvable": false,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Uplifting Chant (I)",
+          "skillDescription": "Increases the activation rate of all ally support skills.",
+          "skillDuration": 100,
+          "skillPreparationTime": 100,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Blazing Wildfire (I)",
+        "skillDescription": "Increases fire damage against wind enemies.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Cecilia, the Crimson Banisher",
+    "shortName": "Cecilia, the Crimson",
+    "attribute": 1,
+    "mstId": 979,
+    "resourceName": "0979",
+    "searchString": [
+      "Cecilia",
+      "the",
+      "Crimson",
+      "Banisher"
+    ],
+    "evolvedMstId": 980,
+    "evolvedResourceName": "0980",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Victorious Melody (II)",
+          "skillDescription": "Greatly increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Victorious Melody (III)",
+          "skillDescription": "Massively increases ATK of all surviving allies in the vanguard.\\nApplies to both P.ATK and M.ATK.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Victorious Melody (III)",
+        "skillDescription": "Massively increases ATK of all surviving allies.\\nApplies to both P.ATK and M.ATK.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Library Wisp",
+    "shortName": "Library Wisp",
+    "attribute": 1,
+    "mstId": 1107,
+    "resourceName": "1107",
+    "searchString": [
+      "Library",
+      "Wisp"
+    ],
+    "evolvedMstId": 1108,
+    "evolvedResourceName": "1108",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Blessed Armor (III)",
+          "skillDescription": "Massively increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (III)",
+        "skillDescription": "Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Lammy",
+    "shortName": "Lammy",
+    "attribute": 2,
+    "mstId": 1915,
+    "resourceName": "1915",
+    "searchString": [
+      "Lammy"
+    ],
+    "evolvedMstId": 1916,
+    "evolvedResourceName": "1916",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Magical Torrent (I)",
+          "skillDescription": "Recover 5% of all ally SP.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Magical Torrent (II)",
+          "skillDescription": "Recover 15% of all ally SP.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Magical Torrent (II)",
+        "skillDescription": "Recover 15% of all ally SP.",
+        "skillDuration": 0,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Sea Snail",
+    "shortName": "Sea Snail",
+    "attribute": 2,
+    "mstId": 1917,
+    "resourceName": "1917",
+    "searchString": [
+      "Sea",
+      "Snail"
+    ],
+    "evolvedMstId": 1918,
+    "evolvedResourceName": "1918",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Wall Sacrifice (I)",
+          "skillDescription": "Increases M.DEF of all surviving allies in the vanguard.",
+          "skillDuration": 0,
+          "skillPreparationTime": 90,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Wall Sacrifice (II)",
+          "skillDescription": "Greatly increases M.DEF of all surviving allies in the vanguard.",
+          "skillDuration": 0,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Wall Sacrifice (II)",
+        "skillDescription": "Greatly increases M.DEF of surviving allies.",
+        "skillDuration": 0,
+        "skillPreparationTime": 25,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Karkinos",
+    "shortName": "Karkinos",
+    "attribute": 1,
+    "mstId": 1929,
+    "resourceName": "1929",
+    "searchString": [
+      "Karkinos"
+    ],
+    "evolvedMstId": 1930,
+    "evolvedResourceName": "1930",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Blessed Armor (II)",
+          "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 0
+        },
+        "postEvo": {
+          "skillName": "Blessed Armor (III)",
+          "skillDescription": "Massively increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 50,
+          "skillSPCost": 0
+        }
+      },
+      "pve": {
+        "skillName": "Blessed Armor (III)",
+        "skillDescription": "Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 0
+      }
+    }
+  },
+  {
+    "name": "Disembodied Emil",
+    "shortName": "Disembodied Emil",
+    "attribute": 1,
+    "mstId": 2218,
+    "resourceName": "2218",
+    "searchString": [
+      "Disembodied",
+      "Emil"
+    ],
+    "evolvedMstId": 2219,
+    "evolvedResourceName": "2219",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "False Blade (II)",
+          "skillDescription": "Greatly increases P.ATK of surviving allies in the vanguard.",
+          "skillDuration": 0,
+          "skillPreparationTime": 80,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "False Blade (III)",
+          "skillDescription": "Massively increases P.ATK of surviving allies in the vanguard.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "False Blade (III)",
+        "skillDescription": "Massively increases P.ATK of surviving allies.",
+        "skillDuration": 0,
+        "skillPreparationTime": 25,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Shadowlord",
+    "shortName": "Shadowlord",
+    "attribute": 2,
+    "mstId": 2975,
+    "resourceName": "2975",
+    "searchString": [
+      "Shadowlord"
+    ],
+    "evolvedMstId": 2976,
+    "evolvedResourceName": "2976",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "For Whom The Bell Splashes (I)",
+          "skillDescription": "Increases the effectiveness of water weapon skills, but also increases enemy wind damage.",
+          "skillDuration": 80,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "For Whom The Bell Splashes (II)",
+          "skillDescription": "Greatly increases the effectiveness of water weapon skills, but also increases enemy wind damage.",
+          "skillDuration": 90,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "For Whom The Bell Splashes (II)",
+        "skillDescription": "Greatly increases the effectiveness of water weapon skills, but also increases enemy wind damage.",
+        "skillDuration": 20,
+        "skillPreparationTime": 10,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Girl",
+    "shortName": "Girl",
+    "attribute": 2,
+    "mstId": 2977,
+    "resourceName": "2977",
+    "searchString": [
+      "Girl"
+    ],
+    "evolvedMstId": 2978,
+    "evolvedResourceName": "2978",
+    "rarity": 6,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Song of Betrayal (I)",
+          "skillDescription": "Increases P.ATK and M.ATK of surviving allies in the front row.\\nIf there is an ATK debuff effective, effect will be increased according to the reduction.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Song of Betrayal (II)",
+          "skillDescription": "Greatly increases P.ATK and M.ATK of surviving allies in the vanguard.\\nIf there is an ATK debuff effective, effect will be increased according to the reduction.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Song of Betrayal (II)",
+        "skillDescription": "Greatly increases P.ATK and M.ATK of surviving allies.\\nIf there is an ATK debuff effective, effect will be increased according to the reduction.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Swift Soldier",
+    "shortName": "Swift Soldier",
+    "attribute": 2,
+    "mstId": 2989,
+    "resourceName": "2989",
+    "searchString": [
+      "Swift",
+      "Soldier"
+    ],
+    "evolvedMstId": 2990,
+    "evolvedResourceName": "2990",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Armor of Lamentation (I)",
+          "skillDescription": "Reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 70,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Armor of Lamentation (II)",
+          "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+          "skillDuration": 0,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Armor of Lamentation (II)",
+        "skillDescription": "Greatly reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
+        "skillDuration": 0,
+        "skillPreparationTime": 20,
+        "skillSPCost": 50
+      }
+    }
+  },
+  {
+    "name": "Flying Magician",
+    "shortName": "Flying Magician",
+    "attribute": 2,
+    "mstId": 2991,
+    "resourceName": "2991",
+    "searchString": [
+      "Flying",
+      "Magician"
+    ],
+    "evolvedMstId": 2992,
+    "evolvedResourceName": "2992",
+    "rarity": 5,
+    "isEvolvable": true,
+    "skill": {
+      "gvg": {
+        "preEvo": {
+          "skillName": "Tidal Fairy Master (I)",
+          "skillDescription": "Reduces the SP cost of ally water skills.",
+          "skillDuration": 60,
+          "skillPreparationTime": 60,
+          "skillSPCost": 200
+        },
+        "postEvo": {
+          "skillName": "Tidal Fairy Master (II)",
+          "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+          "skillDuration": 70,
+          "skillPreparationTime": 50,
+          "skillSPCost": 200
+        }
+      },
+      "pve": {
+        "skillName": "Tidal Fairy Master (II)",
+        "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+        "skillDuration": 18,
+        "skillPreparationTime": 8,
+        "skillSPCost": 50
+      }
+    }
+  }
+]

@@ -1,6 +1,8 @@
 const card = require('../../SINoALICE-Datamining/card_en.json');
 const skill = require('../../SINoALICE-Datamining/art.json');
 const evo_card = require('../../SINoALICE-Datamining/card_evolution.json');
+const translate = require('../../util/translate');
+const util = require('../../util/util');
 
 var _ = require('lodash');
 const fs = require('fs');
@@ -15,11 +17,15 @@ for (let i = 0; i < card.length; i++) {
 
         let nightmare = {};
 
-        nightmare.name = card[i].name;
+        nightmare.name = translate.latinize(card[i].name);
         nightmare.shortName = card[i].shortName;
         nightmare.attribute = card[i].attribute;
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
+
+        let translatedNm = translate.latinize(card[i].name);
+
+        nightmare.searchString = util.stripAndSplitStr(translatedNm);
 
         let evo = _.find(evo_card, {"cardMstId": card[i].cardMstId})
         if(evo !== undefined){
