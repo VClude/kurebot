@@ -88,22 +88,22 @@ module.exports = {
         return trueNightmare;
     },
 
-    evalAttribute: function (attribute, client) {
+    evalAttribute: function (attribute, guild) {
         switch (attribute) {
             case 1:
-                return `${client.emojis.cache.get('753074904374444063')}`;
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'api')}`;
             case 2:
-                return `${client.emojis.cache.get('753083655357857942')}`;
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'water')}`;
             case 3:
-                return `${client.emojis.cache.get('753083703684759673')}`;
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'wind')}`;
             case "fire":
-                return `${client.emojis.cache.get('753074904374444063')}`;
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'api')}`;
             case "water":
-                return `${client.emojis.cache.get('753083655357857942')}`;
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'water')}`;
             case "wind":
-                return `${client.emojis.cache.get('753083703684759673')}`;
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'wind')}`;
             default:
-                return undefined;
+                return 'non ';
         }
     },
 
@@ -124,19 +124,19 @@ module.exports = {
 
         switch (maxWeaponName) {
             case "sword":
-                return {job: 'breaker', priority: 1, emojiId: '753833365118910494'};
+                return {job: 'breaker', priority: 1, emojiId: '755241841523425330'};
             case "heavy":
-                return {job: 'crusher', priority: 2, emojiId: '753811624011366460'};
+                return {job: 'crusher', priority: 2, emojiId: '755247997381640242'};
             case "projectile":
-                return {job: 'gunner', priority: 3, emojiId: '753833334852812903'};
+                return {job: 'gunner', priority: 3, emojiId: '755247997163405403'};
             case "polearm":
-                return {job: 'paladin', priority: 4, emojiId: '753833319254196305'};
+                return {job: 'paladin', priority: 4, emojiId: '755247997398417478'};
             case "instrument":
-                return {job: 'minstrel', priority: 5, emojiId: '753833301399306280'};
+                return {job: 'minstrel', priority: 5, emojiId: '755247997213737091'};
             case "tome":
-                return {job: 'sorcerer', priority: 6, emojiId: '753833378478030848'};
+                return {job: 'sorcerer', priority: 6, emojiId: '755247997167730761'};
             case "staff":
-                return {job: 'cleric', priority: 7, emojiId: '753833351080575037'};
+                return {job: 'cleric', priority: 7, emojiId: '755247997314531411'};
             default:
                 return undefined;
         }

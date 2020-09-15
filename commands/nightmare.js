@@ -56,8 +56,6 @@ module.exports = {
                 }
             )
             dsEmbeds.setThumbnail(nightmare.isEvolvable ? `https://sinoalice.game-db.tw/images/card/CardS${nightmare.evolvedResourceName}.png` : `https://sinoalice.game-db.tw/images/card/CardS${nightmare.resourceName}.png`);
-            dsEmbeds.setFooter('Tempest sinoalice bot © 2020 - Good weapons are more important than good waifu -T');
-
             message.channel.send(dsEmbeds).catch(err => console.error(err));
         }).catch(error => console.error(error));
 

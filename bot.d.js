@@ -28,7 +28,7 @@ for (const file of cmdFiles){
 
 client.on("ready", () => {
    console.log('bot is ready');
-    client.user.setActivity("SINoALICE");
+    client.user.setActivity("GESEKoALICE", { type: 'WATCHING' });
 });
 
 client.on('message', message => {
@@ -43,7 +43,7 @@ client.on('message', message => {
         client.commands.get(command).execute(message, args, client, FBAdmin);
     }catch (e) {
         console.error('Error! -> ' + e);
-        message.reply('BPJS Bot is having some trouble parsing your message, please dm @chillrend');
+        message.reply('Kurebot is Catching BUG');
     }
 })
 
