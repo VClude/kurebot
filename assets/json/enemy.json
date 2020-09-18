@@ -1,13 +1,13 @@
 [
     {
-        "name" : "LDHC",
+        "name" : "Memories",
         "Desc" : {
-            "Lv" : 0,
-            "Rank": 0
+            "Lv" : 67,
+            "Rank": 397
         },
         "Demon" : {
-            "First" : ["staff","hammer","bow"],
-            "Second" : ["tome","hammer","bow"]
+            "First" : ["tome","sword","polearm"],
+            "Second" : ["tome","heavy","projectile"]
             
         },
         "members" : {

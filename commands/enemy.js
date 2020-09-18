@@ -62,8 +62,7 @@ module.exports = {
         return;
         }
         const collectselect = (message.member.roles.cache.some(role => role.name === config.bot_config.guildmates_role)) ? config.bot_config.guildmates_role : config.bot_config.guildmates_role_2; 
-        const gearRef = db.collection("enemy").doc(collectselect);
-
+        const gearRef = db.collection("enemy").doc(collectselect);       
         gearRef.get().then(gearSnapshot => {
             
             if(gearSnapshot.empty || gearSnapshot.data().name == ""){
@@ -106,7 +105,7 @@ module.exports = {
             if (enemyMembers[1].Name == ""){
                 enemyString = "Enemy Member Stats aren't available at the moment, please try again later.";
                 let dsEmbeds = new Discord.MessageEmbed();
-                dsEmbeds.setTitle('Enemy Details 3');
+                dsEmbeds.setTitle('Today Match');
                 dsEmbeds.setColor(7506394);
                 dsEmbeds.addField('Guild Name', "" + enemyName, true);
                 dsEmbeds.addField('Guild Desc', descString, true);
