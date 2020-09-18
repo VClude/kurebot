@@ -15,7 +15,7 @@ fs.readdir("./commands/", (err, files) => {
   
     let result = jsfiles.forEach((f, i) => {
         let props = require(`./${f}`);
-        let filesArray = {name: prefix+props.name, value: props.description};
+        let filesArray = {name: prefix+' '+props.name, value: props.description};
         streng.push(filesArray);
         
     });

@@ -1,0 +1,181 @@
+[
+    {
+        "name" : "LDHC",
+        "Desc" : {
+            "Lv" : 0,
+            "Rank": 0
+        },
+        "Demon" : {
+            "First" : ["staff","hammer","bow"],
+            "Second" : ["tome","hammer","bow"]
+            
+        },
+        "members" : {
+            "1" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "2" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "3" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "4" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "5" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "6" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "7" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "8" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "9" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "10" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "11" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "12" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "13" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "14" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            },
+            "15" : {
+                "Class": "",
+                "Name" : "",
+                "Rank" : "",
+                "HP"   : "",
+                "Point": "",
+                "PATK" : "",
+                "MATK" : "",
+                "PDEF" : "",
+                "MDEF" : ""
+            }
+        }
+    }
+]

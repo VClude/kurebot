@@ -211,7 +211,7 @@ module.exports = {
 
             util.getNightmaresList(args, gearRef, message).then(nightmares => {
                 if(nightmares.length < 1){
-                    message.channel.send('No nightmares matched ' + joinedArgs + ' found!')
+                    message.channel.send('No user found!')
                     return
                 }
                 let user = util.getTrueNightmare(args, nightmares);
