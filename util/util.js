@@ -107,6 +107,19 @@ module.exports = {
         }
     },
 
+    evalRarity: function (attribute, guild) {
+        switch (attribute) {
+            case 'SR':
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'eser')}`;
+            case 'S':
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'es')}`;
+            case 'A':
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'ranka')}`;
+            default:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'ranka')}`;
+        }
+    },
+
     findNeedle: function (needle, haystack) {
         let query = this.strToTitle(needle);
         return haystack.filter(item => item.indexOf(query) >= 0);

@@ -106,7 +106,7 @@ module.exports = {
 
                     for (let i = 0; i < gearData.nightmares.length; i++) {
                         if(nightmares.hasOwnProperty(gearData.nightmares[i])){
-                            nightmares[gearData.nightmares[i]].total += ' , <@' + gearData.name + '>';
+                            nightmares[gearData.nightmares[i]].total += ' , <@' + gear.id + '>';
                         }else{
                             nightmares[gearData.nightmares[i]] = {
                                 total: '<@' + gear.id + '>',

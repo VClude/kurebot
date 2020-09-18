@@ -10,6 +10,7 @@ var jimp = require('jimp');
 const Chance = require('chance');
 let chance = new Chance();
 const Discord = require('discord.js');
+const util = require('../util/util');
 
 let roll = function() {
     return chance.integer({ min: 1, max: 100 })
@@ -97,21 +98,32 @@ module.exports = {
     execute(message, args, client) {
         if (args.length === 0) {
 
-            var images = ['./assets/img/gambargacha.png']
-       
-           
-
+            let images = ['./assets/img/gambargacha.png']
+            let textE = [];
             for(let i = 0; i < 11; i++){
+            
+
                 if(i == 10){
-                    images.push(pullSpec().url);
-     
+                    a = pullSpec();
+                    if(a.rarity == 'SR'){
+                        textE.push(util.evalRarity(a.rarity,client) + a.name);
+                    }
+                    images.push(a.url);
+                    
                 }
                 else{
-                    images.push(pull().url);
+                    a = pull();
+                    if(a.rarity == 'SR'){
+                        textE.push(util.evalRarity(a.rarity,client) + a.name);
+                    }
+                    images.push(a.url);
+                   
           
                 }
-                
+                // console.log(i);
             }
+            
+            textE = (textE.length > 0 ? textE : 'n/a')
 
             var jimps = [];
             let theUrl = '';
@@ -138,16 +150,32 @@ module.exports = {
                 data[0].composite(data[10],113,498);
                 data[0].composite(data[11],269,498);
 
-                theUrl = './assets/img/your/yourgacha' + uuid.v1() + '.png';
+                imgName = uuid.v1() + '.png';
+                theUrl = './assets/img/your/yourgacha' + imgName;
 
                 data[0].write(theUrl, function(){
-                    message.channel.send(message.author.username + ' gacha results : ', {files: [theUrl]});
+                    // console.log(message.guild.members.cache.get(message.author.id));
+                    const user = message.guild.members.cache.get(message.author.id);
+                    let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
+                    const attachment = new Discord
+                      .MessageAttachment(theUrl, imgName);
+                        const embed = new Discord.MessageEmbed()
+                            // .setTitle(user.nickname + ' Gacha Results')
+                            .setAuthor(user.nickname + ' Gacha Results', URLgambar)
+                            .setTimestamp()
+                            .setColor(12745742)
+                            .addField('SR GET', textE)
+                            .attachFiles(attachment)
+                            .setImage('attachment://' + imgName);
+
+                        message.channel.send({embed});
+                    // message.channel.send(message.guild.members.cache.get(message.author.id).nickname + ' gacha results : ', {files: [theUrl]});
                 })
             })
             // Jimp.read('../assets/img/gambargacha.png').then(function(image){
 
             // });
-            console.log(theUrl);
+            // console.log(theUrl);
             
         }
         // const emoji = client.emojis.cache.get('753083854239039498');

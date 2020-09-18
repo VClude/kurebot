@@ -124,8 +124,12 @@ module.exports = {
                 images.push(pull().url);
                 
             }
-            console.log(images);
-            message.channel.send('Your gacha results : ', {files: images});
+            console.log();
+            // message.guild.member(message.author.id).then((member) => {
+            //     console.log(member);
+            //  });
+            
+            message.channel.send(message.guild.members.cache.get(message.author.id).nickname + ' Single Pull Results : ', {files: images});
         }
         // const emoji = client.emojis.cache.get('753083854239039498');
         
