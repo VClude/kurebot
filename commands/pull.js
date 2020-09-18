@@ -4,7 +4,7 @@ const weapA = require('../assets/json/weaponA.json');
 const weapS = require('../assets/json/weaponS.json');
 const weapSR = require('../assets/json/weaponSR.json');
 const prefix = bot_config.bot_config.prefix;
-const jimp = require('jimp');
+const mergeImages = require('merge-images');
 // var _ = require('lodash');
 const Chance = require('chance');
 let chance = new Chance();
@@ -102,7 +102,7 @@ let pullSpec = function() {
 
 module.exports = {
     name: 'pull',
-    description: 'pull banner disini biar laksek kemudian',
+    description: 'tes hoky anda dengan nge pull single banner',
     execute(message, args, client) {
         
         

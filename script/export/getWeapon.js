@@ -22,7 +22,7 @@ for (let i = 0; i < card.length; i++) {
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
         nightmare.rarity = 'A';
-        nightmare.url = 'https://sinoalice.game-db.tw/images/card/CardS' + card[i].resourceName + '.png'
+        nightmare.url = './assets/img/weapA/' + card[i].resourceName + '.png'
         
         
 
@@ -37,7 +37,7 @@ for (let i = 0; i < card.length; i++) {
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
         nightmare.rarity = 'S';
-        nightmare.url = 'https://sinoalice.game-db.tw/images/card/CardS' + card[i].resourceName + '.png'
+        nightmare.url = './assets/img/weapS/' + card[i].resourceName + '.png'
         
         
 
@@ -53,7 +53,7 @@ for (let i = 0; i < card.length; i++) {
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
         nightmare.rarity = 'SR';
-        nightmare.url = 'https://sinoalice.game-db.tw/images/card/CardS' + card[i].resourceName + '.png'
+        nightmare.url = './assets/img/weapSR/' + card[i].resourceName + '.png'
         
         
 
