@@ -137,8 +137,8 @@ module.exports = {
                 data[0].composite(data[8],186,342);
                 data[0].composite(data[9],342,342);
 
-                data[0].composite(data[10],103,498);
-                data[0].composite(data[11],259,498);
+                data[0].composite(data[10],123,498);
+                data[0].composite(data[11],279,498);
 
                 theUrl = './assets/img/yourgacha' + uuid.v1() + '.png';
 
