@@ -18,7 +18,7 @@ let pull = function() {
 
     let result = roll();
 
-    if(result >= 1 && result <= 3 ) {
+    if(result >= 1 && result <= 10 ) {
         var animalArray  = Object.keys(weapSR);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
@@ -28,7 +28,7 @@ let pull = function() {
 
     }
 
-    if(result >= 4 && result <= 20) {
+    if(result >= 11 && result <= 20) {
         var animalArray  = Object.keys(weapS);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
@@ -121,7 +121,7 @@ module.exports = {
                 //     images.push(pull().url);
           
                 // }
-                images.push(pullSpec().url);
+                images.push(pull().url);
                 
             }
             console.log(images);
