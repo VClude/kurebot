@@ -66,7 +66,7 @@ module.exports = {
 
         gearRef.get().then(gearSnapshot => {
             
-            if(gearSnapshot.empty || gearSnapshop.data().name == ""){
+            if(gearSnapshot.empty || gearSnapshot.data().name == ""){
                 message.channel.send("Matchmaking is still on Progress");
             }
             let enemyData = gearSnapshot.data();
