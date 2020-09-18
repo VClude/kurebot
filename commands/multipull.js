@@ -95,8 +95,6 @@ module.exports = {
     name: 'multipull',
     description: 'tes hoky anda dengan multipull',
     execute(message, args, client) {
-        
-        
         if (args.length === 0) {
 
             var images = ['./assets/img/gambargacha.png']
@@ -140,12 +138,10 @@ module.exports = {
                 data[0].composite(data[10],113,498);
                 data[0].composite(data[11],269,498);
 
-                theUrl = './assets/img/yourgacha' + uuid.v1() + '.png';
+                theUrl = './assets/img/your/yourgacha' + uuid.v1() + '.png';
 
                 data[0].write(theUrl, function(){
-                    console.log('image writed');
-                    console.log(theUrl);
-                    message.channel.send('Your gacha results : ', {files: [theUrl]});
+                    message.channel.send(message.author.username + ' gacha results : ', {files: [theUrl]});
                 })
             })
             // Jimp.read('../assets/img/gambargacha.png').then(function(image){
