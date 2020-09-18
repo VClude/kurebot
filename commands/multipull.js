@@ -104,7 +104,7 @@ module.exports = {
            
 
             for(let i = 0; i < 11; i++){
-                if(i == 11){
+                if(i == 10){
                     images.push(pullSpec().url);
      
                 }
