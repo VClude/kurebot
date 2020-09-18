@@ -1,6 +1,6 @@
 
 module.exports = {
-    name: 'nightmare',
+    name: 'nm',
     description: 'Get a detailed information of a nightmare',
     usage: '<nightmare>',
     execute(message, args, client, FBAdmin) {
@@ -11,7 +11,7 @@ module.exports = {
         const nmRef = db.collection('nightmares');
 
         if (args.length === 0) {
-            message.channel.send('Please type a nightmare to show it\'s details.**\n Command usage : \`!s nightmare <nightmare_name>\`**');
+            message.channel.send('Please type a nightmare to show it\'s details.**\n Command usage : \`!s nm <nightmare_name>\`**');
             return;
         }
 
