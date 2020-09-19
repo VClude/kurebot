@@ -128,8 +128,9 @@ module.exports = {
             // message.guild.member(message.author.id).then((member) => {
             //     console.log(member);
             //  });
-            
-            message.channel.send(message.guild.members.cache.get(message.author.id).nickname + ' Single Pull Results : ', {files: images});
+            const user = message.guild.members.cache.get(message.author.id);
+            let nickname = user.nickname ? user.nickname : user.user.username;
+            message.channel.send(nickname + ' Single Pull Results : ', {files: images});
         }
         // const emoji = client.emojis.cache.get('753083854239039498');
         
