@@ -196,11 +196,12 @@ module.exports = {
             // console.log(message.guild.members.cache.get(message.author.id));
             const user = message.guild.members.cache.get(message.author.id);
             let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
+            let nickname = user.nickname ? user.nickname : user.user.username;
             const attachment = new Discord
               .MessageAttachment(theUrl, imgName);
                 const embed = new Discord.MessageEmbed()
                     .setTitle(bot_config.event[args[0]].name + ' Pull')
-                    .setAuthor(user.nickname + ' Gacha Results', URLgambar)
+                    .setAuthor(nickname + ' Gacha Results', URLgambar)
                     .setTimestamp()
                     .setColor(12745742)
                     .addField('SR GET', textE)
