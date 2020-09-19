@@ -28,7 +28,7 @@ module.exports = {
                     if(res[0]){
                         let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
                         let gempf = String(res[0].gem).replace(/(.)(?=(\d{3})+$)/g,'$1,');
-                        let ratio = parseInt(res[0].gachapull) / parseInt(res[0].srcollect) * 100;
+                        let ratio = parseInt(res[0].srcollect) / parseInt(res[0].gachapull) * 100;
                         const emsg = new Discord.MessageEmbed()
                             .setColor('#0099ff')
                             .setThumbnail(URLgambar)
