@@ -18,6 +18,8 @@
     "jimp": "^0.16.1",
     "lodash": "^4.17.20",
     "merge-images": "^2.0.0",
-    "merge-img": "^2.1.3"
+    "merge-img": "^2.1.3",
+    "mysql": "^2.18.1",
+    "node-gyp": "^7.1.0"
   }
 }

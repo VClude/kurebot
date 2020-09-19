@@ -4,8 +4,7 @@ const weapA = require('../assets/json/weaponA.json');
 const weapS = require('../assets/json/weaponS.json');
 const weapSR = require('../assets/json/weaponSR.json');
 const prefix = bot_config.bot_config.prefix;
-const mergeImages = require('merge-images');
-// var _ = require('lodash');
+const mys = require('../util/mysql');
 const Chance = require('chance');
 let chance = new Chance();
 const Discord = require('discord.js');
@@ -53,63 +52,19 @@ let pull = function() {
         var randomValue  = weapA[randomKey]; 
         return randomValue;
 }
-
-let pullSpec = function() {
-
-    let result = roll();
-
-    if(result >= 1 && result <= 20 ) {
-        var animalArray  = Object.keys(weapSR);
-        var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapSR[randomKey]; 
-        return randomValue;
-
-    }
-
-    if(result >= 21 && result <= 40 ) {
-        var animalArray  = Object.keys(weapA);
-        var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapA[randomKey]; 
-        return randomValue;
-
-    }
-
-    if(result >= 41 && result <= 100 ) {
-        var animalArray  = Object.keys(weapS);
-        var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapS[randomKey]; 
-        return randomValue;
-
-    }
-
-        var animalArray  = Object.keys(weapS);
-        var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapS[randomKey]; 
-        return randomValue;
-}
-
-
-    
-
-
+   
 module.exports = {
     name: 'pull',
+    cooldown: 5,
     description: 'tes hoky anda dengan nge pull single banner',
     execute(message, args, client) {
-        
+        const user = message.guild.members.cache.get(message.author.id);
+        let nickname = user.nickname ? user.nickname : user.user.username;
         
         if (args.length === 0) {
 
             var images = []
-       
+            var isSR = 0;
            
 
             for(let i = 0; i < 1; i++){
@@ -121,18 +76,67 @@ module.exports = {
                 //     images.push(pull().url);
           
                 // }
-                images.push(pull().url);
+                let a = pull();
+                images.push(a.url);
+                if(a.rarity == "SR"){
+                    isSR = isSR + 1;
+                }  
                 
             }
-            console.log();
-            // message.guild.member(message.author.id).then((member) => {
-            //     console.log(member);
-            //  });
-            const user = message.guild.members.cache.get(message.author.id);
-            let nickname = user.nickname ? user.nickname : user.user.username;
-            message.channel.send(nickname + ' Single Pull Results : ', {files: images});
-        }
-        // const emoji = client.emojis.cache.get('753083854239039498');
+
+            let query = 'select * from user where `id` = ?';
+            let parser = [user.user.id];
+
+            mys.doQuery(query,parser,function(results){
+                let res =JSON.parse(JSON.stringify(results));
+                if(res[0]){
+                    
+                    oldGem = res[0].gem;
+                    oldSR = res[0].srcollect;
+                    oldGpull = res[0].gachapull;
+                    oldSpent = res[0].spent;
+
+                    if(oldGem < 30){
+                        let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
+                        const emsg = new Discord.MessageEmbed()
+                        .setColor('#0099ff')
+                        .setTitle(`Insufficient ${gemus}`)
+                        .setDescription(`${gemus} lo kurang, sana topup **!s topup**`);
+                    
+                         message.channel.send(emsg);                    
+                        }
+                    else{
+                        newSR = parseInt(oldSR) + parseInt(isSR);
+                        newGem = parseInt(oldGem) - 30;
+                        newSpent = parseInt(oldSpent) + 30;
+                        newGPull = parseInt(oldGpull) + 1;
+                        query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
+                        parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                        mys.doQuery(query,parser,function(results){
+                            message.channel.send(nickname + ' Single Pull Results : ', {files: images});
+                            
+                        });
+
+                    }
+                   
+                            
+
+                }
+               else{
+                const emsg = new Discord.MessageEmbed()
+                .setColor('#0099ff')
+                .setTitle('Data Not Found')
+                .setDescription('lo belom topup, sana topup **!s topup**');
+            
+                 message.channel.send(emsg);
+                        
+               }
+               
+             });
+            
+         
+                    }
+     
         
 
         
