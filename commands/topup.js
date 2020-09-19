@@ -47,6 +47,17 @@ module.exports = {
                 message.channel.send(emsg);
                 return;
             }
+
+            if(parseInt(args[0]) < 10){
+                const emsg = new Discord.MessageEmbed()
+                .setColor('#0099ff')
+                .setTitle('Panduan Cara topup')
+                .setThumbnail('https://i.imgur.com/JQRb99F.png')
+                .setDescription('Topup cant lower than 10 crystal');
+            
+                message.channel.send(emsg);
+                return;
+            }
             let topup = parseInt(args[0]) * 1200;
             let nominal = String(topup).replace(/(.)(?=(\d{3})+$)/g,'$1,');
             const user = message.guild.members.cache.get(message.author.id);
