@@ -230,6 +230,7 @@ module.exports = {
                         query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
                         parser = [newGem,newSpent,newSR,newGPull, user.user.id];
                         mys.doQuery(query,parser,function(results){
+                            let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
                             let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
                             let nickname = user.nickname ? user.nickname : user.user.username;
                             const attachment = new Discord
@@ -239,6 +240,7 @@ module.exports = {
                                     .setAuthor(nickname + ' Gacha Results', URLgambar)
                                     .setTimestamp()
                                     .setColor(12745742)
+                                    .setDescription(`${gemus} ${oldGem} **>>** ${newGem}`)
                                     .addField('SR GET', textE)
                                     .attachFiles(attachment)
                                     .setImage('attachment://' + imgName);

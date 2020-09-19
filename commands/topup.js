@@ -9,6 +9,7 @@ const Discord = require('discord.js');
 
 module.exports = {
     name: 'topup',
+    cooldown: '5',
     description: 'topup gem for gacha',
     execute(message, args, client) {
         let isnew = false;
