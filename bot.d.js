@@ -28,7 +28,7 @@ for (const file of cmdFiles){
 
 client.on("ready", () => {
    console.log('bot is ready');
-    client.user.setActivity("SINoALICE Gacha Gacor || !s help", { type: 'LISTENING' });
+    client.user.setActivity("Renungan para Penggacha || !s help", { type: 'LISTENING' });
 });
 
 client.on('message', message => {
