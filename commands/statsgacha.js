@@ -28,12 +28,14 @@ module.exports = {
                     if(res[0]){
                         let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
                         let gempf = String(res[0].gem).replace(/(.)(?=(\d{3})+$)/g,'$1,');
+                        let ratio = parseInt(res[0].gachapull) / parseInt(res[0].srcollect) * 100;
                         const emsg = new Discord.MessageEmbed()
                             .setColor('#0099ff')
                             .setThumbnail(URLgambar)
                             .setTitle(nickname + ' Gacha Statistics')
                             .addField('Gacha Pulled', res[0].gachapull + ' Times',true)
                             .addField('SR Collected', res[0].srcollect,true)
+                            .addField('Luck Ratio', ratio + ' %',false)
                             .addField('Crystal Spent on Gacha', `${gemus} ${res[0].spent}`,false)
                             .addField('Money Spent on Topup', String(res[0].moneyspent).replace(/(.)(?=(\d{3})+$)/g,'$1,') + ' IDR',false)
                             .setDescription(`Total ${gemus} : ${gempf}`);
