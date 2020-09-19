@@ -3,12 +3,47 @@ const fs = require("fs");
 const bot_config = require('../bot.config.json');
 const mysql = require('mysql');
 const prefix = bot_config.bot_config.prefix;
-
+const Discord = require('discord.js');
 module.exports = {
     name: 'statgacha',
     description: 'Get information about your gacha statistics',
     execute(message, args, client) {
-        const user = message.guild.members.cache.get(message.author.id);
+
+        function getUserFromMention(mention) {
+            if (!mention) return;
+        
+            if (mention.startsWith('<@') && mention.endsWith('>')) {
+                mention = mention.slice(2, -1);
+        
+                if (mention.startsWith('!')) {
+                    mention = mention.slice(1);
+                }
+        
+                return client.users.cache.get(mention);
+            }
+        }
+        
+            let user;
+            if (args[0]) {
+                let getuser = getUserFromMention(args[0]);
+                if(!getuser){
+                    const emsg = new Discord.MessageEmbed()
+                            .setColor('#fff')
+                            .setTitle('Invalid Arguments')
+                            .setDescription('**!s statgacha** untuk melihat statistik sendiri, **!s statgacha @user** untuk melihat statistik orang')
+                             message.channel.send(emsg);
+                             return;
+                }
+                user = message.guild.members.cache.get(getuser.id);
+            }
+            else {
+             user = message.guild.members.cache.get(message.author.id);
+             
+            }
+        
+     
+        
+        
         let nickname = user.nickname ? user.nickname : user.user.username;
         let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
         let query = 'select * from user where `id` = ?';
@@ -23,7 +58,6 @@ module.exports = {
          
             connection.query(query,parser, function (error, results, fields) {
                 if (error) throw error;
-                const Discord = require('discord.js');
                 let res =JSON.parse(JSON.stringify(results))
                     if(res[0]){
                         let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
@@ -47,7 +81,7 @@ module.exports = {
                             .setColor('#0099ff')
                             .setTitle('Data belum ada')
                             .setDescription('selamat datang di gacha simulator sinoalis, silahkan lakukan topup pertama kali untuk memulai gacha dengan  **!s topup**')
-                            .addField('Langkah 1', 'Topup saldo di Googleplay **!s topup <nominal crystal>')
+                            .addField('Langkah 1', 'Topup saldo di Googleplay **!s topup <nominal crystal>**')
                             .addField('Langkah 2', 'Gacha **!s pull** / **!s multipull**')
                             .addField('Langkah 3', 'lihat statistik gacha anda di **!s statgacha**')
                             .addField('Langkah 4', 'gem abis ? topup lagi lah, whale mah bebas')
