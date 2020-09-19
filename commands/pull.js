@@ -125,9 +125,12 @@ module.exports = {
                else{
                 const emsg = new Discord.MessageEmbed()
                 .setColor('#0099ff')
-                .setTitle('Data Not Found')
-                .setDescription('lo belom topup, sana topup **!s topup**');
-            
+                .setTitle('Data belum ada')
+                .setDescription('selamat datang di gacha simulator sinoalis, silahkan lakukan topup pertama kali untuk memulai gacha dengan  **!s topup**')
+                .addField('Langkah 1', 'Topup saldo di Googleplay **!s topup <nominal crystal>')
+                .addField('Langkah 2', 'Gacha **!s pull** / **!s multipull**')
+                .addField('Langkah 3', 'lihat statistik gacha anda di **!s statgacha**')
+                .addField('Langkah 4', 'gem abis ? topup lagi lah, whale mah bebas')
                  message.channel.send(emsg);
                         
                }
