@@ -38,12 +38,12 @@ module.exports = {
 
 
         if(args[0] && !isNaN(args[0])) {
-            if(parseInt(args[0]) > 1000){
+            if(parseInt(args[0]) > 2000){
                 const emsg = new Discord.MessageEmbed()
                 .setColor('#0099ff')
                 .setTitle('Panduan Cara topup')
                 .setThumbnail('https://i.imgur.com/JQRb99F.png')
-                .setDescription('Topup cant exceed 1000 crystal');
+                .setDescription('Topup cant exceed 2000 crystal');
             
                 message.channel.send(emsg);
                 return;
@@ -70,9 +70,12 @@ module.exports = {
             mys.doQuery(query,parser,function(results){
                 let res =JSON.parse(JSON.stringify(results));
                 if(res[0]){
+                    args[0] = Math.round(parseInt(args[0]));
+                    bonus = Math.round(parseInt(args[0]) * 1.2);
+                    bbonus = Math.round(parseInt(args[0]) * 0.2);
                     oldGem = res[0].gem;
                     oldMoney = res[0].moneyspent;
-                    newGem = parseInt(oldGem) + parseInt(args[0]);
+                    newGem = parseInt(oldGem) + parseInt(bonus);
                     newMoney = parseInt(oldMoney) + parseInt(topup);
                     query = 'UPDATE user SET gem = ?, moneyspent = ? where id = ?';
                     parser = [newGem,newMoney, user.user.id];
@@ -82,7 +85,7 @@ module.exports = {
                         .setColor('#0099ff')
                         .setTitle('Topup Success')
                         .setThumbnail('https://i.imgur.com/JQRb99F.png')
-                        .setDescription('Topup ' + args[0] + ' crystal | Seharga : ' + nominal + ' IDR' )
+                        .setDescription('Topup ' + args[0] + ' (+' + bbonus + ' bonus) Crystal | Seharga : ' + nominal + ' IDR' )
                         .addField('Your Crystal', `${gemus} ${oldGem}  **>>** ${gemus} ${newGem}`)
                         message.channel.send(emsg);
 
