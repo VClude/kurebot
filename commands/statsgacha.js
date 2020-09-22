@@ -72,7 +72,7 @@ module.exports = {
                             .addField('Luck Ratio', ratio.toPrecision(3) + ' %',false)
                             .addField('Crystal Spent on Gacha', `${gemus} ${res[0].spent}`,false)
                             .addField('Money Spent on Topup', String(res[0].moneyspent).replace(/(.)(?=(\d{3})+$)/g,'$1,') + ' IDR',false)
-                            .addField('Codex Link', 'kurebot.southeastasia.cloudapp.azure.com/public/?dcid='+user.user.id,false)
+                            .addField('Codex Link', '[Click here](http://kurebot.southeastasia.cloudapp.azure.com/public/?dcid='+user.user.id+')',false)
                             .setDescription(`Total ${gemus} : ${gempf}`);
                         
                         message.channel.send(emsg);
