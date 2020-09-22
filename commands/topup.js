@@ -10,54 +10,58 @@ const Discord = require('discord.js');
 module.exports = {
     name: 'topup',
     cooldown: '3600',
-    description: 'topup gem for gacha',
+    description: 'topup crystal (!s topup <amount crystal>',
     execute(message, args, client) {
         let isnew = false;
         if(args.length === 0){
-            const emsg = new Discord.MessageEmbed()
-            .setColor('#0099ff')
-            .setTitle('Panduan Cara topup')
-            .setThumbnail('https://i.imgur.com/JQRb99F.png')
-            .setDescription(' **!s topup <jumlah crystal>**');
+            // const emsg = new Discord.MessageEmbed()
+            // .setColor('#0099ff')
+            // .setTitle('Panduan Cara topup')
+            // .setThumbnail('https://i.imgur.com/JQRb99F.png')
+            // .setDescription(' **!s topup <jumlah crystal>**');
         
-            message.channel.send(emsg);
-            return;
+            // message.channel.send(emsg);
+            // return;
+            args[0] = 2000;
         }
 
         if(args[0] && isNaN(args[0])){
            
-            const emsg = new Discord.MessageEmbed()
-            .setColor('#0099ff')
-            .setTitle('Panduan Cara topup')
-            .setThumbnail('https://i.imgur.com/JQRb99F.png')
-            .setDescription('tolong isi nominalnya bro bukan huruf **!s topup <jumlah crystal>**');
+            args[0] = 2000;
+            // const emsg = new Discord.MessageEmbed()
+            // .setColor('#0099ff')
+            // .setTitle('Panduan Cara topup')
+            // .setThumbnail('https://i.imgur.com/JQRb99F.png')
+            // .setDescription('tolong isi nominalnya bro bukan huruf **!s topup <jumlah crystal>**');
         
-            message.channel.send(emsg);
-            return;
+            // message.channel.send(emsg);
+            // return;
         }
 
 
         if(args[0] && !isNaN(args[0])) {
             if(parseInt(args[0]) > 4000){
-                const emsg = new Discord.MessageEmbed()
-                .setColor('#0099ff')
-                .setTitle('Panduan Cara topup')
-                .setThumbnail('https://i.imgur.com/JQRb99F.png')
-                .setDescription('Topup cant exceed 2000 crystal');
+                // const emsg = new Discord.MessageEmbed()
+                // .setColor('#0099ff')
+                // .setTitle('Panduan Cara topup')
+                // .setThumbnail('https://i.imgur.com/JQRb99F.png')
+                // .setDescription('Topup cant exceed 4000 crystal');
             
-                message.channel.send(emsg);
-                return;
+                // message.channel.send(emsg);
+                // return;
+                args[0] = 4000;
             }
 
             if(parseInt(args[0]) < 10){
-                const emsg = new Discord.MessageEmbed()
-                .setColor('#0099ff')
-                .setTitle('Panduan Cara topup')
-                .setThumbnail('https://i.imgur.com/JQRb99F.png')
-                .setDescription('Topup cant lower than 10 crystal');
+                // const emsg = new Discord.MessageEmbed()
+                // .setColor('#0099ff')
+                // .setTitle('Panduan Cara topup')
+                // .setThumbnail('https://i.imgur.com/JQRb99F.png')
+                // .setDescription('Topup cant lower than 10 crystal');
             
-                message.channel.send(emsg);
-                return;
+                // message.channel.send(emsg);
+                // return;
+                args[0] = 2000;
             }
             let topup = parseInt(args[0]) * 1200;
             let nominal = String(topup).replace(/(.)(?=(\d{3})+$)/g,'$1,');
