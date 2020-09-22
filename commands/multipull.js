@@ -39,26 +39,26 @@ let pull = function(rateup) {
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
         var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapSR[1]; 
+        var randomValue  = weapSR[randomKey]; 
         return randomValue;
 
     }
 
     if(result >= 4 && result <= 20) {
-        var animalArray  = Object.keys(weapSR);
+        var animalArray  = Object.keys(weapS);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
         var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapSR[1]; 
+        var randomValue  = weapS[randomKey]; 
         return randomValue;
     }
 
     if(result >= 21 && result <= 100) {
-        var animalArray  = Object.keys(weapSR);
+        var animalArray  = Object.keys(weapA);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
         var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapSR[1]; 
+        var randomValue  = weapA[randomKey]; 
         return randomValue;
     }
 
