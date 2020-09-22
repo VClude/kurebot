@@ -55,7 +55,7 @@ let pull = function() {
    
 module.exports = {
     name: 'pull',
-    cooldown: 5,
+    cooldown: 3,
     description: 'tes hoky anda dengan nge pull single banner',
     execute(message, args, client) {
         const user = message.guild.members.cache.get(message.author.id);

@@ -9,7 +9,7 @@ const Discord = require('discord.js');
 
 module.exports = {
     name: 'topup',
-    cooldown: '5',
+    cooldown: '3600',
     description: 'topup gem for gacha',
     execute(message, args, client) {
         let isnew = false;
@@ -38,7 +38,7 @@ module.exports = {
 
 
         if(args[0] && !isNaN(args[0])) {
-            if(parseInt(args[0]) > 2000){
+            if(parseInt(args[0]) > 4000){
                 const emsg = new Discord.MessageEmbed()
                 .setColor('#0099ff')
                 .setTitle('Panduan Cara topup')

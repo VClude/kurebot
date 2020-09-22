@@ -50,7 +50,7 @@ client.on('message', message => {
 
         if (now < expirationTime) {
             const timeLeft = (expirationTime - now) / 1000;
-            return message.reply(`has Spam the command, ${timeLeft.toFixed(1)}(s) cooldown.`);
+            return message.reply(`${timeLeft.toFixed(1)}(s) cooldown.`);
         }
     }
     try{
