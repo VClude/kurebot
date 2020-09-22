@@ -64,4 +64,21 @@ client.on('message', message => {
     }
 })
 
+client.on('guildCreate', guild => {
+    const channel = guild.channels.cache.find(channel => channel.type === 'text' && channel.permissionsFor(guild.me).has('SEND_MESSAGES'))
+    
+    const ebd = new Discord.MessageEmbed()
+	.setColor('#0099ff')
+	.setTitle('Kurebot Announce')
+	.setDescription('Halo kalian para penggacha sinoalice, gacha kalian terasa ampas ? jangan khawatir saya disini memberikan anda kenikmatan pull yang jos gandos ')
+	.setThumbnail('https://cdn.discordapp.com/avatars/753484781219741696/48ffb6d2738322fdb56fc566129c1777.png?size=256')
+	.addFields(
+		{ name: '!s help', value: 'list command tersedia di kurebot' }
+	)
+	.setTimestamp()
+	.setFooter('Kurebot - SoA Gacha Bot');
+
+    channel.send(ebd)
+})
+
 client.login(token);
