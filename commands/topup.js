@@ -10,7 +10,7 @@ const Discord = require('discord.js');
 module.exports = {
     name: 'topup',
     cooldown: '120',
-    description: 'topup crystal (!s topup <amount crystal>',
+    description: 'topup crystal (!s topup <amount crystal>)',
     execute(message, args, client) {
         let isnew = false;
         if(args.length === 0){
