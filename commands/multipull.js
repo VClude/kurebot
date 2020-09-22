@@ -15,6 +15,20 @@ let roll = function() {
     return chance.integer({ min: 1, max: 100 })
 }
 
+function removeDuplicates(originalArray, prop) {
+    let newArray = [];
+    let lookupObject  = {};
+
+    for(let i in originalArray) {
+       lookupObject[originalArray[i][prop]] = originalArray[i];
+    }
+
+    for(i in lookupObject) {
+        newArray.push(lookupObject[i]);
+    }
+     return newArray;
+}
+
 let pull = function(rateup) {
     const weapSR = require(rateup);
 
@@ -25,26 +39,26 @@ let pull = function(rateup) {
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
         var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapSR[randomKey]; 
+        var randomValue  = weapSR[1]; 
         return randomValue;
 
     }
 
     if(result >= 4 && result <= 20) {
-        var animalArray  = Object.keys(weapS);
+        var animalArray  = Object.keys(weapSR);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
         var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapS[randomKey]; 
+        var randomValue  = weapSR[1]; 
         return randomValue;
     }
 
     if(result >= 21 && result <= 100) {
-        var animalArray  = Object.keys(weapA);
+        var animalArray  = Object.keys(weapSR);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
         var randomKey    = animalArray[animalIndex];
-        var randomValue  = weapA[randomKey]; 
+        var randomValue  = weapSR[1]; 
         return randomValue;
     }
 
@@ -156,6 +170,8 @@ module.exports = {
                 let images = ['./assets/img/gambargacha.png']
                 let textE = [];
                 let isSR = 0;
+                let srcontent = [];
+
                 for(let i = 0; i < 11; i++){
                 
             
@@ -165,12 +181,14 @@ module.exports = {
                                 textE.push(util.evalRarity(a.rarity,client) + a.name);
                                 images.push(a.url);
                                 isSR = isSR + 1;
+                                srcontent.push({'weapid':a.resourceName,'weapname': a.name});
                             }
                         else{
                             a = pullSpec(poolRate);
                             if(a.rarity == 'SR'){
                                 textE.push(util.evalRarity(a.rarity,client) + a.name);
                                 isSR = isSR + 1;
+                                srcontent.push({'weapid':a.resourceName,'weapname': a.name});
                             }
                             images.push(a.url);
                         }
@@ -182,6 +200,7 @@ module.exports = {
                         if(a.rarity == 'SR'){
                             textE.push(util.evalRarity(a.rarity,client) + a.name);
                             isSR = isSR + 1;
+                            srcontent.push({'weapid':a.resourceName,'weapname': a.name});
                         }
                         images.push(a.url);
                        
@@ -222,32 +241,88 @@ module.exports = {
             
                     data[0].write(theUrl, function(){
 
-                                
                         newSR = parseInt(oldSR) + parseInt(isSR);
                         newGem = parseInt(oldGem) - 300;
                         newSpent = parseInt(oldSpent) + 300;
                         newGPull = parseInt(oldGpull) + 10;
-                        query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
-                        parser = [newGem,newSpent,newSR,newGPull, user.user.id];
-                        mys.doQuery(query,parser,function(results){
-                            let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
-                            let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
-                            let nickname = user.nickname ? user.nickname : user.user.username;
-                            const attachment = new Discord
-                              .MessageAttachment(theUrl, imgName);
-                                const embed = new Discord.MessageEmbed()
-                                    .setTitle(bot_config.event[args[0]].name + ' Pull')
-                                    .setAuthor(nickname + ' Gacha Results', URLgambar)
-                                    .setTimestamp()
-                                    .setColor(12745742)
-                                    .setDescription(`${gemus} ${oldGem} **>>** ${newGem}`)
-                                    .addField('SR GET', textE)
-                                    .attachFiles(attachment)
-                                    .setImage('attachment://' + imgName);
-                
-                                message.channel.send({embed});
-                            
-                        });
+                        counter = 0;
+                        if(srcontent.length == 0){
+                            query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
+                            parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                            mys.doQuery(query,parser,function(results){
+                                let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
+                                let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
+                                let nickname = user.nickname ? user.nickname : user.user.username;
+                                const attachment = new Discord
+                                  .MessageAttachment(theUrl, imgName);
+                                    const embed = new Discord.MessageEmbed()
+                                        .setTitle(bot_config.event[args[0]].name + ' Pull')
+                                        .setAuthor(nickname + ' Gacha Results', URLgambar)
+                                        .setTimestamp()
+                                        .setColor(12745742)
+                                        .setDescription(`${gemus} ${oldGem} **>>** ${newGem}`)
+                                        .addField('SR GET', textE)
+                                        .attachFiles(attachment)
+                                        .setImage('attachment://' + imgName);
+                    
+                                    message.channel.send({embed});
+                                    return;
+                            });
+                        }
+                        else {
+
+                            srcontent = removeDuplicates(srcontent, "weapid");
+
+                            Object.keys(srcontent).forEach( (key, index) => {
+                                query = 'select * from gacha where id = ? and weapid = ?';
+                                parser = [user.user.id, srcontent[key].weapid];
+                                 mys.doQuery(query,parser, function(results){
+                                    res =JSON.parse(JSON.stringify(results));
+                                    if(res[0]){
+                                        qty = (res[0].qty == 4) ? 4 : parseInt(res[0].qty) + 1;
+                                        query = 'UPDATE gacha SET qty = ? where id = ? and weapid = ?';
+                                        parser = [qty,res[0].id,res[0].weapid];
+                                             mys.doQuery(query,parser,function(results){
+                                                return;
+                                            });
+                                    }
+        
+                                    else{
+                                        query = 'insert into gacha VALUES (?, ?, ?, ?)';
+                                        parser = [user.user.id,srcontent[key].weapid,srcontent[key].weapname,0];
+                                             mys.doQuery(query,parser,function(results){
+                                                return;
+                                            });
+                                    }
+                                    
+                                });
+
+                            });
+
+                            query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
+                            parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                            mys.doQuery(query,parser,function(results){
+                                let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
+                                let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png?size=64';
+                                let nickname = user.nickname ? user.nickname : user.user.username;
+                                const attachment = new Discord
+                                  .MessageAttachment(theUrl, imgName);
+                                    const embed = new Discord.MessageEmbed()
+                                        .setTitle(bot_config.event[args[0]].name + ' Pull')
+                                        .setAuthor(nickname + ' Gacha Results', URLgambar)
+                                        .setTimestamp()
+                                        .setColor(12745742)
+                                        .setDescription(`${gemus} ${oldGem} **>>** ${newGem}`)
+                                        .addField('SR GET', textE)
+                                        .attachFiles(attachment)
+                                        .setImage('attachment://' + imgName);
+                    
+                                    message.channel.send({embed});
+                                    return;
+                            });
+
+                        }
+
                     })
                 })
 

@@ -2,7 +2,7 @@ const mysql = require('mysql');
 const bot_config = require('../bot.config.json');
 module.exports = {
 
-    doQuery: function(query, parser, callback){
+    doQuery: async function(query, parser, callback){
 
         let connection = mysql.createConnection({
             host     : bot_config.sql_config.host,
@@ -12,7 +12,7 @@ module.exports = {
           });
           connection.connect();
            if(parser){
-            connection.query(query, parser, function (error, results, fields) {
+            await connection.query(query, parser, function (error, results, fields) {
                 if (error) throw error;
            
                 return callback(results); 
@@ -20,7 +20,7 @@ module.exports = {
            }
 
            else{
-            connection.query(query, function (error, results, fields) {
+             await connection.query(query, function (error, results, fields) {
                 if (error) throw error;
               
                 return callback(results); 
@@ -30,4 +30,6 @@ module.exports = {
            
           connection.end();
     }
+
+    
 }

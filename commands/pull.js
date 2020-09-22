@@ -17,7 +17,7 @@ let pull = function() {
 
     let result = roll();
 
-    if(result >= 1 && result <= 10 ) {
+    if(result >= 1 && result <= 5 ) {
         var animalArray  = Object.keys(weapSR);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
@@ -27,7 +27,7 @@ let pull = function() {
 
     }
 
-    if(result >= 11 && result <= 20) {
+    if(result >= 6 && result <= 20) {
         var animalArray  = Object.keys(weapS);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
@@ -65,7 +65,7 @@ module.exports = {
 
             var images = []
             var isSR = 0;
-           
+            let srcontent = [];
 
             for(let i = 0; i < 1; i++){
                 // if(i == 4){
@@ -80,8 +80,9 @@ module.exports = {
                 images.push(a.url);
                 if(a.rarity == "SR"){
                     isSR = isSR + 1;
+                    srcontent.push({'weapid':a.resourceName,'weapname': a.name});
                 }  
-                
+              
             }
 
             let query = 'select * from user where `id` = ?';
@@ -102,20 +103,60 @@ module.exports = {
                         .setColor('#0099ff')
                         .setTitle(`Insufficient ${gemus}`)
                         .setDescription(`${gemus} lo kurang, sana topup **!s topup**`);
-                    
-                         message.channel.send(emsg);                    
+                         message.channel.send(emsg);
+                         return;                
                         }
                     else{
                         newSR = parseInt(oldSR) + parseInt(isSR);
                         newGem = parseInt(oldGem) - 30;
                         newSpent = parseInt(oldSpent) + 30;
                         newGPull = parseInt(oldGpull) + 1;
-                        query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
-                        parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                        if(srcontent.length == 0){
+                            query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
+                            parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                            mys.doQuery(query,parser,function(results){
+                                message.channel.send(nickname + ' Single Pull Results : ', {files: images});
+                                return;
+                            });
+                        }
+                        else{
+                        query = 'select * from gacha where id = ? and weapid = ?';
+                        parser = [user.user.id, srcontent[0].weapid];
                         mys.doQuery(query,parser,function(results){
-                            message.channel.send(nickname + ' Single Pull Results : ', {files: images});
+                            res =JSON.parse(JSON.stringify(results));
+                            if(res[0]){
+                                qty = (res[0].qty == 4) ? 4 : parseInt(res[0].qty) + 1;
+                                query = 'UPDATE gacha SET qty = ? where id = ? and weapid = ?';
+                                parser = [qty,res[0].id,res[0].weapid];
+                                    mys.doQuery(query,parser,function(results){
+                                        query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
+                                        parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                                        mys.doQuery(query,parser,function(results){
+                                            message.channel.send(nickname + ' Single Pull Results : ', {files: images});
+                                            return;
+                                        });
+                                        
+                                    });
+                            }
+
+                            else{
+                                query = 'insert into gacha VALUES (?, ?, ?, ?)';
+                                parser = [user.user.id,srcontent[0].weapid,srcontent[0].weapname,0];
+                                    mys.doQuery(query,parser,function(results){
+                                        query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
+                                        parser = [newGem,newSpent,newSR,newGPull, user.user.id];
+                                        mys.doQuery(query,parser,function(results){
+                                            message.channel.send(nickname + ' Single Pull Results : ', {files: images});
+                                            return;
+                                        });
+                                        
+                                    });
+                            }
                             
                         });
+
+                    }
+                       
 
                     }
                    
@@ -132,7 +173,7 @@ module.exports = {
                 .addField('Langkah 3', 'lihat statistik gacha anda di **!s statgacha**')
                 .addField('Langkah 4', 'gem abis ? topup lagi lah, whale mah bebas')
                  message.channel.send(emsg);
-                        
+                 return;                
                }
                
              });
