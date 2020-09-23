@@ -121,7 +121,7 @@ module.exports = {
     execute(message, args, client) {
         const user = message.guild.members.cache.get(message.author.id);
 
-        if(user.user.id != '216861675658280961'){
+        if(user.user.id != '216861675658280961' || user.user.id != '432496380469182484'){
             const embed = new Discord.MessageEmbed()
             .setTitle('Command Not Available')
             .setDescription('wooo mau ngecit lo ya')
