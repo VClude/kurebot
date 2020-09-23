@@ -26,7 +26,7 @@ for (const file of cmdFiles){
 
 client.on("ready", () => {
    console.log('bot is ready');
-    client.user.setActivity("Renungan para Penggacha || !s help", { type: 'LISTENING' });
+    client.user.setActivity("Keluhan para Penggacha || !s help", { type: 'LISTENING' });
 });
 
 client.on('message', message => {
@@ -71,7 +71,7 @@ client.on('guildCreate', guild => {
 	.setColor('#0099ff')
 	.setTitle('Kurebot Announce')
 	.setDescription('Halo kalian para penggacha sinoalice, gacha kalian terasa ampas ? jangan khawatir saya disini memberikan anda kenikmatan pull yang jos gandos ')
-	.setThumbnail('https://cdn.discordapp.com/avatars/753484781219741696/48ffb6d2738322fdb56fc566129c1777.png?size=256')
+	.setThumbnail('https://cdn.discordapp.com/avatars/753484781219741696/48ffb6d2738322fdb56fc566129c1777.png')
 	.addFields(
 		{ name: '!s help', value: 'list command tersedia di kurebot' }
 	)

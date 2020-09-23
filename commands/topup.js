@@ -90,7 +90,7 @@ module.exports = {
                         .setTitle('Topup Success')
                         .setThumbnail('https://i.imgur.com/JQRb99F.png')
                         .setDescription('Topup ' + args[0] + ' (+' + bbonus + ' bonus) Crystal | Seharga : ' + nominal + ' IDR' )
-                        .addField('Your Crystal', `${gemus} ${oldGem}  **>>** ${gemus} ${newGem}`)
+                        .addField('Your Crystal', `${gemus} ${String(oldGem).replace(/(.)(?=(\d{3})+$)/g,'$1,')}  **>>** ${gemus} ${String(newGem).replace(/(.)(?=(\d{3})+$)/g,'$1,')}`)
                         message.channel.send(emsg);
 
                     });

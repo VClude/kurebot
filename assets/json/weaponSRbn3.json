@@ -9,6 +9,24 @@
         "url": "./assets/img/weapSR/0983.png"
     },
     {
+        "name": "Elza, the Ancient Priestess",
+        "shortName": "Elza, the Ancient Priestess",
+        "attribute": 1,
+        "mstId": 555,
+        "resourceName": "0555",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0555.png"
+    },
+    {
+        "name": "Golden Staff",
+        "shortName": "Golden Staff",
+        "attribute": 2,
+        "mstId": 577,
+        "resourceName": "0577",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0577.png"
+    },
+    {
         "name": "Syringe of Pursuit",
         "shortName": "Syringe of Pursuit",
         "attribute": 3,
@@ -927,6 +945,231 @@
         "url": "./assets/img/weapSR/0203.png"
     },
     {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
+        "name": "Golden Harp",
+        "shortName": "Golden Harp",
+        "attribute": 3,
+        "mstId": 579,
+        "resourceName": "0579",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0579.png"
+    },
+    {
         "name": "False Victor",
         "shortName": "False Victor",
         "attribute": 2,
@@ -979,6 +1222,231 @@
         "resourceName": "0191",
         "rarity": "SR",
         "url": "./assets/img/weapSR/0191.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
+    },
+    {
+        "name": "Golden Sword",
+        "shortName": "Golden Sword",
+        "attribute": 1,
+        "mstId": 575,
+        "resourceName": "0575",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/0575.png"
     },
     {
         "name": "Insect Harp",
