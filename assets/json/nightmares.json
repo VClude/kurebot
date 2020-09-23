@@ -3752,6 +3752,45 @@
         }
     },
     {
+        "name": "Fenrir",
+        "shortName": "Fenrir",
+        "attribute": 2,
+        "mstId": 991,
+        "resourceName": "0991",
+        "searchString": [
+          "Fenrir"
+        ],
+        "evolvedMstId": 992,
+        "evolvedResourceName": "0992",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Aqueous Blessing (II)",
+                    "skillDescription": "Greatly increases the effectiveness of Water skills for all allies.",
+                    "skillDuration": 110,
+                    "skillPreparationTime": 90,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "Aqueous Blessing (III)",
+                    "skillDescription": "Massively increases the effectiveness of Water skills for all allies.",
+                    "skillDuration": 120,
+                    "skillPreparationTime": 80,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Aqueous Blessing (III)",
+                "skillDescription": "Massively increases the effectiveness of Water skills for all allies.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
         "name": "Shadowlord",
         "shortName": "Shadowlord",
         "attribute": 2,
