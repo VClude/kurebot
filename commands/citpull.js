@@ -113,7 +113,7 @@ let pullGuaranteed = function(rateup, guaranteed) {
     return randomValue;
 }
 
-
+let allowed = ['216861675658280961','432496380469182484'];
 
 module.exports = {
     name: 'citpull',
@@ -121,7 +121,7 @@ module.exports = {
     execute(message, args, client) {
         const user = message.guild.members.cache.get(message.author.id);
 
-        if(user.user.id != '216861675658280961' || user.user.id != '432496380469182484'){
+        if(!allowed.includes(user.user.id)){
             const embed = new Discord.MessageEmbed()
             .setTitle('Command Not Available')
             .setDescription('wooo mau ngecit lo ya')
