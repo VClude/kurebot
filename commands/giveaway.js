@@ -28,8 +28,8 @@ module.exports = {
             }
         }
 
-        
-        if(!allowed.includes(user.user.id)){
+        const usersz = message.guild.members.cache.get(message.author.id);
+        if(!allowed.includes(usersz.user.id)){
             const embed = new Discord.MessageEmbed()
             .setTitle('Command Not Available')
             .setDescription('Heatcliff user only')
