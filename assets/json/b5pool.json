@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Diluc",
+        "shortName": "Diluc",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/diluc.png"
+    },
+    {
+        "name": "Jean",
+        "shortName": "Jean",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/jean.png"
+    },
+    {
+        "name": "Keqing",
+        "shortName": "Keqing",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/keqing.png"
+    },
+    {
+        "name": "Mona",
+        "shortName": "Mona",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/mona.png"
+    },
+    {
+        "name": "Qiqi",
+        "shortName": "Qiqi",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/qiqi.png"
+    },
+    {
+        "name": "Skyward Atlas",
+        "shortName": "Skyward Atlas",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/skyward_atlas.png"
+    },
+    {
+        "name": "Venti",
+        "shortName": "Venti",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0049",
+        "rarity": "SR",
+        "url": "./assets/img/genshin/b5/venti.png"
+    }
+]

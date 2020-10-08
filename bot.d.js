@@ -26,7 +26,7 @@ for (const file of cmdFiles){
 
 client.on("ready", () => {
    console.log('bot is ready');
-    client.user.setActivity("Keluhan para Penggacha || !s help", { type: 'LISTENING' });
+    client.user.setActivity("Genshin Impact");
 });
 
 client.on('message', message => {

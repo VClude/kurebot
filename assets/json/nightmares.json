@@ -2665,6 +2665,68 @@
         }
     },
     {
+        "name": "Nightmare (Misery)",
+        "shortName": "Nightmare (Misery)",
+        "attribute": 2,
+        "mstId": 565,
+        "resourceName": "0565",
+        "searchString": [
+            "Nightmare",
+            "Misery"
+        ],
+        "rarity": 4,
+        "isEvolvable": false,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Hindering Wail (II)",
+                    "skillDescription": "Greatly reduces the activation rate of enemy support skills.\\nThis summon skill ends when there are less than 2 minutes left in the Colosseum.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Dark Tsunami (II)",
+                "skillDescription": "Greatly increases water damage against fire enemies.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Nightmare (Misery)",
+        "shortName": "Nightmare (N/A)",
+        "attribute": 2,
+        "mstId": 566,
+        "resourceName": "0566",
+        "searchString": [
+            "Nightmare",
+            "Misery"
+        ],
+        "rarity": 4,
+        "isEvolvable": false,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Hindering Wail (II)",
+                    "skillDescription": "Greatly reduces the activation rate of enemy support skills.\\nThis summon skill ends when there are less than 2 minutes left in the Colosseum.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Dark Tsunami (II)",
+                "skillDescription": "Greatly increases water damage against fire enemies.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
         "name": "Nightmare (Delusion)",
         "shortName": "Nightmare (Delusion)",
         "attribute": 3,
@@ -2926,7 +2988,7 @@
             },
             "pve": {
                 "skillName": "Cry of the Damned (III)",
-                "skillDescription": "Massively reduces damage from enemy water skills.",
+                "skillDescription": "Massively reduces damage from enemy water skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 0
@@ -3356,6 +3418,45 @@
         }
     },
     {
+        "name": "Guardian",
+        "shortName": "Guardian",
+        "attribute": 3,
+        "mstId": 977,
+        "resourceName": "0481",
+        "searchString": [
+            "Guardian"
+        ],
+        "evolvedMstId": 978,
+        "evolvedResourceName": "0482",
+        "rarity": 5,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Blessed Armor (II)",
+                    "skillDescription": "Greatly increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "Blessed Armor (III)",
+                    "skillDescription": "Massively increases DEF of all surviving allies in the vanguard.\\nApplies to both P.DEF and M.DEF.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Blessed Armor (III)",
+                "skillDescription": "Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+                "skillDuration": 0,
+                "skillPreparationTime": 20,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
         "name": "Cecilia, the Crimson Banisher",
         "shortName": "Cecilia, the Crimson",
         "attribute": 1,
@@ -3398,6 +3499,127 @@
         }
     },
     {
+        "name": "Elza, the Ancient Priestess",
+        "shortName": "Elza, the Ancient Pr",
+        "attribute": 1,
+        "mstId": 981,
+        "resourceName": "0981",
+        "searchString": [
+            "Elza",
+            "the",
+            "Ancient",
+            "Priestess"
+        ],
+        "evolvedMstId": 982,
+        "evolvedResourceName": "0982",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Engulfing Shout (II)",
+                    "skillDescription": "Greatly reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "Engulfing Shout (III)",
+                    "skillDescription": "Massively reduces the effectiveness of enemy fire skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+                    "skillDuration": 100,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "Engulfing Shout (III)",
+                "skillDescription": "Massively reduces damage from enemy fire skills.\\nEffective only against damage skills.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
+        "name": "Fenrir",
+        "shortName": "Fenrir",
+        "attribute": 2,
+        "mstId": 991,
+        "resourceName": "0991",
+        "searchString": [
+            "Fenrir"
+        ],
+        "evolvedMstId": 992,
+        "evolvedResourceName": "0992",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Aqueous Blessing (II)",
+                    "skillDescription": "Greatly increases the effectiveness of ally water skills.",
+                    "skillDuration": 110,
+                    "skillPreparationTime": 90,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "Aqueous Blessing (III)",
+                    "skillDescription": "Massively increases the effectiveness of ally water skills.",
+                    "skillDuration": 120,
+                    "skillPreparationTime": 80,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Aqueous Blessing (III)",
+                "skillDescription": "Massively increases the effectiveness of ally water skills.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Blue Poppy",
+        "shortName": "Blue Poppy",
+        "attribute": 2,
+        "mstId": 1047,
+        "resourceName": "1047",
+        "searchString": [
+            "Blue",
+            "Poppy"
+        ],
+        "evolvedMstId": 1048,
+        "evolvedResourceName": "1048",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Uplifting Chant (II)",
+                    "skillDescription": "Greatly increases the activation rate of ally support skills.",
+                    "skillDuration": 110,
+                    "skillPreparationTime": 90,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "Uplifting Chant (III)",
+                    "skillDescription": "Massively increases the activation rate of ally support skills.",
+                    "skillDuration": 120,
+                    "skillPreparationTime": 80,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "Dark Tsunami (III)",
+                "skillDescription": "Massively increases water damage against fire enemies.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
         "name": "Library Wisp",
         "shortName": "Library Wisp",
         "attribute": 1,
@@ -3431,6 +3653,46 @@
             "pve": {
                 "skillName": "Blessed Armor (III)",
                 "skillDescription": "Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
+                "skillDuration": 0,
+                "skillPreparationTime": 20,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
+        "name": "Red Rose",
+        "shortName": "Red Rose",
+        "attribute": 1,
+        "mstId": 1572,
+        "resourceName": "1572",
+        "searchString": [
+            "Red",
+            "Rose"
+        ],
+        "evolvedMstId": 1573,
+        "evolvedResourceName": "1573",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Armor of Lamentation (II)",
+                    "skillDescription": "Greatly reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "Armor of Lamentation (III)",
+                    "skillDescription": "Massively reduces DEF of all enemies in the vanguard, even if they have fainted.\\nApplies to both P.DEF and M.DEF.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "Armor of Lamentation (III)",
+                "skillDescription": "Massively reduces DEF of all enemies.\\nApplies to both P.DEF and M.DEF.",
                 "skillDuration": 0,
                 "skillPreparationTime": 20,
                 "skillSPCost": 0
@@ -3714,12 +3976,12 @@
     },
     {
         "name": "Ufo",
-        "shortName": "UFO",
+        "shortName": "Ufo",
         "attribute": 1,
         "mstId": 2496,
         "resourceName": "2496",
         "searchString": [
-          "Ufo"
+            "Ufo"
         ],
         "evolvedMstId": 2497,
         "evolvedResourceName": "2497",
@@ -3745,45 +4007,6 @@
             "pve": {
                 "skillName": "The Bell Sounds a Wildfire (II)",
                 "skillDescription": "Greatly increases the effectiveness of fire weapon skills, but also increases enemy water damage.",
-                "skillDuration": 20,
-                "skillPreparationTime": 10,
-                "skillSPCost": 50
-            }
-        }
-    },
-    {
-        "name": "Fenrir",
-        "shortName": "Fenrir",
-        "attribute": 2,
-        "mstId": 991,
-        "resourceName": "0991",
-        "searchString": [
-          "Fenrir"
-        ],
-        "evolvedMstId": 992,
-        "evolvedResourceName": "0992",
-        "rarity": 6,
-        "isEvolvable": true,
-        "skill": {
-            "gvg": {
-                "preEvo": {
-                    "skillName": "Aqueous Blessing (II)",
-                    "skillDescription": "Greatly increases the effectiveness of Water skills for all allies.",
-                    "skillDuration": 110,
-                    "skillPreparationTime": 90,
-                    "skillSPCost": 200
-                },
-                "postEvo": {
-                    "skillName": "Aqueous Blessing (III)",
-                    "skillDescription": "Massively increases the effectiveness of Water skills for all allies.",
-                    "skillDuration": 120,
-                    "skillPreparationTime": 80,
-                    "skillSPCost": 200
-                }
-            },
-            "pve": {
-                "skillName": "Aqueous Blessing (III)",
-                "skillDescription": "Massively increases the effectiveness of Water skills for all allies.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -3944,6 +4167,46 @@
                 "skillDescription": "Greatly reduces the SP cost of ally water skills.",
                 "skillDuration": 18,
                 "skillPreparationTime": 8,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Cake Spider",
+        "shortName": "Cake Spider",
+        "attribute": 3,
+        "mstId": 1257,
+        "resourceName": "1257",
+        "searchString": [
+            "Cake",
+            "Spdider"
+        ],
+        "evolvedMstId": 1258,
+        "evolvedResourceName": "1258",
+        "rarity": 4,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "血界ハ魔書ヲ拒ム(I)",
+                    "skillDescription": "Moderately reduces the effectiveness of enemy Tome skills.",
+                    "skillDuration": 80,
+                    "skillPreparationTime": 80,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "血界ハ魔書ヲ拒ム(II)",
+                    "skillDescription": "Greatly reduces the effectiveness of enemy Tome skills.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 70,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "恵愛ハ生命ヲ治癒スル (II)",
+                "skillDescription": "Restore 45% of max HP for all surviving allies.",
+                "skillDuration": 0,
+                "skillPreparationTime": 10,
                 "skillSPCost": 50
             }
         }

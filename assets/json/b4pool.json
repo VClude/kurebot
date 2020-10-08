@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Amber",
+        "shortName": "Amber",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/amber.png"
+    },
+    {
+        "name": "Barbara",
+        "shortName": "Barbara",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/barbara.png"
+    },
+    {
+        "name": "Beidou",
+        "shortName": "Beidou",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/beidou.png"
+    },
+    {
+        "name": "Benny",
+        "shortName": "Benny",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/benny.png"
+    },
+    {
+        "name": "Chongyun",
+        "shortName": "Chongyun",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/chongyun.png"
+    },
+    {
+        "name": "Fischl",
+        "shortName": "Fischl",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/fischl.png"
+    },
+    {
+        "name": "Kaeya",
+        "shortName": "Kaeya",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/kaeya.png"
+    },
+    {
+        "name": "Lisa",
+        "shortName": "Lisa",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/lisa.png"
+    },
+    {
+        "name": "Ningguang",
+        "shortName": "Ningguang",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/ningguang.png"
+    },
+    {
+        "name": "Noelle",
+        "shortName": "Noelle",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/noelle.png"
+    },
+    {
+        "name": "Razor",
+        "shortName": "Razor",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/razor.png"
+    },
+    {
+        "name": "Sucrose",
+        "shortName": "Sucrose",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/sucrose.png"
+    },
+    {
+        "name": "Solar Pearl",
+        "shortName": "Solar Pearl",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/weapb4.png"
+    },
+    {
+        "name": "Xiangling",
+        "shortName": "Xiangling",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/xiangling.png"
+    },
+    {
+        "name": "Xingqiu",
+        "shortName": "Xingqiu",
+        "attribute": 1,
+        "mstId": 49,
+        "resourceName": "0001",
+        "rarity": "S",
+        "url": "./assets/img/genshin/b4/xingqiu.png"
+    }
+]
