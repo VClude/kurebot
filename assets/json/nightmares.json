@@ -4188,14 +4188,14 @@
         "skill": {
             "gvg": {
                 "preEvo": {
-                    "skillName": "血界ハ魔書ヲ拒ム(I)",
-                    "skillDescription": "Moderately reduces the effectiveness of enemy Tome skills.",
+                    "skillName": "World of Ignorance (I)",
+                    "skillDescription": "Reduces the effectiveness of enemy Tome skills.",
                     "skillDuration": 80,
                     "skillPreparationTime": 80,
                     "skillSPCost": 200
                 },
                 "postEvo": {
-                    "skillName": "血界ハ魔書ヲ拒ム(II)",
+                    "skillName": "World of Ignorance (II)",
                     "skillDescription": "Greatly reduces the effectiveness of enemy Tome skills.",
                     "skillDuration": 90,
                     "skillPreparationTime": 70,
@@ -4203,8 +4203,92 @@
                 }
             },
             "pve": {
-                "skillName": "恵愛ハ生命ヲ治癒スル (II)",
+                "skillName": "Lover's Embrace (II)",
                 "skillDescription": "Restore 45% of max HP for all surviving allies.",
+                "skillDuration": 0,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "One Winged Doll, Blanc",
+        "shortName": "Blanc",
+        "attribute": 2,
+        "mstId": 1125,
+        "resourceName": "1125",
+        "searchString": [
+            "One",
+            "Winged",
+            "Doll",
+            "Blanc"
+        ],
+        "evolvedMstId": 1126,
+        "evolvedResourceName": "1126",
+        "rarity": 4,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "血界ハ楽器ヲ拒ム (II)",
+                    "skillDescription": "Reduces the effectiveness of enemy Instrument skills.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 70,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "血界ハ楽器ヲ拒ム (III)",
+                    "skillDescription": "Greatly reduces the effectiveness of enemy Instrument skills.",
+                    "skillDuration": 100,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "Lover's Embrace (II)",
+                "skillDescription": "Restore 45% of max HP for all surviving allies.",
+                "skillDuration": 0,
+                "skillPreparationTime": 10,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
+        "name": "Fear, Warden of the Prison",
+        "shortName": "Fear, Warden of the Prison",
+        "attribute": 2,
+        "mstId": 1498,
+        "resourceName": "1498",
+        "searchString": [
+            "Fear",
+            "Warden",
+            "of",
+            "Prison"
+        ],
+        "evolvedMstId": 1499,
+        "evolvedResourceName": "1499",
+        "rarity": 4,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "逆巻ク魔力ノ順風 (II)",
+                    "skillDescription": "Restore 25% of max SP for all allies with vanguard/attack jobs.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "逆巻ク魔力ノ順風 (III)",
+                    "skillDescription": "Restore 35% of max SP for all allies with vanguard/attack jobs.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 40,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "逆巻ク魔力ノ順風 (III)",
+                "skillDescription": "Restore 35% of max SP for all allies with vanguard/attack jobs.",
                 "skillDuration": 0,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
