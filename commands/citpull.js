@@ -113,7 +113,7 @@ let pullGuaranteed = function(rateup, guaranteed) {
     return randomValue;
 }
 
-let allowed = ['216861675658280961','432496380469182484'];
+let allowed = ['216861675658280961','432496380469182484','278313291552653312','452820479649120276'];
 
 module.exports = {
     name: 'citpull',

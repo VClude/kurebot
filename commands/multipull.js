@@ -74,8 +74,13 @@ let pullSpec = function(rateup) {
     const weapSR = require(rateup);
     let result = roll();
 
+<<<<<<< HEAD
     if(result >= 1 && result <= 25 ) {
         var gachaArr  = Object.keys(weapSR);
+=======
+    if(result >= 1 && result <= 3 ) {
+        var animalArray  = Object.keys(weapSR);
+>>>>>>> 6ed64339e0c0b2621c5e5d26cb5636426c95bff7
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
         var randomKey    = gachaArr[gachaIndex];
@@ -84,8 +89,13 @@ let pullSpec = function(rateup) {
 
     }
 
+<<<<<<< HEAD
     if(result >= 26 && result <= 100 ) {
         var gachaArr  = Object.keys(weapS);
+=======
+    if(result >= 4 && result <= 100 ) {
+        var animalArray  = Object.keys(weapS);
+>>>>>>> 6ed64339e0c0b2621c5e5d26cb5636426c95bff7
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
         var randomKey    = gachaArr[gachaIndex];
