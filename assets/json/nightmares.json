@@ -2174,7 +2174,7 @@
             },
             "pve": {
                 "skillName": "Engulfing Shout (II)",
-                "skillDescription": "Greatly reduces damage from enemy fire skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy fire skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2214,7 +2214,7 @@
             },
             "pve": {
                 "skillName": "Cry of the Damned (II)",
-                "skillDescription": "Greatly reduces damage from enemy water skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy water skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2254,7 +2254,7 @@
             },
             "pve": {
                 "skillName": "Soothing Command (II)",
-                "skillDescription": "Greatly reduces damage from enemy wind skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy wind skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2286,7 +2286,7 @@
             },
             "pve": {
                 "skillName": "Engulfing Shout (II)",
-                "skillDescription": "Greatly reduces damage from enemy fire skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy fire skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2318,7 +2318,7 @@
             },
             "pve": {
                 "skillName": "Cry of the Damned (II)",
-                "skillDescription": "Greatly reduces damage from enemy water skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy water skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2350,7 +2350,7 @@
             },
             "pve": {
                 "skillName": "Soothing Command (II)",
-                "skillDescription": "Greatly reduces damage from enemy wind skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy wind skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2392,6 +2392,36 @@
                 "skillDescription": "Massively increases water damage against fire enemies.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Satan",
+        "shortName": "Satan",
+        "attribute": 2,
+        "mstId": 552,
+        "resourceName": "0552",
+        "searchString": [
+            "Satan"
+        ],
+        "rarity": 4,
+        "isEvolvable": false,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Tidal Fairy Master (II)",
+                    "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+                    "skillDuration": 70,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Tidal Fairy Master (II)",
+                "skillDescription": "Greatly reduces the SP cost of ally water skills.",
+                "skillDuration": 18,
+                "skillPreparationTime": 8,
                 "skillSPCost": 50
             }
         }
@@ -2595,7 +2625,7 @@
             },
             "pve": {
                 "skillName": "Engulfing Shout (II)",
-                "skillDescription": "Greatly reduces damage from enemy fire skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy fire skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2626,7 +2656,7 @@
             },
             "pve": {
                 "skillName": "Engulfing Shout (II)",
-                "skillDescription": "Greatly reduces damage from enemy fire skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy fire skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2750,7 +2780,7 @@
             },
             "pve": {
                 "skillName": "Soothing Command (II)",
-                "skillDescription": "Greatly reduces damage from enemy wind skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy wind skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2781,7 +2811,7 @@
             },
             "pve": {
                 "skillName": "Soothing Command (II)",
-                "skillDescription": "Greatly reduces damage from enemy wind skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy wind skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2874,7 +2904,7 @@
             },
             "pve": {
                 "skillName": "Cry of the Damned (II)",
-                "skillDescription": "Greatly reduces damage from enemy water skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy water skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2905,7 +2935,7 @@
             },
             "pve": {
                 "skillName": "Cry of the Damned (II)",
-                "skillDescription": "Greatly reduces damage from enemy water skills.",
+                "skillDescription": "Greatly reduces effectiveness of enemy water skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -2913,16 +2943,15 @@
         }
     },
     {
-        "name": "Fina, the Loyal Falsehood",
-        "shortName": "Fina, the Loyal Fals",
+        "name": "Fina, Dishonest Retainer",
+        "shortName": "Fina, Dishonest Reta",
         "attribute": 2,
         "mstId": 583,
         "resourceName": "0583",
         "searchString": [
             "Fina",
-            "the",
-            "Loyal",
-            "Falsehood"
+            "Dishonest",
+            "Retainer"
         ],
         "evolvedMstId": 584,
         "evolvedResourceName": "0584",
@@ -3378,7 +3407,7 @@
             },
             "pve": {
                 "skillName": "Engulfing Shout (I)",
-                "skillDescription": "Reduces damage from enemy fire skills.",
+                "skillDescription": "Reduces damage from enemy fire skills.\\nEffective only against damage skills.",
                 "skillDuration": 20,
                 "skillPreparationTime": 10,
                 "skillSPCost": 50
@@ -3620,6 +3649,47 @@
         }
     },
     {
+        "name": "Fara, Inferiority's Echo",
+        "shortName": "Fara, Inferiority's ",
+        "attribute": 3,
+        "mstId": 1051,
+        "resourceName": "1051",
+        "searchString": [
+            "Fara",
+            "Inferioritys",
+            "Echo"
+        ],
+        "evolvedMstId": 1052,
+        "evolvedResourceName": "1052",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Soothing Command (II)",
+                    "skillDescription": "Greatly reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "Soothing Command (III)",
+                    "skillDescription": "Massively reduces the effectiveness of enemy wind skills.\\nThis summon skill ends when your lifeforce drops below half of that of the enemy.",
+                    "skillDuration": 100,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "Soothing Command (III)",
+                "skillDescription": "Massively reduces damage from enemy wind skills.\\nEffective only against damage skills.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
         "name": "Library Wisp",
         "shortName": "Library Wisp",
         "attribute": 1,
@@ -3655,6 +3725,129 @@
                 "skillDescription": "Massively increases DEF of all surviving allies.\\nApplies to both P.DEF and M.DEF.",
                 "skillDuration": 0,
                 "skillPreparationTime": 20,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
+        "name": "Blanc, the One-Winged Doll",
+        "shortName": "Blanc, the One-Winge",
+        "attribute": 2,
+        "mstId": 1125,
+        "resourceName": "1125",
+        "searchString": [
+            "Blanc",
+            "the",
+            "OneWinged",
+            "Doll"
+        ],
+        "evolvedMstId": 1126,
+        "evolvedResourceName": "1126",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "World of Silence (II)",
+                    "skillDescription": "Greatly reduces the effectiveness of enemy instrument skills.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 70,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "World of Silence (III)",
+                    "skillDescription": "Massively reduces the effectiveness of enemy instrument skills.",
+                    "skillDuration": 100,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "Lover's Embrace (III)",
+                "skillDescription": "Restores 65% of all allies' HP.",
+                "skillDuration": 0,
+                "skillPreparationTime": 10,
+                "skillSPCost": 0
+            }
+        }
+    },
+    {
+        "name": "Cake Spider",
+        "shortName": "Cake Spider",
+        "attribute": 3,
+        "mstId": 1257,
+        "resourceName": "1257",
+        "searchString": [
+            "Cake",
+            "Spider"
+        ],
+        "evolvedMstId": 1258,
+        "evolvedResourceName": "1258",
+        "rarity": 5,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "World of Ignorance (I)",
+                    "skillDescription": "Reduces the effectiveness of enemy tome skills.",
+                    "skillDuration": 80,
+                    "skillPreparationTime": 80,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "World of Ignorance (II)",
+                    "skillDescription": "Greatly reduces the effectiveness of enemy tome skills.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 70,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Lover's Embrace (II)",
+                "skillDescription": "Restores 45% of all allies' HP.",
+                "skillDuration": 0,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Dryas, Mistletoe Linchpin",
+        "shortName": "Dryas, Mistletoe Lin",
+        "attribute": 3,
+        "mstId": 1430,
+        "resourceName": "1430",
+        "searchString": [
+            "Dryas",
+            "Mistletoe",
+            "Linchpin"
+        ],
+        "evolvedMstId": 1431,
+        "evolvedResourceName": "1431",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "The Bell Sounds a Storm (II)",
+                    "skillDescription": "Greatly increases the effectiveness of wind weapon skills, but also increases enemy fire damage.",
+                    "skillDuration": 90,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 0
+                },
+                "postEvo": {
+                    "skillName": "The Bell Sounds a Storm (III)",
+                    "skillDescription": "Massively increases the effectiveness of wind weapon skills, but also increases enemy fire damage.",
+                    "skillDuration": 100,
+                    "skillPreparationTime": 50,
+                    "skillSPCost": 0
+                }
+            },
+            "pve": {
+                "skillName": "The Bell Sounds a Storm (III)",
+                "skillDescription": "Massively increases the effectiveness of wind weapon skills, but also increases enemy fire damage.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
                 "skillSPCost": 0
             }
         }
@@ -4014,6 +4207,138 @@
         }
     },
     {
+        "name": "Villager (Male)",
+        "shortName": "Villager (Male)",
+        "attribute": 2,
+        "mstId": 2630,
+        "resourceName": "2630",
+        "searchString": [
+            "Villager",
+            "Male"
+        ],
+        "rarity": 4,
+        "isEvolvable": false,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Magical Torrent (I)",
+                    "skillDescription": "Recover 5% of all ally SP.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Magical Torrent (I)",
+                "skillDescription": "Recover 5% of all ally SP.",
+                "skillDuration": 0,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Villager (Female)",
+        "shortName": "Villager (Female)",
+        "attribute": 2,
+        "mstId": 2631,
+        "resourceName": "2631",
+        "searchString": [
+            "Villager",
+            "Female"
+        ],
+        "rarity": 4,
+        "isEvolvable": false,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Tidal Fairy Master (I)",
+                    "skillDescription": "Reduces the SP cost of ally water skills.",
+                    "skillDuration": 60,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Tidal Fairy Master (I)",
+                "skillDescription": "Reduces the SP cost of ally water skills.",
+                "skillDuration": 18,
+                "skillPreparationTime": 8,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "Werewolf",
+        "shortName": "Werewolf",
+        "attribute": 2,
+        "mstId": 2632,
+        "resourceName": "2632",
+        "searchString": [
+            "Werewolf"
+        ],
+        "rarity": 4,
+        "isEvolvable": false,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "World of Ignorance (I)",
+                    "skillDescription": "Reduces the effectiveness of enemy tome skills.",
+                    "skillDuration": 80,
+                    "skillPreparationTime": 80,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Whom The Bell Splashes (I)",
+                "skillDescription": "Increases the effectiveness of water weapon skills, but also increases enemy wind damage.",
+                "skillDuration": 20,
+                "skillPreparationTime": 10,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
+        "name": "High Werewolf",
+        "shortName": "High Werewolf",
+        "attribute": 2,
+        "mstId": 2633,
+        "resourceName": "2633",
+        "searchString": [
+            "High",
+            "Werewolf"
+        ],
+        "evolvedMstId": 2634,
+        "evolvedResourceName": "2634",
+        "rarity": 6,
+        "isEvolvable": true,
+        "skill": {
+            "gvg": {
+                "preEvo": {
+                    "skillName": "Fort of Lamentation (I)",
+                    "skillDescription": "Reduces the P.DEF and M.DEF of all enemies in the vanguard even if they have fainted.\\nFurther, if there is a DEF buff, this effect will be improved according to the increase.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 70,
+                    "skillSPCost": 200
+                },
+                "postEvo": {
+                    "skillName": "Fort of Lamentation (II)",
+                    "skillDescription": "Greatly reduces the P.DEF and M.DEF of all enemies in the vanguard even if they have fainted.\\nFurther, if there is a DEF buff, this effect will be improved according to the increase.",
+                    "skillDuration": 0,
+                    "skillPreparationTime": 60,
+                    "skillSPCost": 200
+                }
+            },
+            "pve": {
+                "skillName": "Fort of Lamentation (II)",
+                "skillDescription": "Greatly reduces the P.DEF and M.DEF of all enemies.\\nFurther, if there is a DEF buff, this effect will be improved according to the increase.",
+                "skillDuration": 0,
+                "skillPreparationTime": 20,
+                "skillSPCost": 50
+            }
+        }
+    },
+    {
         "name": "Shadowlord",
         "shortName": "Shadowlord",
         "attribute": 2,
@@ -4029,7 +4354,7 @@
         "skill": {
             "gvg": {
                 "preEvo": {
-                    "skillName": "For Whom The Bell Splashes (I)",
+                    "skillName": "Whom The Bell Splashes (I)",
                     "skillDescription": "Increases the effectiveness of water weapon skills, but also increases enemy wind damage.",
                     "skillDuration": 80,
                     "skillPreparationTime": 70,
@@ -4167,130 +4492,6 @@
                 "skillDescription": "Greatly reduces the SP cost of ally water skills.",
                 "skillDuration": 18,
                 "skillPreparationTime": 8,
-                "skillSPCost": 50
-            }
-        }
-    },
-    {
-        "name": "Cake Spider",
-        "shortName": "Cake Spider",
-        "attribute": 3,
-        "mstId": 1257,
-        "resourceName": "1257",
-        "searchString": [
-            "Cake",
-            "Spdider"
-        ],
-        "evolvedMstId": 1258,
-        "evolvedResourceName": "1258",
-        "rarity": 4,
-        "isEvolvable": true,
-        "skill": {
-            "gvg": {
-                "preEvo": {
-                    "skillName": "World of Ignorance (I)",
-                    "skillDescription": "Reduces the effectiveness of enemy Tome skills.",
-                    "skillDuration": 80,
-                    "skillPreparationTime": 80,
-                    "skillSPCost": 200
-                },
-                "postEvo": {
-                    "skillName": "World of Ignorance (II)",
-                    "skillDescription": "Greatly reduces the effectiveness of enemy Tome skills.",
-                    "skillDuration": 90,
-                    "skillPreparationTime": 70,
-                    "skillSPCost": 200
-                }
-            },
-            "pve": {
-                "skillName": "Lover's Embrace (II)",
-                "skillDescription": "Restore 45% of max HP for all surviving allies.",
-                "skillDuration": 0,
-                "skillPreparationTime": 10,
-                "skillSPCost": 50
-            }
-        }
-    },
-    {
-        "name": "One Winged Doll, Blanc",
-        "shortName": "Blanc",
-        "attribute": 2,
-        "mstId": 1125,
-        "resourceName": "1125",
-        "searchString": [
-            "One",
-            "Winged",
-            "Doll",
-            "Blanc"
-        ],
-        "evolvedMstId": 1126,
-        "evolvedResourceName": "1126",
-        "rarity": 4,
-        "isEvolvable": true,
-        "skill": {
-            "gvg": {
-                "preEvo": {
-                    "skillName": "血界ハ楽器ヲ拒ム (II)",
-                    "skillDescription": "Reduces the effectiveness of enemy Instrument skills.",
-                    "skillDuration": 90,
-                    "skillPreparationTime": 70,
-                    "skillSPCost": 0
-                },
-                "postEvo": {
-                    "skillName": "血界ハ楽器ヲ拒ム (III)",
-                    "skillDescription": "Greatly reduces the effectiveness of enemy Instrument skills.",
-                    "skillDuration": 100,
-                    "skillPreparationTime": 60,
-                    "skillSPCost": 0
-                }
-            },
-            "pve": {
-                "skillName": "Lover's Embrace (II)",
-                "skillDescription": "Restore 45% of max HP for all surviving allies.",
-                "skillDuration": 0,
-                "skillPreparationTime": 10,
-                "skillSPCost": 0
-            }
-        }
-    },
-    {
-        "name": "Fear, Warden of the Prison",
-        "shortName": "Fear, Warden of the Prison",
-        "attribute": 2,
-        "mstId": 1498,
-        "resourceName": "1498",
-        "searchString": [
-            "Fear",
-            "Warden",
-            "of",
-            "Prison"
-        ],
-        "evolvedMstId": 1499,
-        "evolvedResourceName": "1499",
-        "rarity": 4,
-        "isEvolvable": true,
-        "skill": {
-            "gvg": {
-                "preEvo": {
-                    "skillName": "逆巻ク魔力ノ順風 (II)",
-                    "skillDescription": "Restore 25% of max SP for all allies with vanguard/attack jobs.",
-                    "skillDuration": 0,
-                    "skillPreparationTime": 50,
-                    "skillSPCost": 200
-                },
-                "postEvo": {
-                    "skillName": "逆巻ク魔力ノ順風 (III)",
-                    "skillDescription": "Restore 35% of max SP for all allies with vanguard/attack jobs.",
-                    "skillDuration": 0,
-                    "skillPreparationTime": 40,
-                    "skillSPCost": 200
-                }
-            },
-            "pve": {
-                "skillName": "逆巻ク魔力ノ順風 (III)",
-                "skillDescription": "Restore 35% of max SP for all allies with vanguard/attack jobs.",
-                "skillDuration": 0,
-                "skillPreparationTime": 10,
                 "skillSPCost": 50
             }
         }

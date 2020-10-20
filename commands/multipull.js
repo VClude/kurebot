@@ -35,37 +35,37 @@ let pull = function(rateup) {
     let result = roll();
 
     if(result >= 1 && result <= 3 ) {
-        var animalArray  = Object.keys(weapSR);
+        var gachaArr  = Object.keys(weapSR);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapSR[randomKey]; 
         return randomValue;
 
     }
 
     if(result >= 4 && result <= 20) {
-        var animalArray  = Object.keys(weapS);
+        var gachaArr  = Object.keys(weapS);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapS[randomKey]; 
         return randomValue;
     }
 
     if(result >= 21 && result <= 100) {
-        var animalArray  = Object.keys(weapA);
+        var gachaArr  = Object.keys(weapA);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapA[randomKey]; 
         return randomValue;
     }
 
-        var animalArray  = Object.keys(weapA);
+        var gachaArr  = Object.keys(weapA);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapA[randomKey]; 
         return randomValue;
 }
@@ -75,29 +75,29 @@ let pullSpec = function(rateup) {
     let result = roll();
 
     if(result >= 1 && result <= 25 ) {
-        var animalArray  = Object.keys(weapSR);
+        var gachaArr  = Object.keys(weapSR);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapSR[randomKey]; 
         return randomValue;
 
     }
 
     if(result >= 26 && result <= 100 ) {
-        var animalArray  = Object.keys(weapS);
+        var gachaArr  = Object.keys(weapS);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapS[randomKey]; 
         return randomValue;
 
     }
 
-        var animalArray  = Object.keys(weapS);
+        var gachaArr  = Object.keys(weapS);
         var randomNumber = Math.random();
-        var animalIndex  = Math.floor(randomNumber * animalArray.length);
-        var randomKey    = animalArray[animalIndex];
+        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+        var randomKey    = gachaArr[gachaIndex];
         var randomValue  = weapS[randomKey]; 
         return randomValue;
 }
@@ -105,10 +105,10 @@ let pullSpec = function(rateup) {
 
 let pullGuaranteed = function(rateup, guaranteed) {
     const weapSR = require(rateup);
-    var animalArray  = Object.keys(weapSR);
+    var gachaArr  = Object.keys(weapSR);
     var randomNumber = Math.random();
-    var animalIndex  = Math.floor(randomNumber * guaranteed.length);
-    var randomKey    = animalArray[animalIndex];
+    var gachaIndex  = Math.floor(randomNumber * guaranteed.length);
+    var randomKey    = gachaArr[gachaIndex];
     var randomValue  = weapSR[randomKey]; 
     return randomValue;
 }
