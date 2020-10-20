@@ -74,7 +74,7 @@ let pullSpec = function(rateup) {
     const weapSR = require(rateup);
     let result = roll();
 
-    if(result >= 1 && result <= 25 ) {
+    if(result >= 1 && result <= 3 ) {
         var animalArray  = Object.keys(weapSR);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
@@ -84,7 +84,7 @@ let pullSpec = function(rateup) {
 
     }
 
-    if(result >= 26 && result <= 100 ) {
+    if(result >= 4 && result <= 100 ) {
         var animalArray  = Object.keys(weapS);
         var randomNumber = Math.random();
         var animalIndex  = Math.floor(randomNumber * animalArray.length);
