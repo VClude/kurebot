@@ -143,6 +143,15 @@ module.exports = {
         return;
     }
 
+    if(!bot_config.event[args[0]].enabled) {
+        const embed = new Discord.MessageEmbed()
+                            .setTitle('Banner Locked')
+                            .setDescription('**!s multipull** for available banner list')
+                            .setColor(12745742)
+                        message.channel.send({embed});
+        return;
+    }
+
     let query = 'select * from user where `id` = ?';
     let parser = [user.user.id];
 
