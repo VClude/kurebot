@@ -22,12 +22,12 @@ module.exports = {
         
             // message.channel.send(emsg);
             // return;
-            args[0] = 2000;
+            args[0] = 3000;
         }
 
         if(args[0] && isNaN(args[0])){
            
-            args[0] = 2000;
+            args[0] = 3000;
             // const emsg = new Discord.MessageEmbed()
             // .setColor('#0099ff')
             // .setTitle('Panduan Cara topup')
@@ -40,7 +40,7 @@ module.exports = {
 
 
         if(args[0] && !isNaN(args[0])) {
-            if(parseInt(args[0]) > 4000){
+            if(parseInt(args[0]) > 50000){
                 // const emsg = new Discord.MessageEmbed()
                 // .setColor('#0099ff')
                 // .setTitle('Panduan Cara topup')
@@ -49,7 +49,7 @@ module.exports = {
             
                 // message.channel.send(emsg);
                 // return;
-                args[0] = 4000;
+                args[0] = 50000;
             }
 
             if(parseInt(args[0]) < 10){
@@ -61,7 +61,7 @@ module.exports = {
             
                 // message.channel.send(emsg);
                 // return;
-                args[0] = 2000;
+                args[0] = 10;
             }
             let topup = parseInt(args[0]) * 1200;
             let nominal = String(topup).replace(/(.)(?=(\d{3})+$)/g,'$1,');
