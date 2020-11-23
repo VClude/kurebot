@@ -169,19 +169,21 @@ module.exports = {
                 const emsg = new Discord.MessageEmbed()
                 .setColor('#0099ff')
                 .setTitle(`Insufficient ${gemus}`)
-                .setDescription(`${gemus} lo kurang, sana topup **!s topup**`);
+                .setDescription(`Insufficient ${gemus}, Please do Topup **!s topup**`);
             
                  message.channel.send(emsg);                    
                 }
             else{
                 let isStepup = bot_config.event[args[0]].stepup;
                 let poolRate = bot_config.event[args[0]].rateup;
+                let isGuaranteed = bot_config.event[args[0]].isguaranteed;
+                let isFree = bot_config.event[args[0]].cost;
                 let images = ['./assets/img/gambargacha.png']
                 let textE = [];
                 let isSR = 0;
                 let srcontent = [];
                 let stepupcounter = 0;
-                let quantitygacha = 11;
+                let quantitygacha = bot_config.event[args[0]].quantity;
                 if(isStepup){
                     let query = 'select stepup from stepup where `discid` = ? and `gachaid` = ?';
                     let parser = [user.user.id, args[0]];
@@ -270,8 +272,16 @@ module.exports = {
                             data[0].write(theUrl, function(){
         
                                 newSR = parseInt(oldSR) + parseInt(isSR);
-                                reducer = quantitygacha == 11 ? 300 : 150;
-                                creducer = quantitygacha == 11 ? 10 : 5;
+                                if(isFree){
+                                    reducer = 0;
+                                    creducer = 0;
+                                 
+                                }
+                                else{
+                                    reducer = quantitygacha == 11 ? 300 : 150;
+                                    creducer = quantitygacha == 11 ? 10 : 5;
+                                }
+                                
                                 newGem = parseInt(oldGem) - reducer;
                                 newSpent = parseInt(oldSpent) + 300;
                                 newGPull = parseInt(oldGpull) + creducer;
@@ -369,26 +379,39 @@ module.exports = {
 
                 else{
                 // console.log(quantitygacha);
-                for(let i = 0; i < 11; i++){
-                    if(i == 10){
-                        if(bot_config.event[args[0]].guaranteed){
-                            a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
-                                textE.push(util.evalRarity(a.rarity,client) + a.name);
+                for(let i = 0; i < quantitygacha; i++){
+                    if(isGuaranteed){
+                        if(i == 10){
+                            if(bot_config.event[args[0]].guaranteed){
+                                a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
+                                    textE.push(util.evalRarity(a.rarity,client) + a.name);
+                                    images.push(a.url);
+                                    isSR = isSR + 1;
+                                    srcontent.push({'weapid':a.resourceName,'weapname': a.name});
+                                }
+                            else{
+                                a = pullSpec(poolRate);
+                                if(a.rarity == 'SR'){
+                                    textE.push(util.evalRarity(a.rarity,client) + a.name);
+                                    isSR = isSR + 1;
+                                    srcontent.push({'weapid':a.resourceName,'weapname': a.name});
+                                }
                                 images.push(a.url);
-                                isSR = isSR + 1;
-                                srcontent.push({'weapid':a.resourceName,'weapname': a.name});
                             }
+                          
+                            
+                        }
                         else{
-                            a = pullSpec(poolRate);
+                            a = pull(poolRate);
                             if(a.rarity == 'SR'){
                                 textE.push(util.evalRarity(a.rarity,client) + a.name);
                                 isSR = isSR + 1;
                                 srcontent.push({'weapid':a.resourceName,'weapname': a.name});
                             }
                             images.push(a.url);
+                           
+                  
                         }
-                      
-                        
                     }
                     else{
                         a = pull(poolRate);
@@ -401,6 +424,7 @@ module.exports = {
                        
               
                     }
+
                 }
          
                 
@@ -411,13 +435,22 @@ module.exports = {
                 let theUrl = '';
                 for(let i = 0; i < images.length; i++){
                     jimps.push(jimp.read(images[i])); 
+                    
                 }
-               
-            
+
                 Promise.all(jimps).then(function(data){
                     return Promise.all(jimps);
                 }).then(function(data){
-              
+                    if(images.length == 6){
+                        data[0].composite(data[1],30,30);
+                        data[0].composite(data[2],186,30);
+                        data[0].composite(data[3],342,30);
+                
+                        data[0].composite(data[4],30,186);
+                        data[0].composite(data[5],186,186);
+                        
+                    }
+                    else{
                         data[0].composite(data[1],30,30);
                         data[0].composite(data[2],186,30);
                         data[0].composite(data[3],342,30);
@@ -432,6 +465,8 @@ module.exports = {
                 
                         data[0].composite(data[10],113,498);
                         data[0].composite(data[11],269,498);
+                    }
+                        
         
             
                     imgName = uuid.v1() + '.png';
@@ -440,9 +475,19 @@ module.exports = {
                     data[0].write(theUrl, function(){
 
                         newSR = parseInt(oldSR) + parseInt(isSR);
-                        newGem = parseInt(oldGem) - 300;
+                        if(isFree){
+                            reducer = 0;
+                            creducer = 0;
+                         
+                        }
+                        else{
+                            reducer = quantitygacha == 11 ? 300 : 150;
+                            creducer = quantitygacha == 11 ? 10 : 5;
+                        }
+                        
+                        newGem = parseInt(oldGem) - reducer;
                         newSpent = parseInt(oldSpent) + 300;
-                        newGPull = parseInt(oldGpull) + 10;
+                        newGPull = parseInt(oldGpull) + creducer;
                         counter = 0;
                         if(srcontent.length == 0){
                             query = 'UPDATE user SET gem = ?,spent =?, srcollect = ?, gachapull = ? where id = ?';
@@ -534,12 +579,12 @@ module.exports = {
        else{
         const emsg = new Discord.MessageEmbed()
         .setColor('#0099ff')
-        .setTitle('Data belum ada')
-        .setDescription('selamat datang di gacha simulator sinoalis, silahkan lakukan topup pertama kali untuk memulai gacha dengan  **!s topup**')
-        .addField('Langkah 1', 'Topup saldo di Googleplay **!s topup <nominal crystal>**')
-        .addField('Langkah 2', 'Gacha **!s pull** / **!s multipull**')
-        .addField('Langkah 3', 'lihat statistik gacha anda di **!s statgacha**')
-        .addField('Langkah 4', 'gem abis ? topup lagi lah, whale mah bebas')
+        .setTitle('You havent topup Crystal yet')
+        .setDescription('it seems you are first time using this command, please following this step to do gacha :')
+        .addField('Step 1', 'type  **!s topup 10000**')
+        .addField('Step 2', 'Do the Gacha by typing **!s pull** / **!s multipull**')
+        .addField('Step 3', 'show your gacha statistics here **!s statgacha**')
+        .addField('Step 4', 'do another topup when your crystal run out')
          message.channel.send(emsg);
                 
        }

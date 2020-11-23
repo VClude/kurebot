@@ -9,6 +9,7 @@ var nightmares = [];
 var nightmaresA = [];
 var nightmaresS = [];
 var nightmaresSR = [];
+var nightmaresSRR = [];
 var y = 0;
 for (let i = 0; i < card.length; i++) {
 
@@ -60,11 +61,27 @@ for (let i = 0; i < card.length; i++) {
         nightmaresSR.push(nightmare);
     }
 
+    if(card[i].cardType === 3 && card[i].evolutionLevel === 0 && card[i].rarity === 5){
+        y++;
+        console.log('in iteration ' + y + ' Nightmare->' + card[i].name);
+        nightmare.name = translate.latinize(card[i].name);
+        nightmare.shortName = card[i].shortName;
+        nightmare.attribute = card[i].attribute;
+        nightmare.mstId = card[i].cardMstId;
+        nightmare.resourceName = card[i].resourceName;
+        nightmare.rarity = 'SR';
+        nightmare.url = './assets/img/weapSR/' + card[i].resourceName + '.png'
+        
+        
+
+        nightmaresSRR.push(nightmare);
+    }
+
 }
 
 // convert JSON object to string
 const dataA = JSON.stringify(nightmaresA);
-const dataS = JSON.stringify(nightmaresS);
+const dataS = JSON.stringify(nightmaresSRR);
 const dataSR = JSON.stringify(nightmaresSR);
 // write JSON string to a file
 fs.writeFile('./assets/json/weaponA.json', dataA, (err) => {
@@ -73,7 +90,7 @@ fs.writeFile('./assets/json/weaponA.json', dataA, (err) => {
     }
     console.log("JSON data is saved.");
 });
-fs.writeFile('./assets/json/weaponS.json', dataS, (err) => {
+fs.writeFile('./assets/json/NMSR.json', dataS, (err) => {
     if (err) {
         throw err;
     }
