@@ -273,13 +273,14 @@ module.exports = {
         
                                 newSR = parseInt(oldSR) + parseInt(isSR);
                                 if(isFree){
-                                    reducer = 0;
-                                    creducer = 0;
+                                    reducer = quantitygacha == 11 ? 300 : 150;
+                                    creducer = quantitygacha == 11 ? 10 : 5;
                                  
                                 }
                                 else{
-                                    reducer = quantitygacha == 11 ? 300 : 150;
-                                    creducer = quantitygacha == 11 ? 10 : 5;
+                                    reducer = 0;
+                                    creducer = 0;
+
                                 }
                                 
                                 newGem = parseInt(oldGem) - reducer;
@@ -476,13 +477,14 @@ module.exports = {
 
                         newSR = parseInt(oldSR) + parseInt(isSR);
                         if(isFree){
-                            reducer = 0;
-                            creducer = 0;
+                            reducer = quantitygacha == 11 ? 300 : 150;
+                            creducer = quantitygacha == 11 ? 10 : 5;
                          
                         }
                         else{
-                            reducer = quantitygacha == 11 ? 300 : 150;
-                            creducer = quantitygacha == 11 ? 10 : 5;
+                            reducer = 0;
+                            creducer = 0;
+
                         }
                         
                         newGem = parseInt(oldGem) - reducer;
