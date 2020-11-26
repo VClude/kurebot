@@ -376,7 +376,7 @@ module.exports = {
         
 
 
-                        // console.log(quantitygacha);
+                        
 
                         let query = res[0] ? 'update stepup set stepup = ? where discid = ? and gachaid = ?' : 'insert into stepup values (?,?,?)';
                         let parser = res[0] ? [qst,user.user.id,args[0]] : [user.user.id, args[0], 1];
