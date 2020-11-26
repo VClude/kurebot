@@ -151,7 +151,7 @@ module.exports = {
                         message.channel.send({embed});
         return;
     }
-
+    let tccostinit = bot_config.event[args[0]].tccost[0];
     let query = 'select * from user where `id` = ?';
     let parser = [user.user.id];
 
@@ -163,13 +163,13 @@ module.exports = {
             oldSR = res[0].srcollect;
             oldGpull = res[0].gachapull;
             oldSpent = res[0].spent;
-
-            if(oldGem < 300){
+            isNotFree = bot_config.event[args[0]].cost;
+            if(oldGem < tccostinit && isNotFree){
                 let gemus = client.emojis.cache.find(emoji => emoji.name === 'gemus');
                 const emsg = new Discord.MessageEmbed()
                 .setColor('#0099ff')
                 .setTitle(`Insufficient ${gemus}`)
-                .setDescription(`Insufficient ${gemus}, Please do Topup **!s topup**`);
+                .setDescription(`Insufficient ${gemus} , You need at least ${gemus} ${tccostinit} to do pull , Please do Topup **!s topup**`);
             
                  message.channel.send(emsg);                    
                 }
@@ -183,6 +183,7 @@ module.exports = {
                 let isSR = 0;
                 let srcontent = [];
                 let stepupcounter = 0;
+                let tccost = bot_config.event[args[0]].tccost[0];
                 let quantitygacha = bot_config.event[args[0]].quantity;
                 if(isStepup){
                     let query = 'select stepup from stepup where `discid` = ? and `gachaid` = ?';
@@ -190,15 +191,21 @@ module.exports = {
                     mys.doQuery(query,parser,function(results){ 
                         res =JSON.parse(JSON.stringify(results));
                         stepupcounter = res[0] ? res[0].stepup : stepupcounter;
-                        let quantitygacha = (res[0] && parseInt(res[0].stepup) < 2 || !res[0] || res[0] && parseInt(res[0].stepup) == 5) ? 5 : 11;
+                        // let quantitygacha = (res[0] && parseInt(res[0].stepup) < 2 || !res[0] || res[0] && parseInt(res[0].stepup) == 5) ? 5 : 11;
+
                         let textE = [];
                         let isSR = 0;
                         let srcontent = [];
                         let qst = parseInt(stepupcounter) + 1;
-                        qst = parseInt(qst) > 5 ? 1 : qst;
+                        qst = parseInt(qst) > bot_config.event[args[0]].stepmax ? 1 : qst;
+                        let quantitygacha = bot_config.event[args[0]].stepqty[parseInt(qst) - 1];
+                        let tccost = bot_config.event[args[0]].tccost[parseInt(qst) - 1];
+                        // console.log("stepup counter : " + stepupcounter)
+                        // console.log("qty gacha : " + quantitygacha)
+                        // console.log(qst + " " + bot_config.event[args[0]].stepmax + " " + quantitygacha);
                         for(let i = 0; i < quantitygacha; i++){
                             if(quantitygacha == 5 && i == 4 || quantitygacha == 11 && i == 10){
-                                if(bot_config.event[args[0]].guaranteed && i == 10){
+                                if(qst == bot_config.event[args[0]].stepmax){
                                     a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
                                         textE.push(util.evalRarity(a.rarity,client) + a.name);
                                         images.push(a.url);
@@ -237,7 +244,7 @@ module.exports = {
                         for(let i = 0; i < images.length; i++){
                             jimps.push(jimp.read(images[i])); 
                         }
-                       
+                    //    console.log(images.length);
                     
                         Promise.all(jimps).then(function(data){
                             return Promise.all(jimps);
@@ -273,8 +280,8 @@ module.exports = {
         
                                 newSR = parseInt(oldSR) + parseInt(isSR);
                                 if(isFree){
-                                    reducer = quantitygacha == 11 ? 300 : 150;
-                                    creducer = quantitygacha == 11 ? 10 : 5;
+                                    reducer = tccost;
+                                    creducer = quantitygacha;
                                  
                                 }
                                 else{
@@ -284,7 +291,7 @@ module.exports = {
                                 }
                                 
                                 newGem = parseInt(oldGem) - reducer;
-                                newSpent = parseInt(oldSpent) + 300;
+                                newSpent = parseInt(oldSpent) + reducer;
                                 newGPull = parseInt(oldGpull) + creducer;
                                 counter = 0;
                                 if(srcontent.length == 0){
@@ -477,8 +484,8 @@ module.exports = {
 
                         newSR = parseInt(oldSR) + parseInt(isSR);
                         if(isFree){
-                            reducer = quantitygacha == 11 ? 300 : 150;
-                            creducer = quantitygacha == 11 ? 10 : 5;
+                            reducer = tccost;
+                            creducer = quantitygacha;
                          
                         }
                         else{
@@ -488,7 +495,7 @@ module.exports = {
                         }
                         
                         newGem = parseInt(oldGem) - reducer;
-                        newSpent = parseInt(oldSpent) + 300;
+                        newSpent = parseInt(oldSpent) + reducer;
                         newGPull = parseInt(oldGpull) + creducer;
                         counter = 0;
                         if(srcontent.length == 0){
