@@ -215,36 +215,36 @@ module.exports = {
                         // console.log("qty gacha : " + quantitygacha)
                         // console.log(qst + " " + bot_config.event[args[0]].stepmax + " " + quantitygacha);
                         for(let i = 0; i < quantitygacha; i++){
-                            if(args[0] == 1 && quantitygacha == 11 && i > 8){
+                            // if(args[0] == 1 && quantitygacha == 11 && i > 8){
 
-                                if(qst == bot_config.event[args[0]].stepmax && i == 10){
-                                    console.log('get');
-                                    a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
-                                        textE.push(util.evalRarity(a.rarity,client) + a.name);
-                                        images.push(a.url);
-                                        isSR = isSR + 1;
-                                        srcontent.push({'weapid':a.resourceName,'weapname': a.name});
-                                    }
-                                    else if(qst == bot_config.event[args[0]].stepmax && i == 9){
-                                        console.log('get');
-                                        a = pullGuaranteed2(poolRate);
-                                            textE.push(util.evalRarity(a.rarity,client) + a.name);
-                                            images.push(a.url);
-                                            isSR = isSR + 1;
-                                            srcontent.push({'weapid':a.resourceName,'weapname': a.name});
-                                        } 
-                                else{
-                                    a = pullSpec(poolRate);
-                                    if(a.rarity == 'SR'){
-                                        textE.push(util.evalRarity(a.rarity,client) + a.name);
-                                        isSR = isSR + 1;
-                                        srcontent.push({'weapid':a.resourceName,'weapname': a.name});
-                                    }
-                                    images.push(a.url);
-                                }
+                            //     if(qst == bot_config.event[args[0]].stepmax && i == 10){
+                            //         console.log('get');
+                            //         a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
+                            //             textE.push(util.evalRarity(a.rarity,client) + a.name);
+                            //             images.push(a.url);
+                            //             isSR = isSR + 1;
+                            //             srcontent.push({'weapid':a.resourceName,'weapname': a.name});
+                            //         }
+                            //         else if(qst == bot_config.event[args[0]].stepmax && i == 9){
+                            //             console.log('get');
+                            //             a = pullGuaranteed2(poolRate);
+                            //                 textE.push(util.evalRarity(a.rarity,client) + a.name);
+                            //                 images.push(a.url);
+                            //                 isSR = isSR + 1;
+                            //                 srcontent.push({'weapid':a.resourceName,'weapname': a.name});
+                            //             } 
+                            //     else{
+                            //         a = pullSpec(poolRate);
+                            //         if(a.rarity == 'SR'){
+                            //             textE.push(util.evalRarity(a.rarity,client) + a.name);
+                            //             isSR = isSR + 1;
+                            //             srcontent.push({'weapid':a.resourceName,'weapname': a.name});
+                            //         }
+                            //         images.push(a.url);
+                            //     }
 
-                            }
-                            else if(args[0] != 1 && quantitygacha == 5 && i == 4 || args[0] != 1 && quantitygacha == 11 && i == 10){
+                            // }
+                            if(quantitygacha == 5 && i == 4 || args[0] != 1 && quantitygacha == 11 && i == 10){
                                 if(qst == bot_config.event[args[0]].stepmax){
                                     a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
                                         textE.push(util.evalRarity(a.rarity,client) + a.name);
