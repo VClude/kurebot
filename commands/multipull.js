@@ -35,10 +35,12 @@ let pull = function(rateup) {
     let result = roll();
 
     if(result >= 1 && result <= 3 ) {
+        var number = roll();
         var gachaArr  = Object.keys(weapSR);
+        var theArray = (number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
         var randomNumber = Math.random();
-        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
-        var randomKey    = gachaArr[gachaIndex];
+        var gachaIndex  = Math.floor(randomNumber * theArray.length);
+        var randomKey    = theArray[gachaIndex];
         var randomValue  = weapSR[randomKey]; 
         return randomValue;
 
@@ -75,10 +77,12 @@ let pullSpec = function(rateup) {
     let result = roll();
 
     if(result >= 1 && result <= 3 ) {
+        var number = roll();
         var gachaArr  = Object.keys(weapSR);
+        var theArray = (number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
         var randomNumber = Math.random();
-        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
-        var randomKey    = gachaArr[gachaIndex];
+        var gachaIndex  = Math.floor(randomNumber * theArray.length);
+        var randomKey    = theArray[gachaIndex];
         var randomValue  = weapSR[randomKey]; 
         return randomValue;
 
