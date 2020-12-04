@@ -117,16 +117,16 @@ let pullGuaranteed = function(rateup, guaranteed) {
     return randomValue;
 }
 
-let pullGuaranteed2 = function(rateup) {
-    const weapSR = require(rateup);
-        var gachaArr  = Object.keys(weapSR);
-        var randomNumber = Math.random();
-        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
-        var randomKey    = gachaArr[gachaIndex];
-        var randomValue  = weapSR[randomKey]; 
-        return randomValue;
+// let pullGuaranteed2 = function(rateup) {
+//     const weapSR = require(rateup);
+//         var gachaArr  = Object.keys(weapSR);
+//         var randomNumber = Math.random();
+//         var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
+//         var randomKey    = gachaArr[gachaIndex];
+//         var randomValue  = weapSR[randomKey]; 
+//         return randomValue;
 
-}
+// }
 
 
 
