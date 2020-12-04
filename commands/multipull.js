@@ -107,9 +107,9 @@ let pullSpec = function(rateup, isRateup) {
 
 let pullGuaranteed = function(rateup, guaranteed) {
     const weapSR = require(rateup);
-    var gachaArr  = Object.keys(weapSR);
+    var gachaArr  = Object.keys(weapSR.rateup);
     var randomNumber = Math.random();
-    var gachaIndex  = Math.floor(randomNumber * rateup.rateup.length);
+    var gachaIndex  = Math.floor(randomNumber * rateup.length);
     var randomKey    = gachaArr[gachaIndex];
     var randomValue  = weapSR[randomKey]; 
     return randomValue;
