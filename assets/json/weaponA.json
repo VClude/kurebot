@@ -1,4 +1,276 @@
 [{
+    "name": "Poet's Harp",
+    "shortName": "Poet's Harp",
+    "attribute": 1,
+    "mstId": 49,
+    "resourceName": "0049",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0049.png"
+}, {
+    "name": "Otherworldly Chronicles",
+    "shortName": "Otherworldly Chronic",
+    "attribute": 1,
+    "mstId": 52,
+    "resourceName": "0052",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0052.png"
+}, {
+    "name": "Scepter of Power",
+    "shortName": "Scepter of Power",
+    "attribute": 1,
+    "mstId": 55,
+    "resourceName": "0055",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0055.png"
+}, {
+    "name": "Sword of Necessary Evil",
+    "shortName": "Sword of Necessary E",
+    "attribute": 1,
+    "mstId": 58,
+    "resourceName": "0058",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0058.png"
+}, {
+    "name": "Strongman's Hammer",
+    "shortName": "Strongman's Hammer",
+    "attribute": 1,
+    "mstId": 61,
+    "resourceName": "0061",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0061.png"
+}, {
+    "name": "Farmer's Bow",
+    "shortName": "Farmer's Bow",
+    "attribute": 1,
+    "mstId": 64,
+    "resourceName": "0064",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0064.png"
+}, {
+    "name": "The Wolf's Offering",
+    "shortName": "The Wolf's Offering",
+    "attribute": 1,
+    "mstId": 67,
+    "resourceName": "0067",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0067.png"
+}, {
+    "name": "Lovely Violin",
+    "shortName": "Lovely Violin",
+    "attribute": 1,
+    "mstId": 69,
+    "resourceName": "0069",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0069.png"
+}, {
+    "name": "Chaotic Desire",
+    "shortName": "Chaotic Desire",
+    "attribute": 1,
+    "mstId": 71,
+    "resourceName": "0071",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0071.png"
+}, {
+    "name": "Apprentice's Staff",
+    "shortName": "Apprentice's Staff",
+    "attribute": 1,
+    "mstId": 73,
+    "resourceName": "0073",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0073.png"
+}, {
+    "name": "Tunnel Treasure Chest",
+    "shortName": "Tunnel Treasure Ches",
+    "attribute": 1,
+    "mstId": 75,
+    "resourceName": "0075",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0075.png"
+}, {
+    "name": "Dagger of the Covenant",
+    "shortName": "Dagger of the Covena",
+    "attribute": 1,
+    "mstId": 77,
+    "resourceName": "0077",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0077.png"
+}, {
+    "name": "Assassin's Kit",
+    "shortName": "Assassin's Kit",
+    "attribute": 1,
+    "mstId": 79,
+    "resourceName": "0079",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0079.png"
+}, {
+    "name": "Calamitous Bow",
+    "shortName": "Calamitous Bow",
+    "attribute": 1,
+    "mstId": 81,
+    "resourceName": "0081",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0081.png"
+}, {
+    "name": "Dragon Scythe",
+    "shortName": "Dragon Scythe",
+    "attribute": 1,
+    "mstId": 83,
+    "resourceName": "0083",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0083.png"
+}, {
+    "name": "Scales of Fortune",
+    "shortName": "Scales of Fortune",
+    "attribute": 1,
+    "mstId": 85,
+    "resourceName": "0085",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0085.png"
+}, {
+    "name": "Blessed Violin",
+    "shortName": "Blessed Violin",
+    "attribute": 2,
+    "mstId": 151,
+    "resourceName": "0151",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0151.png"
+}, {
+    "name": "Tome of Visions",
+    "shortName": "Tome of Visions",
+    "attribute": 2,
+    "mstId": 153,
+    "resourceName": "0153",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0153.png"
+}, {
+    "name": "Devilish Staff",
+    "shortName": "Devilish Staff",
+    "attribute": 2,
+    "mstId": 156,
+    "resourceName": "0156",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0156.png"
+}, {
+    "name": "Fairy Song",
+    "shortName": "Fairy Song",
+    "attribute": 2,
+    "mstId": 159,
+    "resourceName": "0159",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0159.png"
+}, {
+    "name": "Sword of Sacrifice",
+    "shortName": "Sword of Sacrifice",
+    "attribute": 2,
+    "mstId": 162,
+    "resourceName": "0162",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0162.png"
+}, {
+    "name": "Oblivion's Intent",
+    "shortName": "Oblivion's Intent",
+    "attribute": 2,
+    "mstId": 165,
+    "resourceName": "0165",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0165.png"
+}, {
+    "name": "Decimation Spear",
+    "shortName": "Decimation Spear",
+    "attribute": 2,
+    "mstId": 168,
+    "resourceName": "0168",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0168.png"
+}, {
+    "name": "Reluctant Rendezvous",
+    "shortName": "Reluctant Rendezvous",
+    "attribute": 2,
+    "mstId": 171,
+    "resourceName": "0171",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0171.png"
+}, {
+    "name": "Study of Yggdrasil",
+    "shortName": "Study of Yggdrasil",
+    "attribute": 2,
+    "mstId": 173,
+    "resourceName": "0173",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0173.png"
+}, {
+    "name": "Staff of Insanity",
+    "shortName": "Staff of Insanity",
+    "attribute": 2,
+    "mstId": 175,
+    "resourceName": "0175",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0175.png"
+}, {
+    "name": "Crystal Ball",
+    "shortName": "Crystal Ball",
+    "attribute": 2,
+    "mstId": 177,
+    "resourceName": "0177",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0177.png"
+}, {
+    "name": "Loving Blades",
+    "shortName": "Loving Blades",
+    "attribute": 2,
+    "mstId": 179,
+    "resourceName": "0179",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0179.png"
+}, {
+    "name": "Maul of Carnage",
+    "shortName": "Maul of Carnage",
+    "attribute": 2,
+    "mstId": 181,
+    "resourceName": "0181",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0181.png"
+}, {
+    "name": "Fairy Blaster",
+    "shortName": "Fairy Blaster",
+    "attribute": 2,
+    "mstId": 183,
+    "resourceName": "0183",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0183.png"
+}, {
+    "name": "Maiden's Purity",
+    "shortName": "Maiden's Purity",
+    "attribute": 2,
+    "mstId": 185,
+    "resourceName": "0185",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0185.png"
+}, {
+    "name": "Vigilante's Pride",
+    "shortName": "Vigilante's Pride",
+    "attribute": 2,
+    "mstId": 187,
+    "resourceName": "0187",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0187.png"
+}, {
+    "name": "Puppeteer's Magic",
+    "shortName": "Puppeteer's Magic",
+    "attribute": 3,
+    "mstId": 235,
+    "resourceName": "0235",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0235.png"
+}, {
+    "name": "Ruined Gun",
+    "shortName": "Ruined Gun",
+    "attribute": 3,
+    "mstId": 256,
+    "resourceName": "0256",
+    "rarity": "A",
+    "url": "./assets/img/weapA/0256.png"
+}, {
     "name": "The Bard and the Fairy",
     "shortName": "The Bard and the Fai",
     "attribute": 3,
