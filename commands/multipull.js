@@ -106,10 +106,11 @@ let pullSpec = function(rateup, isRateup) {
 
 
 let pullGuaranteed = function(rateup, guaranteed) {
+
     const weapSR = require(rateup);
     var gachaArr  = Object.keys(weapSR.rateup);
     var randomNumber = Math.random();
-    var gachaIndex  = Math.floor(randomNumber * rateup.length);
+    var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
     var randomKey    = gachaArr[gachaIndex];
     var randomValue  = weapSR.rateup[randomKey]; 
     return randomValue;
