@@ -111,7 +111,7 @@ let pullGuaranteed = function(rateup, guaranteed) {
     var randomNumber = Math.random();
     var gachaIndex  = Math.floor(randomNumber * rateup.length);
     var randomKey    = gachaArr[gachaIndex];
-    var randomValue  = weapSR[randomKey]; 
+    var randomValue  = weapSR.rateup[randomKey]; 
     return randomValue;
 }
 
