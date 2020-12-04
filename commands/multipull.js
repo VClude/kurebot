@@ -37,7 +37,7 @@ let pull = function(rateup) {
     if(result >= 1 && result <= 3 ) {
         var number = roll();
         var gachaArr  = Object.keys(weapSR);
-        var theArray = (number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
+        var theArray = (gachaArr.property.rateup == true && number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * theArray.length);
         var randomKey    = theArray[gachaIndex];
@@ -72,14 +72,14 @@ let pull = function(rateup) {
         return randomValue;
 }
 
-let pullSpec = function(rateup) {
+let pullSpec = function(rateup, isRateup) {
     const weapSR = require(rateup);
     let result = roll();
 
     if(result >= 1 && result <= 3 ) {
         var number = roll();
         var gachaArr  = Object.keys(weapSR);
-        var theArray = (number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
+        var theArray = (gachaArr.property.rateup == true && number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * theArray.length);
         var randomKey    = theArray[gachaIndex];
@@ -248,7 +248,7 @@ module.exports = {
                             //     }
 
                             // }
-                            if(quantitygacha == 5 && i == 4 || args[0] != 1 && quantitygacha == 11 && i == 10){
+                            if(quantitygacha == 5 && i == 4 || quantitygacha == 11 && i == 10){
                                 if(qst == bot_config.event[args[0]].stepmax){
                                     a = pullGuaranteed(poolRate, bot_config.event[args[0]].guaranteed);
                                         textE.push(util.evalRarity(a.rarity,client) + a.name);

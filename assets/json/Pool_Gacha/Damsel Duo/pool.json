@@ -1,4 +1,7 @@
-{ 
+{
+"property":{
+    "rateup": true
+},
 "rateup":[
     {
         "name": "Violin of Justice",
