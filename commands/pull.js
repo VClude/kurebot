@@ -1,8 +1,8 @@
 const { settings } = require("cluster");
 const bot_config = require('../bot.config.json');
-const weapA = require('../assets/json/weaponA.json');
-const weapS = require('../assets/json/weaponS.json');
-const weapSR = require('../assets/json/weaponSR.json');
+const weapA = require('../assets/json/master/weaponA.json');
+const weapS = require('../assets/json/master/weaponS.json');
+const weapSR = require('../assets/json/master/weaponSR.json');
 const prefix = bot_config.bot_config.prefix;
 const mys = require('../util/mysql');
 const Chance = require('chance');

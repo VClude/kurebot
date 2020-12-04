@@ -163,7 +163,7 @@ fs.writeFile('./assets/json/master/weaponSR.json', dataSR, (err) => {
     console.log("JSON Weapon SR data is saved.");
 });
 
-fs.writeFile('./assets/json/master/weaponA.json', dataNMSR, (err) => {
+fs.writeFile('./assets/json/master/nightmareSR.json', dataNMSR, (err) => {
     if (err) {
         throw err;
     }
