@@ -1,4 +1,8 @@
-[
+{
+    "isRateup":false,
+    "rateup":[],
+
+    "pool":[
     {
     "name": "Fiddle of Delusion",
     "shortName": "Fiddle of Delusion",
@@ -508,4 +512,4 @@
     "rarity": "SR",
     "url": "./assets/img/weapSR/0457.png"
 }
-]
+]}

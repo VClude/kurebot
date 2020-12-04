@@ -1,7 +1,5 @@
 {
-"property":{
-    "rateup": true
-},
+"isRateup":true,
 "rateup":[
     {
         "name": "Violin of Justice",
@@ -29,6 +27,15 @@
         "resourceName": "1315",
         "rarity": "SR",
         "url": "./assets/img/weapSR/1315.png"
+    },
+    {
+        "name": "Path of Regret",
+        "shortName": "Path of Regret",
+        "attribute": 1,
+        "mstId": 1305,
+        "resourceName": "1305",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/1305.png"
     }
 ],    
 "pool":[
@@ -444,177 +451,25 @@
     "rarity": "SR",
     "url": "./assets/img/weapSR/1305.png"
 },
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
-{
-    "name": "Path of Regret",
-    "shortName": "Path of Regret",
-    "attribute": 1,
-    "mstId": 1305,
-    "resourceName": "1305",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
-},
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 {
     "name": "Record of Humanity",
     "shortName": "Record of Humanity",

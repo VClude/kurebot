@@ -36,12 +36,11 @@ let pull = function(rateup) {
 
     if(result >= 1 && result <= 3 ) {
         var number = roll();
-        var gachaArr  = Object.keys(weapSR);
-        var theArray = (gachaArr.property.rateup == true && number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
+        var theArray = (weapSR.isRateup == true && number >= 0 && number <= 66) ? Object.keys(weapSR.rateup) : Object.keys(weapSR.pool);
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * theArray.length);
         var randomKey    = theArray[gachaIndex];
-        var randomValue  = weapSR[randomKey]; 
+        var randomValue  = (weapSR.isRateup == true && number >= 0 && number <= 66) ? weapSR.rateup[randomKey] : weapSR.pool[randomKey];
         return randomValue;
 
     }
@@ -78,12 +77,11 @@ let pullSpec = function(rateup, isRateup) {
 
     if(result >= 1 && result <= 3 ) {
         var number = roll();
-        var gachaArr  = Object.keys(weapSR);
-        var theArray = (gachaArr.property.rateup == true && number >= 0 && number <= 66) ? gachaArr.rateup : gachaArr.pool;
+        var theArray = (weapSR.isRateup == true && number >= 0 && number <= 66) ? Object.keys(weapSR.rateup) : Object.keys(weapSR.pool);
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * theArray.length);
         var randomKey    = theArray[gachaIndex];
-        var randomValue  = weapSR[randomKey]; 
+        var randomValue  = (weapSR.isRateup == true && number >= 0 && number <= 66) ? weapSR.rateup[randomKey] : weapSR.pool[randomKey];
         return randomValue;
 
     }
@@ -111,7 +109,7 @@ let pullGuaranteed = function(rateup, guaranteed) {
     const weapSR = require(rateup);
     var gachaArr  = Object.keys(weapSR);
     var randomNumber = Math.random();
-    var gachaIndex  = Math.floor(randomNumber * guaranteed.length);
+    var gachaIndex  = Math.floor(randomNumber * rateup.rateup.length);
     var randomKey    = gachaArr[gachaIndex];
     var randomValue  = weapSR[randomKey]; 
     return randomValue;
@@ -137,6 +135,7 @@ module.exports = {
         const user = message.guild.members.cache.get(message.author.id);
         if(args.length === 0) {
             Object.keys(bot_config.event).forEach((key, index) => {
+                if(bot_config.event[key].enabled){
                 const embed = new Discord.MessageEmbed()
                             .setTitle(bot_config.event[key].name)
                             .setDescription('**!s multipull ' + bot_config.event[key].args + '** to pull this banner')
@@ -145,6 +144,7 @@ module.exports = {
                             .setImage(bot_config.event[key].url);
 
                         message.channel.send({embed});
+                    }
             });
             return;
         }

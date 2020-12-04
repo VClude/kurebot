@@ -1,14 +1,28 @@
-[
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    
+{
+    "isRateup":true,
+    "rateup":[
+        {
+            "name": "Flag Spear of Justice",
+            "shortName": "Flag Spear of Justice",
+            "attribute": 2,
+            "mstId": 3403,
+            "resourceName": "3403",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/3403.png"
+        }
+    ],
+
+    "pool":[
+
+        {
+            "name": "Flag Spear of Justice",
+            "shortName": "Flag Spear of Justice",
+            "attribute": 2,
+            "mstId": 3403,
+            "resourceName": "3403",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/3403.png"
+        },
     
     {
         "name": "Fiddle of Delusion",
@@ -19,267 +33,35 @@
         "rarity": "SR",
         "url": "./assets/img/weapSR/0103.png"
     },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
-    {
-        "name": "Flag Spear of Justice",
-        "shortName": "Flag Spear of Justice",
-        "attribute": 2,
-        "mstId": 3403,
-        "resourceName": "3403",
-        "rarity": "SR",
-        "url": "./assets/img/weapSR/3403.png"
-    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
@@ -989,4 +771,4 @@
         "rarity": "SR",
         "url": "./assets/img/weapSR/0457.png"
     }
-    ]
+    ]}
