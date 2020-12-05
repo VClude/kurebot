@@ -110,15 +110,15 @@ module.exports = {
     evalLB: function (attribute, guild) {
         switch (attribute) {
             case 0:
-                return '';
+                return 'LB0';
             case 1:
-                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB1')}`;
+                return 'LB1';
             case 2:
-                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB2')}`;
+                return 'LB2';
             case 3:
-                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB3')}`;
+                return 'LB3';
             case 4:
-                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB4')}`;
+                return 'LB4';
             default:
                 return '';
         }
