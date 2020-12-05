@@ -57,7 +57,7 @@ module.exports = {
                     textE.push(util.evalLB(thedata.data[key].qty, client) + ' ' + util.evalAttribute(thedata.data[key].weapattr, client) + ' ' + util.evalWeap(thedata.data[key].weaptype, client) + ' ' + thedata.data[key].weapname);
                 });
 
-                embeds.push(new Discord.MessageEmbed().addField('Page', i).addField('Entries ' + parseInt(i) * 10 + '/' + res.length, textE));
+                embeds.push(new Discord.MessageEmbed().addField('Entries ' + parseInt(i) * 10 - 10 + 1 + '/' + res.length, textE));
 
             }
     
@@ -68,7 +68,7 @@ module.exports = {
                 .setArray(embeds)
                 .setAuthorizedUsers([message.author.id])
                 .setChannel(message.channel)
-                .setPageIndicator(true)
+                .setPageIndicator(false)
                 .setPage(1)
                 // Methods below are for customising all embeds
                 .setThumbnail(myImage)
