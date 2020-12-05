@@ -38,7 +38,7 @@ module.exports = {
         mys.doQuery(query,parser,function(results){
             res =JSON.parse(JSON.stringify(results));
             pager = Math.ceil(res.length / 10);
-            console.log(pager);
+            // console.log(pager);
             // return;
             
 
@@ -49,7 +49,7 @@ module.exports = {
             
            
             for(let i = 1; i <= pager; i++){
-                console.log(i);
+                // console.log(i);
                 thedata = paginator(res, i, 10);
                 let textE = [];
                 Object.keys(thedata.data).forEach((key, index) => {
