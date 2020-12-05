@@ -57,7 +57,7 @@ module.exports = {
                     textE.push(util.evalLB(thedata.data[key].qty, client) + ' ' + util.evalAttribute(thedata.data[key].weapattr, client) + ' ' + util.evalWeap(thedata.data[key].weaptype, client) + ' ' + thedata.data[key].weapname);
                 });
 
-                embeds.push(new Discord.MessageEmbed().addField('Entries ' + parseInt(i) * 10 - 10 + 1 + '/' + res.length, textE));
+                embeds.push(new Discord.MessageEmbed().addField('Entries ' + (((parseInt(i) - 1) * 10) + 1) + '/' + res.length, textE));
 
             }
     
