@@ -107,6 +107,88 @@ module.exports = {
         }
     },
 
+    evalLB: function (attribute, guild) {
+        switch (attribute) {
+            case 0:
+                return '';
+            case 1:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB1')}`;
+            case 2:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB2')}`;
+            case 3:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB3')}`;
+            case 4:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'LB4')}`;
+            default:
+                return '';
+        }
+    },
+
+    evalWeap: function (attribute, guild) {
+        switch (attribute) {
+            case 0:
+                return "[NM]";
+            case 1:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'instrument')}`;
+            case 2:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'instrument')}`;
+            case 3:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'instrument')}`;
+            case 4:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'tome')}`;
+
+            case 5:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'orb')}`;
+
+            case 6:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'staff')}`;
+
+            case 7:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'pedang')}`;
+
+            case 8:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'pedang')}`;
+
+            case 9:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'pedang')}`;
+
+            case 10:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'pedang')}`;
+
+            case 11:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'heavy')}`;
+
+            case 12:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'heavy')}`;
+
+            case 13:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'heavy')}`;
+
+            case 14:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'projectile')}`;
+
+            case 15:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'projectile')}`;
+
+            case 16:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'projectile')}`;
+
+            case 17:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'projectile')}`;
+
+            case 18:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'polearm')}`;
+
+            case 19:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'polearm')}`;
+
+            case 20:
+                return `${guild.emojis.cache.find(emoji => emoji.name === 'polearm')}`;
+            default:
+                return 'non ';
+        }
+    },
+
     evalRarity: function (attribute, guild) {
         switch (attribute) {
             case 'SR':
