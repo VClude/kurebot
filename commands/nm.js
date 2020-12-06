@@ -6,7 +6,7 @@ module.exports = {
     execute(message, args, client, FBAdmin) {
         const util = require('../util/util');
         const Discord = require('discord.js');
-        const bot_config = require('../bot.config.json');
+        const config = require('../bot.config.json');
         const db = FBAdmin.firestore();
         const nmRef = db.collection('nightmares');
         let server = message.guild.id;
@@ -15,7 +15,7 @@ module.exports = {
             return;
         }
    
-        if(server != bot_config.bot_config.guildmates_id){
+        if(server != config.bot_config.guildmates_id){
             return;
         }
 
