@@ -23,7 +23,7 @@ client.on("ready", () => {
      
         client.destroy();
   
-
+    });
 });
 
 
