@@ -1,0 +1,25 @@
+[{
+    "en": {
+      "message_guide_through_the_process": "I've sent you a dm to guide you through the process, please check it!",
+      "message_type_weapon_type_vanguard": "Please type the amount of **Sword, Heavy, Projectile, Polearm** weapons you have on your main grid **in that specific order, separated by comma (,).**\n (e.g you have **3 swords, 3 heavies, 3 projectiles, and 3 polearms**. Therefore type `3,3,3,3`)",
+      "message_type_weapon_type_rearguard": "please type the amount of **Instrument, Tome, Staff** weapons you have on your main grid **in that specific order, separated by comma (,).**\n (e.g you have **3 instruments, 3 tomes, and 3 staves.** Therefore type `3,3,3`)",
+      "message_type_ele": "Please type how much **fire, water, wind** element you have **in that specific order**.",
+      "message_type_nm": "Now, type nightmares in your inventory that you think is important, type them separated by comma. If you don't remember its full name, you can type the part that you remember. but only the front part that will be recognized. (E.g. `Shadowlord`. If you type `shadow`, it will be recognized, but if you type `lord` only, it won't. E.g Gluttonous Eris, you can type `Eris` or `Gluttonous`, either will be recognized, but `eri` only will not be recognized)",
+      "message_type_summon_job": "Please type a nightmare that you will be summoning in the colosseum.",
+  
+      "success_edited_gear": "Your gear have been successfully updated!",
+  
+      "err_general_network_error": "BPJS Bot is having problem submitting your update request, please contact @Chillrend",
+      "err_general_usage_error": "Please provide the correct arguments, usage: ",
+      "err_invalid_weapon_count": "Please provide the correct amount of weapons",
+      "err_invalid_ele_count": "Please provide the correct amount of elements in your main gear",
+      "err_invalid_nm_count": "Please provide 1 nightmare minimal",
+      "err_no_changes": "No changes found on your gear data, nothing will be submitted",
+      "err_no_members": "No members found"
+  
+    },
+    "id": {
+  
+    }
+  }
+]
