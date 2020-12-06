@@ -59,6 +59,21 @@ module.exports = {
         }
     },
     execute(message, args, client, FBAdmin){
+
+        function getUserFromMention(mention) {
+            if (!mention) return;
+        
+            if (mention.startsWith('<@') && mention.endsWith('>')) {
+                mention = mention.slice(2, -1);
+        
+                if (mention.startsWith('!')) {
+                    mention = mention.slice(1);
+                }
+        
+                return client.users.cache.get(mention);
+            }
+        }
+
         const config = require('../bot.config.json');
         const util = require('../util/util');
 
@@ -85,6 +100,64 @@ module.exports = {
                 .setDescription('please input your nightmare in order separated by comma (example : !s addnm Ugallu, Noin, Freeze Golem)');
                  message.channel.send(emsg);    
             return;
+        }
+
+        if(args[0].startsWith('<@')){
+
+            let member = {};
+            let text = '';
+                    
+                    for (i = 1; i < args.length; i++) {
+                        text += args[i] + " ";
+                      } 
+                    let nmArray = text.split(',');
+
+                    if(nmArray.length < 1){
+                        const emsg = new Discord.MessageEmbed()
+                        .setColor('#0099ff')
+                        .setTitle(`Nightmare Needed`)
+                        .setDescription('Please provide 1 nightmare minimal');
+                         message.channel.send(emsg);    
+                        return;
+                    }
+
+                    member.nightmares = [];
+
+                    let result = this.localUtil.getNightmare(nmRef, nmArray, message);
+
+                    Promise.all(result).then(nm => {
+                        let validNightmares= [];
+                        nm.map(nightmare => {
+                            if(typeof nightmare != 'undefined') {
+                                validNightmares.push(nightmare.name);
+                            }
+
+                        })
+
+                        if(validNightmares.length < 1){
+                            const emsg = new Discord.MessageEmbed()
+                            .setColor('#0099ff')
+                            .setTitle(`Argument Needed`)
+                            .setDescription('No nightmare(s) found based on your search query, please try again');
+                             message.channel.send(emsg);    
+                            return;
+                        }
+
+                        member.nightmares = validNightmares;
+                        const emsg = new Discord.MessageEmbed()
+                        .setColor('#0099ff')
+                        .setTitle(`Nightmare Added`)
+                        .setDescription(`We found : \n\n **${validNightmares.join(' \n ')}** \n \n and added it/them to your nightmare list`);
+                         message.channel.send(emsg);    
+           
+                        this.localUtil.insertGear(getUserFromMention(args[0]).id, member, db.collection('guildmates')).then(docRef => {
+
+                        }).catch(err => {
+                            message.channel.send('Kurebot is having trouble submitting the data, please contact Kureha');
+                            console.error(err);
+                        })
+                    })
+
         }
 
         else{
@@ -134,7 +207,7 @@ module.exports = {
                         .setTitle(`Nightmare Added`)
                         .setDescription(`We found : \n\n **${validNightmares.join(' \n ')}** \n \n and added it/them to your nightmare list`);
                          message.channel.send(emsg);    
-
+                        
                         this.localUtil.insertGear(message.author.id, member, db.collection('guildmates')).then(docRef => {
 
                         }).catch(err => {

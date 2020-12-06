@@ -76,11 +76,11 @@ module.exports = {
 
 
                 //Start building embeds
-                const myImage = message.author.displayAvatarURL();
-                let dsEmbeds = new Discord.MessageEmbed();
+        
+                let URLgambar = 'https://cdn.discordapp.com/avatars/'+ users.id + '/' + users.avatar + '.png';                let dsEmbeds = new Discord.MessageEmbed();
                 dsEmbeds.setTitle(`${users.username} NM list`);
                 dsEmbeds.setColor(7506394);
-                dsEmbeds.setThumbnail(myImage);
+                dsEmbeds.setThumbnail(URLgambar);
                 dsEmbeds.addField('Owned nightmares', '- ' + gear.nightmares.join('\n- '));
 
                 message.channel.send(dsEmbeds);
@@ -90,8 +90,6 @@ module.exports = {
         else{
             
             const user = message.guild.members.cache.get(message.author.id);
-            let nickname = user.nickname ? user.nickname : user.user.username;
-
             gearRef.doc(user.user.id).get().then(guildmate => {
                 if(!guildmate.exists){
                     message.channel.send(locStr.err_no_members);
@@ -104,11 +102,12 @@ module.exports = {
 
 
                 //Start building embeds
-                const myImage = message.author.displayAvatarURL();
+                let nickname = user.nickname ? user.nickname : user.user.username;
+        let URLgambar = 'https://cdn.discordapp.com/avatars/'+ user.user.id + '/' + user.user.avatar + '.png';
                 let dsEmbeds = new Discord.MessageEmbed();
                 dsEmbeds.setTitle(`${nickname} NM list`);
                 dsEmbeds.setColor(7506394);
-                dsEmbeds.setThumbnail(myImage);
+                dsEmbeds.setThumbnail(URLgambar);
                 dsEmbeds.addField('Owned nightmares', '- ' + gear.nightmares.join('\n- '));
 
                 message.channel.send(dsEmbeds);
