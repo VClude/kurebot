@@ -18,12 +18,12 @@ client.on("ready", () => {
     .setColor('#0099ff')
     .setTitle('Perdagangan Waifu Ditutup')
     .setImage('https://i.imgur.com/Wb0gAau.jpg')
-    .addField('PEMBERITAHUAN', 'Buka kembali 40 Menit kedepan');
+    .addField('PEMBERITAHUAN', 'Buka kembali 45 Menit kedepan');
     channel.send(emsg);
     channel.updateOverwrite(channel.guild.roles.everyone, { SEND_MESSAGES: false }).then(() => {
-        channel.updateOverwrite(duke, { SEND_MESSAGES: false });
+     
         client.destroy();
-    });
+ 
 
 });
 
