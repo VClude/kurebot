@@ -13,13 +13,15 @@ const token = process.env.TOKEN || conf_token;
 client.on("ready", () => {
    console.log('bot is ready');
     let channel = client.channels.cache.get('782917925257871370');
+    let duke = channel.guild.roles.cache.find(role => role.name === 'DUKE');
     const emsg = new Discord.MessageEmbed()
     .setColor('#0099ff')
     .setTitle('Perdagangan Waifu Dibuka')
     .setImage('https://i.imgur.com/DiDNF8n.jpeg')
-    .addField('PEMBERITAHUAN', 'Tutup Dalam 40 Menit');
+    .addField('PEMBERITAHUAN', 'Tutup Dalam 20 Menit');
     channel.send(emsg);
     channel.updateOverwrite(channel.guild.roles.everyone, { SEND_MESSAGES: true }).then(() => {
+        channel.updateOverwrite(duke, { SEND_MESSAGES: true });
         client.destroy();
     });
 
