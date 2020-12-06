@@ -104,6 +104,11 @@ module.exports = {
 
         if(args[0].startsWith('<@')){
 
+            if(!message.member.roles.cache.some(role => role.name === 'COMMANDER')){
+                message.channel.send("Sorry, you don't have the permission to add other person nightmare");
+                return;
+            }
+
             let member = {};
             let text = '';
                     
