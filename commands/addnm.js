@@ -74,7 +74,7 @@ module.exports = {
             return;
         }
 
-        if(server != bot_config.bot_config.guildmates_id){
+        if(server != config.bot_config.guildmates_id){
             return;
         }
 
