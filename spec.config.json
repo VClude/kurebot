@@ -25,7 +25,7 @@
     "tccost":[300],
     "isguaranteed":true,
     "quantity":11,
-    "info": "Rate-Up Specific Weapon \n- Guaranteed 1 S or Higher",
+    "info": "Rate-Up Tome Weapon \n- Guaranteed 1 S or Higher",
     "url":"https://sinoalice.game-db.tw/images/banner/119/BannerL225.png",
     "rateup":"../assets/json/Pool_Gacha/Spec Tome/pool.json",
     "rateupA":"../assets/json/master/weaponASpecRG.json",
