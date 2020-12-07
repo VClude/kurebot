@@ -1,0 +1,489 @@
+[{
+    "name": "War Song's Echo",
+    "shortName": "War Song's Echo",
+    "attribute": 1,
+    "mstId": 1,
+    "resourceName": "0001",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0001.png"
+}, {
+    "name": "Book of Regret",
+    "shortName": "Book of Regret",
+    "attribute": 1,
+    "mstId": 3,
+    "resourceName": "0003",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0003.png"
+}, {
+    "name": "Staff of Submission",
+    "shortName": "Staff of Submission",
+    "attribute": 1,
+    "mstId": 5,
+    "resourceName": "0005",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0005.png"
+}, {
+    "name": "One Wish",
+    "shortName": "One Wish",
+    "attribute": 1,
+    "mstId": 7,
+    "resourceName": "0007",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0007.png"
+}, {
+    "name": "Slothful God's Harp",
+    "shortName": "Slothful God's Harp",
+    "attribute": 1,
+    "mstId": 17,
+    "resourceName": "0017",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0017.png"
+}, {
+    "name": "Torture Doctrine",
+    "shortName": "Torture Doctrine",
+    "attribute": 2,
+    "mstId": 19,
+    "resourceName": "0019",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0019.png"
+}, {
+    "name": "Monk's Staff",
+    "shortName": "Monk's Staff",
+    "attribute": 1,
+    "mstId": 21,
+    "resourceName": "0021",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0021.png"
+}, {
+    "name": "Dark Puppet",
+    "shortName": "Dark Puppet",
+    "attribute": 1,
+    "mstId": 23,
+    "resourceName": "0023",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0023.png"
+}, {
+    "name": "Mirror to the World",
+    "shortName": "Mirror to the World",
+    "attribute": 2,
+    "mstId": 109,
+    "resourceName": "0109",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0109.png"
+}, {
+    "name": "Burning Satiation",
+    "shortName": "Burning Satiation",
+    "attribute": 2,
+    "mstId": 115,
+    "resourceName": "0115",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0115.png"
+}, {
+    "name": "Flood Records",
+    "shortName": "Flood Records",
+    "attribute": 2,
+    "mstId": 117,
+    "resourceName": "0117",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0117.png"
+}, {
+    "name": "Engraved Blue Staff",
+    "shortName": "Engraved Blue Staff",
+    "attribute": 2,
+    "mstId": 119,
+    "resourceName": "0119",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0119.png"
+}, {
+    "name": "Origin of Control",
+    "shortName": "Origin of Control",
+    "attribute": 2,
+    "mstId": 131,
+    "resourceName": "0131",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0131.png"
+}, {
+    "name": "Book of Judgment",
+    "shortName": "Book of Judgment",
+    "attribute": 3,
+    "mstId": 133,
+    "resourceName": "0133",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0133.png"
+}, {
+    "name": "Sands of Time",
+    "shortName": "Sands of Time",
+    "attribute": 3,
+    "mstId": 135,
+    "resourceName": "0135",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0135.png"
+}, {
+    "name": "Petals of Resurrection",
+    "shortName": "Petals of Resurrecti",
+    "attribute": 2,
+    "mstId": 137,
+    "resourceName": "0137",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0137.png"
+}, {
+    "name": "Tome of Dependence",
+    "shortName": "Tome of Dependence",
+    "attribute": 1,
+    "mstId": 205,
+    "resourceName": "0205",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0205.png"
+}, {
+    "name": "Staff of Masochism",
+    "shortName": "Staff of Masochism",
+    "attribute": 2,
+    "mstId": 207,
+    "resourceName": "0207",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0207.png"
+}, {
+    "name": "Cursed Chains",
+    "shortName": "Cursed Chains",
+    "attribute": 3,
+    "mstId": 209,
+    "resourceName": "0209",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0209.png"
+}, {
+    "name": "Devil's Fife",
+    "shortName": "Devil's Fife",
+    "attribute": 3,
+    "mstId": 219,
+    "resourceName": "0219",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0219.png"
+}, {
+    "name": "Wiseman's Notes",
+    "shortName": "Wiseman's Notes",
+    "attribute": 3,
+    "mstId": 221,
+    "resourceName": "0221",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0221.png"
+}, {
+    "name": "Cumbersome Staff",
+    "shortName": "Cumbersome Staff",
+    "attribute": 3,
+    "mstId": 223,
+    "resourceName": "0223",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0223.png"
+}, {
+    "name": "Faithful Follower",
+    "shortName": "Faithful Follower",
+    "attribute": 3,
+    "mstId": 225,
+    "resourceName": "0225",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0225.png"
+}, {
+    "name": "Pink Harp",
+    "shortName": "Pink Harp",
+    "attribute": 3,
+    "mstId": 254,
+    "resourceName": "0254",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0254.png"
+}, {
+    "name": "Idol's Harp",
+    "shortName": "Idol's Harp",
+    "attribute": 1,
+    "mstId": 315,
+    "resourceName": "0315",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0315.png"
+}, {
+    "name": "Reincarnation",
+    "shortName": "Reincarnation",
+    "attribute": 2,
+    "mstId": 317,
+    "resourceName": "0317",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0317.png"
+}, {
+    "name": "Modern Palace Records",
+    "shortName": "Modern Palace Record",
+    "attribute": 3,
+    "mstId": 319,
+    "resourceName": "0319",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0319.png"
+}, {
+    "name": "Harp of Collection",
+    "shortName": "Harp of Collection",
+    "attribute": 1,
+    "mstId": 331,
+    "resourceName": "0331",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0331.png"
+}, {
+    "name": "Crimson Jewel",
+    "shortName": "Crimson Jewel",
+    "attribute": 1,
+    "mstId": 337,
+    "resourceName": "0337",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0337.png"
+}, {
+    "name": "Spellbook of Reversal",
+    "shortName": "Spellbook of Reversa",
+    "attribute": 2,
+    "mstId": 349,
+    "resourceName": "0349",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0349.png"
+}, {
+    "name": "Twilight Glow",
+    "shortName": "Twilight Glow",
+    "attribute": 2,
+    "mstId": 655,
+    "resourceName": "0655",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0655.png"
+}, {
+    "name": "Proof of Virtue",
+    "shortName": "Proof of Virtue",
+    "attribute": 3,
+    "mstId": 657,
+    "resourceName": "0657",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0657.png"
+}, {
+    "name": "Empty Teachings",
+    "shortName": "Empty Teachings",
+    "attribute": 3,
+    "mstId": 659,
+    "resourceName": "0659",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0659.png"
+}, {
+    "name": "Key of Hatred",
+    "shortName": "Key of Hatred",
+    "attribute": 2,
+    "mstId": 661,
+    "resourceName": "0661",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0661.png"
+}, {
+    "name": "Blessed Crash",
+    "shortName": "Blessed Crash",
+    "attribute": 1,
+    "mstId": 687,
+    "resourceName": "0687",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0687.png"
+}, {
+    "name": "Proof of Hypocrisy",
+    "shortName": "Proof of Hypocrisy",
+    "attribute": 2,
+    "mstId": 689,
+    "resourceName": "0689",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0689.png"
+}, {
+    "name": "Banned Book of Resurrection",
+    "shortName": "Banned Book of Resur",
+    "attribute": 2,
+    "mstId": 691,
+    "resourceName": "0691",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0691.png"
+}, {
+    "name": "Straw Puppet",
+    "shortName": "Straw Puppet",
+    "attribute": 1,
+    "mstId": 693,
+    "resourceName": "0693",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0693.png"
+}, {
+    "name": "Wild Rose Harp",
+    "shortName": "Wild Rose Harp",
+    "attribute": 3,
+    "mstId": 761,
+    "resourceName": "0761",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0761.png"
+}, {
+    "name": "Clairvoyant Staff",
+    "shortName": "Clairvoyant Staff",
+    "attribute": 1,
+    "mstId": 763,
+    "resourceName": "0763",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0763.png"
+}, {
+    "name": "Secret Map",
+    "shortName": "Secret Map",
+    "attribute": 1,
+    "mstId": 765,
+    "resourceName": "0765",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0765.png"
+}, {
+    "name": "Wheel of Perpetuity",
+    "shortName": "Wheel of Perpetuity",
+    "attribute": 3,
+    "mstId": 767,
+    "resourceName": "0767",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0767.png"
+}, {
+    "name": "Lady's Harp",
+    "shortName": "Lady's Harp",
+    "attribute": 2,
+    "mstId": 803,
+    "resourceName": "0803",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0803.png"
+}, {
+    "name": "Forbidden Staff",
+    "shortName": "Forbidden Staff",
+    "attribute": 3,
+    "mstId": 805,
+    "resourceName": "0805",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0805.png"
+}, {
+    "name": "Shelved Scroll",
+    "shortName": "Shelved Scroll",
+    "attribute": 3,
+    "mstId": 807,
+    "resourceName": "0807",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0807.png"
+}, {
+    "name": "Shears of Fate",
+    "shortName": "Shears of Fate",
+    "attribute": 2,
+    "mstId": 809,
+    "resourceName": "0809",
+    "rarity": "S",
+    "url": "./assets/img/weapS/0809.png"
+}, {
+    "name": "Book of Dark Rituals",
+    "shortName": "Book of Dark Rituals",
+    "attribute": 2,
+    "mstId": 1003,
+    "resourceName": "1003",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1003.png"
+}, {
+    "name": "Proof of Loyalty",
+    "shortName": "Proof of Loyalty",
+    "attribute": 1,
+    "mstId": 1007,
+    "resourceName": "1007",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1007.png"
+}, {
+    "name": "Staff of Retrogression",
+    "shortName": "Staff of Retrogressi",
+    "attribute": 1,
+    "mstId": 1041,
+    "resourceName": "1041",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1041.png"
+}, {
+    "name": "Cursed Ghost Song",
+    "shortName": "Cursed Ghost Song",
+    "attribute": 3,
+    "mstId": 1045,
+    "resourceName": "1045",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1045.png"
+}, {
+    "name": "Forest Aid",
+    "shortName": "Forest Aid",
+    "attribute": 3,
+    "mstId": 1119,
+    "resourceName": "1119",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1119.png"
+}, {
+    "name": "Composer's Magnum Opus",
+    "shortName": "Composer's Magnum Op",
+    "attribute": 2,
+    "mstId": 1123,
+    "resourceName": "1123",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1123.png"
+}, {
+    "name": "Jug of Death",
+    "shortName": "Jug of Death",
+    "attribute": 2,
+    "mstId": 1167,
+    "resourceName": "1167",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1167.png"
+}, {
+    "name": "Scripture of the Dead",
+    "shortName": "Scripture of the Dea",
+    "attribute": 1,
+    "mstId": 1169,
+    "resourceName": "1169",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1169.png"
+}, {
+    "name": "Big Talk",
+    "shortName": "Big Talk",
+    "attribute": 1,
+    "mstId": 1309,
+    "resourceName": "1309",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1309.png"
+}, {
+    "name": "Cardinal Flute",
+    "shortName": "Cardinal Flute",
+    "attribute": 1,
+    "mstId": 1313,
+    "resourceName": "1313",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1313.png"
+}, {
+    "name": "Chivalric Order​'s Violin",
+    "shortName": "Chivalric Order​'s V",
+    "attribute": 3,
+    "mstId": 1422,
+    "resourceName": "1422",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1422.png"
+}, {
+    "name": "Water Emperor's Staff",
+    "shortName": "Water Emperor's Staf",
+    "attribute": 2,
+    "mstId": 1424,
+    "resourceName": "1424",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1424.png"
+}, {
+    "name": "Violin of Zeal",
+    "shortName": "Violin of Zeal",
+    "attribute": 1,
+    "mstId": 1464,
+    "resourceName": "1464",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1464.png"
+}, {
+    "name": "Scroll of the Black Dragon",
+    "shortName": "Scroll of the Black ",
+    "attribute": 1,
+    "mstId": 1466,
+    "resourceName": "1466",
+    "rarity": "S",
+    "url": "./assets/img/weapS/1466.png"
+}, {
+    "name": "Silence of Souls",
+    "shortName": "Silence of Souls",
+    "attribute": 3,
+    "mstId": 2628,
+    "resourceName": "2628",
+    "rarity": "S",
+    "url": "./assets/img/weapS/2628.png"
+}]
