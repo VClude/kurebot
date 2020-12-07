@@ -1,4 +1,36 @@
-[{
+{
+    "isRateup":true,
+    "rateup":[
+        {
+            "name": "Corpse Sounds",
+            "shortName": "Corpse Sounds",
+            "attribute": 3,
+            "mstId": 1610,
+            "resourceName": "1610",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/1610.png"
+        },
+        {
+            "name": "Golden Harp",
+            "shortName": "Golden Harp",
+            "attribute": 3,
+            "mstId": 985,
+            "resourceName": "0985",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/0985.png"
+        },
+        {
+            "name": "Harp of the Valiant",
+            "shortName": "Harp of the Valiant",
+            "attribute": 1,
+            "mstId": 1566,
+            "resourceName": "1566",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/1566.png"
+        }
+    ],    
+    "pool":[
+{
     "name": "Harpy's Harp",
     "shortName": "Harpy's Harp",
     "attribute": 1,
@@ -854,28 +886,4 @@
     "resourceName": "4448",
     "rarity": "SR",
     "url": "./assets/img/weapSR/4448.png"
-}, {
-    "name": "Tale of The Phoenix",
-    "shortName": "Tale of The Phoenix",
-    "attribute": 1,
-    "mstId": 900004,
-    "resourceName": "900004",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/900004.png"
-}, {
-    "name": "Tear Jar",
-    "shortName": "Tear Jar",
-    "attribute": 2,
-    "mstId": 900006,
-    "resourceName": "900006",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/900006.png"
-}, {
-    "name": "Staff of Piety",
-    "shortName": "Staff of Piety",
-    "attribute": 3,
-    "mstId": 900008,
-    "resourceName": "900008",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/900008.png"
-}]
+}]}

@@ -11,22 +11,22 @@
             "url": "./assets/img/weapSR/1612.png"
         },
         {
-            "name": "Assassin's Notes",
-            "shortName": "Assassin's Notes",
+            "name": "Conjuring Agreement",
+            "shortName": "Conjuring Agreement",
             "attribute": 3,
-            "mstId": 1303,
-            "resourceName": "1303",
+            "mstId": 2620,
+            "resourceName": "2620",
             "rarity": "SR",
-            "url": "./assets/img/weapSR/1303.png"
-        },
+            "url": "./assets/img/weapSR/2620.png"
+        }, 
         {
-            "name": "Tome of Absolution",
-            "shortName": "Tome of Absolution",
-            "attribute": 1,
-            "mstId": 35,
-            "resourceName": "0035",
+            "name": "Record of Humanity",
+            "shortName": "Record of Humanity",
+            "attribute": 2,
+            "mstId": 191,
+            "resourceName": "0191",
             "rarity": "SR",
-            "url": "./assets/img/weapSR/0035.png"
+            "url": "./assets/img/weapSR/0191.png"
         }
     ],    
     "pool":[
@@ -886,28 +886,4 @@
     "resourceName": "4448",
     "rarity": "SR",
     "url": "./assets/img/weapSR/4448.png"
-}, {
-    "name": "Tale of The Phoenix",
-    "shortName": "Tale of The Phoenix",
-    "attribute": 1,
-    "mstId": 900004,
-    "resourceName": "900004",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/900004.png"
-}, {
-    "name": "Tear Jar",
-    "shortName": "Tear Jar",
-    "attribute": 2,
-    "mstId": 900006,
-    "resourceName": "900006",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/900006.png"
-}, {
-    "name": "Staff of Piety",
-    "shortName": "Staff of Piety",
-    "attribute": 3,
-    "mstId": 900008,
-    "resourceName": "900008",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/900008.png"
 }]}
