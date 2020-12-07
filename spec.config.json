@@ -33,7 +33,7 @@
   },
   {
     "args": 2,
-    "name": "Rearguard Grimoire : Instru",
+    "name": "Rearguard Grimoire : Instrument",
     "enabled":true,
     "stepup": false,
     "cost":true,
@@ -42,7 +42,7 @@
     "quantity":11,
     "info": "Rate-Up Instrument Weapon \n- Guaranteed 1 S or Higher",
     "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMTcw/MDAxNjA3MzI5OTIwNDI5.Qnb29vMv9-cWC2YpCktog-J5U2Y0F4dr_LI2KibeJqQg.Dnw3qmtSSSqSoeSgXOAhpwF3fX_wmFm6-TyZ08caAVsg.PNG/GachaBanner001LImage_3_KR.png?type=w1600",
-    "rateup":"../assets/json/Pool_Gacha/Spec Instrument/pool.json",
+    "rateup":"../assets/json/Pool_Gacha/Spec Instru/pool.json",
     "rateupA":"../assets/json/master/weaponASpecRG.json",
     "rateupS":"../assets/json/master/weaponSSpecRG.json"
   },
