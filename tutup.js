@@ -15,7 +15,8 @@ client.on("ready", () => {
     console.log('bot is ready');
     let theid = ['782917925257871370','785535330848997376','785535364584308766','785535392425705524','785535418422657065'];
     for(let i = 0; i < theid.length; i++){
-     let channel = theid[i];
+        let channel = client.channels.cache.get(theid[i]);
+
      const emsg = new Discord.MessageEmbed()
      .setColor('#0099ff')
      .setTitle('Perdagangan Waifu Ditutup')
