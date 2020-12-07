@@ -25,11 +25,12 @@ client.on("ready", () => {
      channel.updateOverwrite(channel.guild.roles.everyone, { SEND_MESSAGES: true });
     }
    
+    client.destroy();
      
- }).then(() => {
+ })
       
-     client.destroy();
- });
+     
+
  
 
 
