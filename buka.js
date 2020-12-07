@@ -9,7 +9,11 @@ const conf_token = bot_config.bot_config.conf_token;
 //Remove the OR (||) before deploying!
 const token = process.env.TOKEN || conf_token;
 
-
+function asd(as){
+    if(as == 4){
+        client.destroy();
+    }
+}
 client.on("ready", () => {
    console.log('bot is ready');
    let theid = ['782917925257871370','785535330848997376','785535364584308766','785535392425705524','785535418422657065'];
@@ -22,9 +26,10 @@ client.on("ready", () => {
     .addField('PEMBERITAHUAN', 'Tutup Dalam 15 Menit');
     channel.send(emsg);
     channel.updateOverwrite(channel.guild.roles.everyone, { SEND_MESSAGES: true });
-   }
+    asd(i);  
+}
   
-   client.destroy();
+  
 })
 
 client.login(token);
