@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "chance": "^1.1.7",
+    "discord-anti-spam": "^2.4.1",
     "discord-paginationembed": "^2.1.0",
     "discord.js": "^12.3.1",
     "firebase": "^7.19.1",
