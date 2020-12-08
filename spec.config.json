@@ -18,6 +18,36 @@
   },
   {
     "args": 1,
+    "name": "Vanguard Grimoire : Magic",
+    "enabled":true,
+    "stepup": false,
+    "cost":true,
+    "tccost":[300],
+    "isguaranteed":true,
+    "quantity":11,
+    "info": "Rate-Up Staff Weapon \n- Guaranteed 1 S or Higher",
+    "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMjAx/MDAxNjA3MzMwOTMzNjg3.ubj8hseTCHBUl5N6PA3tYVTSfkjHeUJi0TdnshUEKicg.-6uxo-MGDE8tcM-gd1PVfyhzDEV4rD0gQ-k-hmeTdo4g.PNG/GachaBanner001LImage_6_KR.png",
+    "rateup":"../assets/json/Pool_Gacha/Spec Magic/pool.json",
+    "rateupA":"../assets/json/master/weaponASpecVGMag.json",
+    "rateupS":"../assets/json/master/weaponSSpecVGMag.json"
+  },
+  {
+    "args": 2,
+    "name": "Vanguard Grimoire : Physical",
+    "enabled":true,
+    "stepup": false,
+    "cost":true,
+    "tccost":[300],
+    "isguaranteed":true,
+    "quantity":11,
+    "info": "Rate-Up Staff Weapon \n- Guaranteed 1 S or Higher",
+    "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMjAx/MDAxNjA3MzMwOTMzNjg3.ubj8hseTCHBUl5N6PA3tYVTSfkjHeUJi0TdnshUEKicg.-6uxo-MGDE8tcM-gd1PVfyhzDEV4rD0gQ-k-hmeTdo4g.PNG/GachaBanner001LImage_6_KR.png",
+    "rateup":"../assets/json/Pool_Gacha/Spec Physical/pool.json",
+    "rateupA":"../assets/json/master/weaponASpecVGPhys.json",
+    "rateupS":"../assets/json/master/weaponSSpecVGPhys.json"
+  },
+  {
+    "args": 3,
     "name": "Rearguard Grimoire : Tomes",
     "enabled":true,
     "stepup": false,
@@ -32,7 +62,7 @@
     "rateupS":"../assets/json/master/weaponSSpecRG.json"
   },
   {
-    "args": 2,
+    "args": 4,
     "name": "Rearguard Grimoire : Instrument",
     "enabled":true,
     "stepup": false,
@@ -47,7 +77,7 @@
     "rateupS":"../assets/json/master/weaponSSpecRG.json"
   },
   {
-    "args": 3,
+    "args": 5,
     "name": "Rearguard Grimoire : Staff",
     "enabled":true,
     "stepup": false,

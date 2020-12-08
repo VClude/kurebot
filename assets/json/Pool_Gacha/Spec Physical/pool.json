@@ -1,0 +1,328 @@
+{
+    "isRateup":true,
+    "rateup":[
+        {
+            "name": "Cold Brutality",
+            "shortName": "Cold Brutality",
+            "attribute": 3,
+            "mstId": 999,
+            "resourceName": "0999",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/0999.png"
+        },
+        {
+            "name": "War Axe of Wicked Love",
+            "shortName": "War Axe of Wicked Love",
+            "attribute": 1,
+            "mstId": 1604,
+            "resourceName": "1604",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/1604.png"
+        },
+        {
+            "name": "Mechanical Hammer",
+            "shortName": "Mechanical Hammer",
+            "attribute": 2,
+            "mstId": 675,
+            "resourceName": "0675",
+            "rarity": "SR",
+            "url": "./assets/img/weapSR/0675.png"
+        }
+    ],    
+"pool":[{
+    "name": "Blade of Depravity",
+    "shortName": "Blade of Depravity",
+    "attribute": 3,
+    "mstId": 41,
+    "resourceName": "0041",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0041.png"
+}, {
+    "name": "Retainer's Hammer",
+    "shortName": "Retainer's Hammer",
+    "attribute": 1,
+    "mstId": 43,
+    "resourceName": "0043",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0043.png"
+}, {
+    "name": "Shameless Ambition",
+    "shortName": "Shameless Ambition",
+    "attribute": 1,
+    "mstId": 95,
+    "resourceName": "0095",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0095.png"
+}, {
+    "name": "Warden's Mallet",
+    "shortName": "Warden's Mallet",
+    "attribute": 1,
+    "mstId": 97,
+    "resourceName": "0097",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0097.png"
+}, {
+    "name": "False Victor",
+    "shortName": "False Victor",
+    "attribute": 2,
+    "mstId": 111,
+    "resourceName": "0111",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0111.png"
+}, {
+    "name": "Soul Shell",
+    "shortName": "Soul Shell",
+    "attribute": 2,
+    "mstId": 113,
+    "resourceName": "0113",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0113.png"
+}, {
+    "name": "Sword of Love and Hate",
+    "shortName": "Sword of Love and Ha",
+    "attribute": 2,
+    "mstId": 197,
+    "resourceName": "0197",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0197.png"
+}, {
+    "name": "The Lord's Hammer",
+    "shortName": "The Lord's Hammer",
+    "attribute": 2,
+    "mstId": 199,
+    "resourceName": "0199",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0199.png"
+}, {
+    "name": "Swordsmith's Spellbook",
+    "shortName": "Swordsmith's Spellbo",
+    "attribute": 1,
+    "mstId": 246,
+    "resourceName": "0246",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0246.png"
+}, {
+    "name": "Gluttonous God's Rod",
+    "shortName": "Gluttonous God's Rod",
+    "attribute": 3,
+    "mstId": 248,
+    "resourceName": "0248",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0248.png"
+}, {
+    "name": "Sympathetic Blade",
+    "shortName": "Sympathetic Blade",
+    "attribute": 3,
+    "mstId": 299,
+    "resourceName": "0299",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0299.png"
+}, {
+    "name": "Hammer of Endtimes",
+    "shortName": "Hammer of Endtimes",
+    "attribute": 3,
+    "mstId": 301,
+    "resourceName": "0301",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0301.png"
+}, {
+    "name": "Sword of Humility",
+    "shortName": "Sword of Humility",
+    "attribute": 2,
+    "mstId": 339,
+    "resourceName": "0339",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0339.png"
+}, {
+    "name": "Promise of Life",
+    "shortName": "Promise of Life",
+    "attribute": 3,
+    "mstId": 351,
+    "resourceName": "0351",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0351.png"
+}, {
+    "name": "Hammer of Justice",
+    "shortName": "Hammer of Justice",
+    "attribute": 3,
+    "mstId": 581,
+    "resourceName": "0581",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0581.png"
+}, {
+    "name": "Sword of Bondage",
+    "shortName": "Sword of Bondage",
+    "attribute": 2,
+    "mstId": 587,
+    "resourceName": "0587",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0587.png"
+}, {
+    "name": "Deep Sea Sword",
+    "shortName": "Deep Sea Sword",
+    "attribute": 3,
+    "mstId": 645,
+    "resourceName": "0645",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0645.png"
+}, {
+    "name": "Mechanical Hammer",
+    "shortName": "Mechanical Hammer",
+    "attribute": 2,
+    "mstId": 675,
+    "resourceName": "0675",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0675.png"
+}, {
+    "name": "Ebony Sword",
+    "shortName": "Ebony Sword",
+    "attribute": 2,
+    "mstId": 747,
+    "resourceName": "0747",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0747.png"
+},{
+    "name": "Golden Sword",
+    "shortName": "Golden Sword",
+    "attribute": 1,
+    "mstId": 989,
+    "resourceName": "0989",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0989.png"
+}, {
+    "name": "Cold Brutality",
+    "shortName": "Cold Brutality",
+    "attribute": 3,
+    "mstId": 999,
+    "resourceName": "0999",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/0999.png"
+}, {
+    "name": "Sword of Languor",
+    "shortName": "Sword of Languor",
+    "attribute": 2,
+    "mstId": 1031,
+    "resourceName": "1031",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1031.png"
+}, {
+    "name": "Giant's Right Hand",
+    "shortName": "Giant's Right Hand",
+    "attribute": 3,
+    "mstId": 1037,
+    "resourceName": "1037",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1037.png"
+}, {
+    "name": "Hammer of Delusion",
+    "shortName": "Hammer of Delusion",
+    "attribute": 2,
+    "mstId": 1049,
+    "resourceName": "1049",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1049.png"
+}, {
+    "name": "Pagan Bludgeon",
+    "shortName": "Pagan Bludgeon",
+    "attribute": 1,
+    "mstId": 1115,
+    "resourceName": "1115",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1115.png"
+}, {
+    "name": "Sword of Burned Metal",
+    "shortName": "Sword of Burned Meta",
+    "attribute": 1,
+    "mstId": 1141,
+    "resourceName": "1141",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1141.png"
+}, {
+    "name": "Flail of Masochism",
+    "shortName": "Flail of Masochism",
+    "attribute": 3,
+    "mstId": 1299,
+    "resourceName": "1299",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1299.png"
+}, {
+    "name": "Coastal Rain",
+    "shortName": "Coastal Rain",
+    "attribute": 2,
+    "mstId": 1366,
+    "resourceName": "1366",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1366.png"
+}, {
+    "name": "The Emperor's Hegemony",
+    "shortName": "The Emperor's Hegemo",
+    "attribute": 2,
+    "mstId": 1384,
+    "resourceName": "1384",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1384.png"
+}, {
+    "name": "Giant's Hand Axe",
+    "shortName": "Giant's Hand Axe",
+    "attribute": 1,
+    "mstId": 1394,
+    "resourceName": "1394",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1394.png"
+}, {
+    "name": "Sword of Revenge",
+    "shortName": "Sword of Revenge",
+    "attribute": 3,
+    "mstId": 1396,
+    "resourceName": "1396",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1396.png"
+}, {
+    "name": "Sword of Suppression",
+    "shortName": "Sword of Suppression",
+    "attribute": 3,
+    "mstId": 1482,
+    "resourceName": "1482",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1482.png"
+}, {
+    "name": "Flag of a Ruined Country",
+    "shortName": "Flag of a Ruined Cou",
+    "attribute": 2,
+    "mstId": 1558,
+    "resourceName": "1558",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1558.png"
+}, {
+    "name": "Axe of Ruin",
+    "shortName": "Axe of Ruin",
+    "attribute": 3,
+    "mstId": 1568,
+    "resourceName": "1568",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1568.png"
+}, {
+    "name": "Crusher of Gluttony",
+    "shortName": "Crusher of Gluttony",
+    "attribute": 1,
+    "mstId": 1905,
+    "resourceName": "1905",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1905.png"
+}, {
+    "name": "Turbulent Mace",
+    "shortName": "Turbulent Mace",
+    "attribute": 2,
+    "mstId": 1907,
+    "resourceName": "1907",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/1907.png"
+},  {
+    "name": "Great Sword of Nature",
+    "shortName": "Great Sword of Natur",
+    "attribute": 3,
+    "mstId": 2080,
+    "resourceName": "2080",
+    "rarity": "SR",
+    "url": "./assets/img/weapSR/2080.png"
+}]}

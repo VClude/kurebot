@@ -14,7 +14,7 @@ for (let i = 0; i < card.length; i++) {
 
     let weapon = {};
     let nightmare = {};
-    let weaponAllowed = [1,2,3,4,5,6];
+    let weaponAllowed = [14,15,16,17,18,19,20];
     // for weapon
     if(card[i].cardType === 1 && weaponAllowed.includes(card[i].weaponType) && card[i].evolutionLevel === 0){
         y++;
@@ -120,19 +120,19 @@ const dataA = JSON.stringify(weaponA);
 const dataS = JSON.stringify(weaponS);
 const dataSR = JSON.stringify(weaponSR);
 // write JSON string to a file
-fs.writeFile('./assets/json/master/weaponASpecRG.json', dataA, (err) => {
+fs.writeFile('./assets/json/master/weaponASpecVGMag.json', dataA, (err) => {
     if (err) {
         throw err;
     }
     console.log("JSON Weapon A data is saved.");
 });
-fs.writeFile('./assets/json/master/weaponSSpecRG.json', dataS, (err) => {
+fs.writeFile('./assets/json/master/weaponSSpecVGMag.json', dataS, (err) => {
     if (err) {
         throw err;
     }
     console.log("JSON Weapon S data is saved.");
 });
-fs.writeFile('./assets/json/master/weaponSRSpecRG.json', dataSR, (err) => {
+fs.writeFile('./assets/json/master/weaponSRSpecVGMag.json', dataSR, (err) => {
     if (err) {
         throw err;
     }
