@@ -43,8 +43,8 @@
     "info": "Rate-Up Physical VG Weapon \n- Guaranteed 1 S or Higher",
     "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMjAx/MDAxNjA3MzMwOTMzNjg3.ubj8hseTCHBUl5N6PA3tYVTSfkjHeUJi0TdnshUEKicg.-6uxo-MGDE8tcM-gd1PVfyhzDEV4rD0gQ-k-hmeTdo4g.PNG/GachaBanner001LImage_6_KR.png",
     "rateup":"../assets/json/Pool_Gacha/Spec Physical/pool.json",
-    "rateupA":"../assets/json/master/weaponASpecVGPhys.json",
-    "rateupS":"../assets/json/master/weaponSSpecVGPhys.json"
+    "rateupA":"../assets/json/master/weaponASpecVGMag.json",
+    "rateupS":"../assets/json/master/weaponSSpecVGMag.json"
   },
   {
     "args": 3,
