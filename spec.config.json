@@ -25,8 +25,8 @@
     "tccost":[300],
     "isguaranteed":true,
     "quantity":11,
-    "info": "Rate-Up Staff Weapon \n- Guaranteed 1 S or Higher",
-    "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMjAx/MDAxNjA3MzMwOTMzNjg3.ubj8hseTCHBUl5N6PA3tYVTSfkjHeUJi0TdnshUEKicg.-6uxo-MGDE8tcM-gd1PVfyhzDEV4rD0gQ-k-hmeTdo4g.PNG/GachaBanner001LImage_6_KR.png",
+    "info": "Rate-Up Magic VG Weapon \n- Guaranteed 1 S or Higher",
+    "url":"https://webcontents-sinoalice-g.pokelabo.jp//web/img/alice/announce/cd0849bc77ad85ac30b56c1f22eaef0b.png",
     "rateup":"../assets/json/Pool_Gacha/Spec Magic/pool.json",
     "rateupA":"../assets/json/master/weaponASpecVGMag.json",
     "rateupS":"../assets/json/master/weaponSSpecVGMag.json"
@@ -40,7 +40,7 @@
     "tccost":[300],
     "isguaranteed":true,
     "quantity":11,
-    "info": "Rate-Up Staff Weapon \n- Guaranteed 1 S or Higher",
+    "info": "Rate-Up Physical VG Weapon \n- Guaranteed 1 S or Higher",
     "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMjAx/MDAxNjA3MzMwOTMzNjg3.ubj8hseTCHBUl5N6PA3tYVTSfkjHeUJi0TdnshUEKicg.-6uxo-MGDE8tcM-gd1PVfyhzDEV4rD0gQ-k-hmeTdo4g.PNG/GachaBanner001LImage_6_KR.png",
     "rateup":"../assets/json/Pool_Gacha/Spec Physical/pool.json",
     "rateupA":"../assets/json/master/weaponASpecVGPhys.json",
@@ -71,7 +71,7 @@
     "isguaranteed":true,
     "quantity":11,
     "info": "Rate-Up Instrument Weapon \n- Guaranteed 1 S or Higher",
-    "url":"https://cafeptthumb-phinf.pstatic.net/MjAyMDEyMDdfMTcw/MDAxNjA3MzI5OTIwNDI5.Qnb29vMv9-cWC2YpCktog-J5U2Y0F4dr_LI2KibeJqQg.Dnw3qmtSSSqSoeSgXOAhpwF3fX_wmFm6-TyZ08caAVsg.PNG/GachaBanner001LImage_3_KR.png?type=w1600",
+    "url":"https://webcontents-sinoalice-g.pokelabo.jp//web/img/alice/announce/09c55ff5936f83adb170d1276fa8d1c6.png",
     "rateup":"../assets/json/Pool_Gacha/Spec Instru/pool.json",
     "rateupA":"../assets/json/master/weaponASpecRG.json",
     "rateupS":"../assets/json/master/weaponSSpecRG.json"
