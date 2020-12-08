@@ -20,6 +20,7 @@ client.on("ready", () => {
     .setImage('https://i.imgur.com/DiDNF8n.jpeg')
     .addField('PEMBERITAHUAN', 'Tutup Dalam 15 Menit');
     channel.send(emsg);
+    channel.setRateLimitPerUser(0,'haha');
     channel.updateOverwrite(channel.guild.roles.everyone, { SEND_MESSAGES: true }).then(() => {
      
         let channel = client.channels.cache.get(theid[1]);
