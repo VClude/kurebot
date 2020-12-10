@@ -1,60 +1,78 @@
 {
     "isRateup":true,
     "rateup":[{
-        "name": "Intent of Delusion",
-        "shortName": "Intent of Delusion",
-        "attribute": 3,
-        "mstId": 1582,
-        "resourceName": "1582",
+        "name": "Irrational Conviction",
+        "shortName": "Irrational Conviction",
+        "attribute": 2,
+        "mstId": 2755,
+        "resourceName": "2755",
         "rarity": "SR",
-        "url": "./assets/img/weapSR/1582.png"
+        "url": "./assets/img/weapSR/2755.png"
     },
     {
-        "name": "Armor Giant",
-        "shortName": "Armor Giant",
-        "attribute": 3,
-        "mstId": 1590,
-        "resourceName": "1590",
+        "name": "Winged Darkness",
+        "shortName": "Winged Darkness",
+        "attribute": 2,
+        "mstId": 2753,
+        "resourceName": "2753",
         "rarity": "SR",
-        "url": "./assets/img/weapSR/1590.png"
+        "url": "./assets/img/weapSR/2753.png"
     },
     {
-        "name": "Voltage Dictionary",
-        "shortName": "Voltage Dictionary",
-        "attribute": 3,
-        "mstId": 1588,
-        "resourceName": "1588",
+        "name": "Roster of Brutality",
+        "shortName": "Roster of Brutality",
+        "attribute": 2,
+        "mstId": 2751,
+        "resourceName": "2751",
         "rarity": "SR",
-        "url": "./assets/img/weapSR/1588.png"
+        "url": "./assets/img/weapSR/2751.png"
+    },
+    {
+        "name": "Roster of Brutality",
+        "shortName": "Roster of Brutality",
+        "attribute": 2,
+        "mstId": 2749,
+        "resourceName": "2749",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/2749.png"
     }],
 "pool":[
-{
-    "name": "Intent of Delusion",
-    "shortName": "Intent of Delusion",
-    "attribute": 3,
-    "mstId": 1582,
-    "resourceName": "1582",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1582.png"
-},
-{
-    "name": "Armor Giant",
-    "shortName": "Armor Giant",
-    "attribute": 3,
-    "mstId": 1590,
-    "resourceName": "1590",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1590.png"
-},
-{
-    "name": "Voltage Dictionary",
-    "shortName": "Voltage Dictionary",
-    "attribute": 3,
-    "mstId": 1588,
-    "resourceName": "1588",
-    "rarity": "SR",
-    "url": "./assets/img/weapSR/1588.png"
-},
+    {
+        "name": "Irrational Conviction",
+        "shortName": "Irrational Conviction",
+        "attribute": 2,
+        "mstId": 2755,
+        "resourceName": "2755",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/2755.png"
+    },
+    {
+        "name": "Winged Darkness",
+        "shortName": "Winged Darkness",
+        "attribute": 2,
+        "mstId": 2753,
+        "resourceName": "2753",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/2753.png"
+    },
+    {
+        "name": "Roster of Brutality",
+        "shortName": "Roster of Brutality",
+        "attribute": 2,
+        "mstId": 2751,
+        "resourceName": "2751",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/2751.png"
+    },
+    {
+        "name": "Roster of Brutality",
+        "shortName": "Roster of Brutality",
+        "attribute": 2,
+        "mstId": 2749,
+        "resourceName": "2749",
+        "rarity": "SR",
+        "url": "./assets/img/weapSR/2749.png"
+    },
 {
     "name": "Fiddle of Delusion",
     "shortName": "Fiddle of Delusion",
