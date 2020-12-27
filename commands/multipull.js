@@ -161,8 +161,8 @@ module.exports = {
 
     if(!bot_config.event[args[0]].enabled) {
         const embed = new Discord.MessageEmbed()
-                            .setTitle('Banner Locked')
-                            .setDescription('**!s multipull** for available banner list')
+                            .setTitle('Maintenance, Adding new Banner')
+                            .setDescription('please wait 5~20 minutes for maintenance')
                             .setColor(12745742)
                         message.channel.send({embed});
         return;
