@@ -8,7 +8,7 @@
             "mstId": 1610,
             "resourceName": "1610",
             "rarity": "SR",
-            "url": "./assets/img/weapSR/1610.png"
+            "url": "./assets/img/weapSR/CardS1610.png"
         },
         {
             "name": "Golden Harp",
@@ -17,7 +17,7 @@
             "mstId": 985,
             "resourceName": "0985",
             "rarity": "SR",
-            "url": "./assets/img/weapSR/0985.png"
+            "url": "./assets/img/weapSR/CardS0985.png"
         },
         {
             "name": "Harp of the Valiant",
@@ -26,7 +26,7 @@
             "mstId": 1566,
             "resourceName": "1566",
             "rarity": "SR",
-            "url": "./assets/img/weapSR/1566.png"
+            "url": "./assets/img/weapSR/CardS1566.png"
         }
     ],    
     "pool":[
@@ -37,7 +37,7 @@
     "mstId": 33,
     "resourceName": "0033",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0033.png"
+    "url": "./assets/img/weapSR/CardS0033.png"
 }, {
     "name": "Tome of Absolution",
     "shortName": "Tome of Absolution",
@@ -45,7 +45,7 @@
     "mstId": 35,
     "resourceName": "0035",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0035.png"
+    "url": "./assets/img/weapSR/CardS0035.png"
 }, {
     "name": "Risen Staff",
     "shortName": "Risen Staff",
@@ -53,7 +53,7 @@
     "mstId": 37,
     "resourceName": "0037",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0037.png"
+    "url": "./assets/img/weapSR/CardS0037.png"
 }, {
     "name": "Astrologer's Manastone",
     "shortName": "Astrologer's Manasto",
@@ -61,7 +61,7 @@
     "mstId": 39,
     "resourceName": "0039",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0039.png"
+    "url": "./assets/img/weapSR/CardS0039.png"
 }, {
     "name": "Sealed Water",
     "shortName": "Sealed Water",
@@ -69,7 +69,7 @@
     "mstId": 87,
     "resourceName": "0087",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0087.png"
+    "url": "./assets/img/weapSR/CardS0087.png"
 }, {
     "name": "Demonic Arm",
     "shortName": "Demonic Arm",
@@ -77,7 +77,7 @@
     "mstId": 89,
     "resourceName": "0089",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0089.png"
+    "url": "./assets/img/weapSR/CardS0089.png"
 }, {
     "name": "Irreconcilable Enemy",
     "shortName": "Irreconcilable Enemy",
@@ -85,7 +85,7 @@
     "mstId": 91,
     "resourceName": "0091",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0091.png"
+    "url": "./assets/img/weapSR/CardS0091.png"
 }, {
     "name": "Rebirth Gem",
     "shortName": "Rebirth Gem",
@@ -93,7 +93,7 @@
     "mstId": 93,
     "resourceName": "0093",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0093.png"
+    "url": "./assets/img/weapSR/CardS0093.png"
 }, {
     "name": "Fiddle of Delusion",
     "shortName": "Fiddle of Delusion",
@@ -101,7 +101,7 @@
     "mstId": 103,
     "resourceName": "0103",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0103.png"
+    "url": "./assets/img/weapSR/CardS0103.png"
 }, {
     "name": "Omniscient Book",
     "shortName": "Omniscient Book",
@@ -109,7 +109,7 @@
     "mstId": 105,
     "resourceName": "0105",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0105.png"
+    "url": "./assets/img/weapSR/CardS0105.png"
 }, {
     "name": "Staff of Bondage",
     "shortName": "Staff of Bondage",
@@ -117,7 +117,7 @@
     "mstId": 107,
     "resourceName": "0107",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0107.png"
+    "url": "./assets/img/weapSR/CardS0107.png"
 }, {
     "name": "Fool's Desire",
     "shortName": "Fool's Desire",
@@ -125,7 +125,7 @@
     "mstId": 121,
     "resourceName": "0121",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0121.png"
+    "url": "./assets/img/weapSR/CardS0121.png"
 }, {
     "name": "Discord",
     "shortName": "Discord",
@@ -133,7 +133,7 @@
     "mstId": 189,
     "resourceName": "0189",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0189.png"
+    "url": "./assets/img/weapSR/CardS0189.png"
 }, {
     "name": "Record of Humanity",
     "shortName": "Record of Humanity",
@@ -141,7 +141,7 @@
     "mstId": 191,
     "resourceName": "0191",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0191.png"
+    "url": "./assets/img/weapSR/CardS0191.png"
 }, {
     "name": "Naive Miracle Staff",
     "shortName": "Naive Miracle Staff",
@@ -149,7 +149,7 @@
     "mstId": 193,
     "resourceName": "0193",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0193.png"
+    "url": "./assets/img/weapSR/CardS0193.png"
 }, {
     "name": "Dragon God's Prayer",
     "shortName": "Dragon God's Prayer",
@@ -157,7 +157,7 @@
     "mstId": 195,
     "resourceName": "0195",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0195.png"
+    "url": "./assets/img/weapSR/CardS0195.png"
 }, {
     "name": "Insect Harp",
     "shortName": "Insect Harp",
@@ -165,7 +165,7 @@
     "mstId": 238,
     "resourceName": "0238",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0238.png"
+    "url": "./assets/img/weapSR/CardS0238.png"
 }, {
     "name": "Imperial Scout's Notes",
     "shortName": "Imperial Scout's Not",
@@ -173,7 +173,7 @@
     "mstId": 240,
     "resourceName": "0240",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0240.png"
+    "url": "./assets/img/weapSR/CardS0240.png"
 }, {
     "name": "Ginger Sage (Part I)",
     "shortName": "Ginger Sage (Part I)",
@@ -181,7 +181,7 @@
     "mstId": 242,
     "resourceName": "0242",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0242.png"
+    "url": "./assets/img/weapSR/CardS0242.png"
 }, {
     "name": "Lusty God's Lantern",
     "shortName": "Lusty God's Lantern",
@@ -189,7 +189,7 @@
     "mstId": 244,
     "resourceName": "0244",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0244.png"
+    "url": "./assets/img/weapSR/CardS0244.png"
 }, {
     "name": "Ancient Violin",
     "shortName": "Ancient Violin",
@@ -197,7 +197,7 @@
     "mstId": 291,
     "resourceName": "0291",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0291.png"
+    "url": "./assets/img/weapSR/CardS0291.png"
 }, {
     "name": "Knight's Diary",
     "shortName": "Knight's Diary",
@@ -205,7 +205,7 @@
     "mstId": 293,
     "resourceName": "0293",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0293.png"
+    "url": "./assets/img/weapSR/CardS0293.png"
 }, {
     "name": "Ginger Sage (Part II)",
     "shortName": "Ginger Sage (Part II",
@@ -213,7 +213,7 @@
     "mstId": 295,
     "resourceName": "0295",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0295.png"
+    "url": "./assets/img/weapSR/CardS0295.png"
 }, {
     "name": "Time Remaining",
     "shortName": "Time Remaining",
@@ -221,7 +221,7 @@
     "mstId": 297,
     "resourceName": "0297",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0297.png"
+    "url": "./assets/img/weapSR/CardS0297.png"
 }, {
     "name": "Flute of Despair",
     "shortName": "Flute of Despair",
@@ -229,7 +229,7 @@
     "mstId": 307,
     "resourceName": "0307",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0307.png"
+    "url": "./assets/img/weapSR/CardS0307.png"
 }, {
     "name": "Dragon Gem",
     "shortName": "Dragon Gem",
@@ -237,7 +237,7 @@
     "mstId": 321,
     "resourceName": "0321",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0321.png"
+    "url": "./assets/img/weapSR/CardS0321.png"
 }, {
     "name": "Snowy Corpse",
     "shortName": "Snowy Corpse",
@@ -245,7 +245,7 @@
     "mstId": 333,
     "resourceName": "0333",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0333.png"
+    "url": "./assets/img/weapSR/CardS0333.png"
 }, {
     "name": "Oblivion Staff",
     "shortName": "Oblivion Staff",
@@ -253,7 +253,7 @@
     "mstId": 335,
     "resourceName": "0335",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0335.png"
+    "url": "./assets/img/weapSR/CardS0335.png"
 }, {
     "name": "Reunion Whistle",
     "shortName": "Reunion Whistle",
@@ -261,7 +261,7 @@
     "mstId": 347,
     "resourceName": "0347",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0347.png"
+    "url": "./assets/img/weapSR/CardS0347.png"
 }, {
     "name": "Staff of Incarnation",
     "shortName": "Staff of Incarnation",
@@ -269,7 +269,7 @@
     "mstId": 353,
     "resourceName": "0353",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0353.png"
+    "url": "./assets/img/weapSR/CardS0353.png"
 }, {
     "name": "Sealed Dragon Puppet",
     "shortName": "Sealed Dragon Puppet",
@@ -277,7 +277,7 @@
     "mstId": 355,
     "resourceName": "0355",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0355.png"
+    "url": "./assets/img/weapSR/CardS0355.png"
 }, {
     "name": "Virgin's Spinal Fluid",
     "shortName": "Virgin's Spinal Flui",
@@ -285,7 +285,7 @@
     "mstId": 357,
     "resourceName": "0357",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0357.png"
+    "url": "./assets/img/weapSR/CardS0357.png"
 }, {
     "name": "Shell Wings",
     "shortName": "Shell Wings",
@@ -293,7 +293,7 @@
     "mstId": 359,
     "resourceName": "0359",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0359.png"
+    "url": "./assets/img/weapSR/CardS0359.png"
 }, {
     "name": "Book of Brutality",
     "shortName": "Book of Brutality",
@@ -301,7 +301,7 @@
     "mstId": 589,
     "resourceName": "0589",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0589.png"
+    "url": "./assets/img/weapSR/CardS0589.png"
 }, {
     "name": "Deep Sea Staff",
     "shortName": "Deep Sea Staff",
@@ -309,7 +309,7 @@
     "mstId": 641,
     "resourceName": "0641",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0641.png"
+    "url": "./assets/img/weapSR/CardS0641.png"
 }, {
     "name": "Harp of Misery",
     "shortName": "Harp of Misery",
@@ -317,7 +317,7 @@
     "mstId": 647,
     "resourceName": "0647",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0647.png"
+    "url": "./assets/img/weapSR/CardS0647.png"
 }, {
     "name": "Flute of Dependence",
     "shortName": "Flute of Dependence",
@@ -325,7 +325,7 @@
     "mstId": 671,
     "resourceName": "0671",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0671.png"
+    "url": "./assets/img/weapSR/CardS0671.png"
 }, {
     "name": "Mechanical Whale",
     "shortName": "Mechanical Whale",
@@ -333,7 +333,7 @@
     "mstId": 677,
     "resourceName": "0677",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0677.png"
+    "url": "./assets/img/weapSR/CardS0677.png"
 }, {
     "name": "Tome of Bondage",
     "shortName": "Tome of Bondage",
@@ -341,7 +341,7 @@
     "mstId": 745,
     "resourceName": "0745",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0745.png"
+    "url": "./assets/img/weapSR/CardS0745.png"
 }, {
     "name": "Ebony Staff",
     "shortName": "Ebony Staff",
@@ -349,7 +349,7 @@
     "mstId": 751,
     "resourceName": "0751",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0751.png"
+    "url": "./assets/img/weapSR/CardS0751.png"
 }, {
     "name": "Black Iron Staff",
     "shortName": "Black Iron Staff",
@@ -357,7 +357,7 @@
     "mstId": 779,
     "resourceName": "0779",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0779.png"
+    "url": "./assets/img/weapSR/CardS0779.png"
 }, {
     "name": "Black Iron Violin",
     "shortName": "Black Iron Violin",
@@ -365,7 +365,7 @@
     "mstId": 783,
     "resourceName": "0783",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0783.png"
+    "url": "./assets/img/weapSR/CardS0783.png"
 }, {
     "name": "Black Iron Book",
     "shortName": "Black Iron Book",
@@ -373,7 +373,7 @@
     "mstId": 785,
     "resourceName": "0785",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0785.png"
+    "url": "./assets/img/weapSR/CardS0785.png"
 }, {
     "name": "Commandment Violin",
     "shortName": "Commandment Violin",
@@ -381,7 +381,7 @@
     "mstId": 791,
     "resourceName": "0791",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0791.png"
+    "url": "./assets/img/weapSR/CardS0791.png"
 }, {
     "name": "Automaton Clock",
     "shortName": "Automaton Clock",
@@ -389,7 +389,7 @@
     "mstId": 793,
     "resourceName": "0793",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0793.png"
+    "url": "./assets/img/weapSR/CardS0793.png"
 }, {
     "name": "No. 7's Staff",
     "shortName": "No. 7's Staff",
@@ -397,7 +397,7 @@
     "mstId": 817,
     "resourceName": "0817",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0817.png"
+    "url": "./assets/img/weapSR/CardS0817.png"
 }, {
     "name": "Golden Harp",
     "shortName": "Golden Harp",
@@ -405,7 +405,7 @@
     "mstId": 985,
     "resourceName": "0985",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0985.png"
+    "url": "./assets/img/weapSR/CardS0985.png"
 }, {
     "name": "Golden Staff",
     "shortName": "Golden Staff",
@@ -413,7 +413,7 @@
     "mstId": 987,
     "resourceName": "0987",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0987.png"
+    "url": "./assets/img/weapSR/CardS0987.png"
 }, {
     "name": "Violin of Bondage",
     "shortName": "Violin of Bondage",
@@ -421,7 +421,7 @@
     "mstId": 993,
     "resourceName": "0993",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0993.png"
+    "url": "./assets/img/weapSR/CardS0993.png"
 }, {
     "name": "Bell Staff",
     "shortName": "Bell Staff",
@@ -429,7 +429,7 @@
     "mstId": 995,
     "resourceName": "0995",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/0995.png"
+    "url": "./assets/img/weapSR/CardS0995.png"
 }, {
     "name": "Spider Web Staff",
     "shortName": "Spider Web Staff",
@@ -437,7 +437,7 @@
     "mstId": 1033,
     "resourceName": "1033",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1033.png"
+    "url": "./assets/img/weapSR/CardS1033.png"
 }, {
     "name": "Beggar's Secrets",
     "shortName": "Beggar's Secrets",
@@ -445,7 +445,7 @@
     "mstId": 1035,
     "resourceName": "1035",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1035.png"
+    "url": "./assets/img/weapSR/CardS1035.png"
 }, {
     "name": "White Staff of Justice",
     "shortName": "White Staff of Justi",
@@ -453,7 +453,7 @@
     "mstId": 1073,
     "resourceName": "1073",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1073.png"
+    "url": "./assets/img/weapSR/CardS1073.png"
 }, {
     "name": "Scholarly Book of Curiosity",
     "shortName": "Scholarly Book of Cu",
@@ -461,7 +461,7 @@
     "mstId": 1089,
     "resourceName": "1089",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1089.png"
+    "url": "./assets/img/weapSR/CardS1089.png"
 }, {
     "name": "Entrails of Justice",
     "shortName": "Entrails of Justice",
@@ -469,7 +469,7 @@
     "mstId": 1097,
     "resourceName": "1097",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1097.png"
+    "url": "./assets/img/weapSR/CardS1097.png"
 }, {
     "name": "Shell Staff",
     "shortName": "Shell Staff",
@@ -477,7 +477,7 @@
     "mstId": 1101,
     "resourceName": "1101",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1101.png"
+    "url": "./assets/img/weapSR/CardS1101.png"
 }, {
     "name": "Pagan Mask",
     "shortName": "Pagan Mask",
@@ -485,7 +485,7 @@
     "mstId": 1111,
     "resourceName": "1111",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1111.png"
+    "url": "./assets/img/weapSR/CardS1111.png"
 }, {
     "name": "Pagan Scripture",
     "shortName": "Pagan Scripture",
@@ -493,7 +493,7 @@
     "mstId": 1113,
     "resourceName": "1113",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1113.png"
+    "url": "./assets/img/weapSR/CardS1113.png"
 }, {
     "name": "Draconic Strings of Silence",
     "shortName": "Draconic Strings of ",
@@ -501,7 +501,7 @@
     "mstId": 1143,
     "resourceName": "1143",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1143.png"
+    "url": "./assets/img/weapSR/CardS1143.png"
 }, {
     "name": "Distant Spinel",
     "shortName": "Distant Spinel",
@@ -509,7 +509,7 @@
     "mstId": 1145,
     "resourceName": "1145",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1145.png"
+    "url": "./assets/img/weapSR/CardS1145.png"
 }, {
     "name": "Astronomy Book",
     "shortName": "Astronomy Book",
@@ -517,7 +517,7 @@
     "mstId": 1147,
     "resourceName": "1147",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1147.png"
+    "url": "./assets/img/weapSR/CardS1147.png"
 }, {
     "name": "Corpse Staff",
     "shortName": "Corpse Staff",
@@ -525,7 +525,7 @@
     "mstId": 1149,
     "resourceName": "1149",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1149.png"
+    "url": "./assets/img/weapSR/CardS1149.png"
 }, {
     "name": "Staff of Delusion",
     "shortName": "Staff of Delusion",
@@ -533,7 +533,7 @@
     "mstId": 1155,
     "resourceName": "1155",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1155.png"
+    "url": "./assets/img/weapSR/CardS1155.png"
 }, {
     "name": "Sweet Release Harp",
     "shortName": "Sweet Release Harp",
@@ -541,7 +541,7 @@
     "mstId": 1159,
     "resourceName": "1159",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1159.png"
+    "url": "./assets/img/weapSR/CardS1159.png"
 }, {
     "name": "Sweet Release Cake",
     "shortName": "Sweet Release Cake",
@@ -549,7 +549,7 @@
     "mstId": 1161,
     "resourceName": "1161",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1161.png"
+    "url": "./assets/img/weapSR/CardS1161.png"
 }, {
     "name": "Shell Book",
     "shortName": "Shell Book",
@@ -557,7 +557,7 @@
     "mstId": 1261,
     "resourceName": "1261",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1261.png"
+    "url": "./assets/img/weapSR/CardS1261.png"
 }, {
     "name": "Violin of Justice",
     "shortName": "Violin of Justice",
@@ -565,7 +565,7 @@
     "mstId": 1301,
     "resourceName": "1301",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1301.png"
+    "url": "./assets/img/weapSR/CardS1301.png"
 }, {
     "name": "Assassin's Notes",
     "shortName": "Assassin's Notes",
@@ -573,7 +573,7 @@
     "mstId": 1303,
     "resourceName": "1303",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1303.png"
+    "url": "./assets/img/weapSR/CardS1303.png"
 }, {
     "name": "Path of Regret",
     "shortName": "Path of Regret",
@@ -581,7 +581,7 @@
     "mstId": 1305,
     "resourceName": "1305",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1305.png"
+    "url": "./assets/img/weapSR/CardS1305.png"
 }, {
     "name": "Harp of Brutality",
     "shortName": "Harp of Brutality",
@@ -589,7 +589,7 @@
     "mstId": 1351,
     "resourceName": "1351",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1351.png"
+    "url": "./assets/img/weapSR/CardS1351.png"
 }, {
     "name": "Pagan Staff",
     "shortName": "Pagan Staff",
@@ -597,7 +597,7 @@
     "mstId": 1364,
     "resourceName": "1364",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1364.png"
+    "url": "./assets/img/weapSR/CardS1364.png"
 }, {
     "name": "Black Knight's Soul",
     "shortName": "Black Knight's Soul",
@@ -605,7 +605,7 @@
     "mstId": 1368,
     "resourceName": "1368",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1368.png"
+    "url": "./assets/img/weapSR/CardS1368.png"
 }, {
     "name": "Heatwave",
     "shortName": "Heatwave",
@@ -613,7 +613,7 @@
     "mstId": 1386,
     "resourceName": "1386",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1386.png"
+    "url": "./assets/img/weapSR/CardS1386.png"
 }, {
     "name": "Death-Bringing Weather Vane",
     "shortName": "Death-Bringing Weath",
@@ -621,7 +621,7 @@
     "mstId": 1388,
     "resourceName": "1388",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1388.png"
+    "url": "./assets/img/weapSR/CardS1388.png"
 }, {
     "name": "Book of Ancient Ruins",
     "shortName": "Book of Ancient Ruin",
@@ -629,7 +629,7 @@
     "mstId": 1390,
     "resourceName": "1390",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1390.png"
+    "url": "./assets/img/weapSR/CardS1390.png"
 }, {
     "name": "Staff of Succession",
     "shortName": "Staff of Succession",
@@ -637,7 +637,7 @@
     "mstId": 1392,
     "resourceName": "1392",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1392.png"
+    "url": "./assets/img/weapSR/CardS1392.png"
 }, {
     "name": "Miserable Intent",
     "shortName": "Miserable Intent",
@@ -645,7 +645,7 @@
     "mstId": 1408,
     "resourceName": "1408",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1408.png"
+    "url": "./assets/img/weapSR/CardS1408.png"
 }, {
     "name": "Medical Book of Darkness",
     "shortName": "Medical Book of Dark",
@@ -653,7 +653,7 @@
     "mstId": 1414,
     "resourceName": "1414",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1414.png"
+    "url": "./assets/img/weapSR/CardS1414.png"
 }, {
     "name": "Flute of Sunlight",
     "shortName": "Flute of Sunlight",
@@ -661,7 +661,7 @@
     "mstId": 1454,
     "resourceName": "1454",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1454.png"
+    "url": "./assets/img/weapSR/CardS1454.png"
 }, {
     "name": "Staff of Deep Prayer",
     "shortName": "Staff of Deep Prayer",
@@ -669,7 +669,7 @@
     "mstId": 1456,
     "resourceName": "1456",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1456.png"
+    "url": "./assets/img/weapSR/CardS1456.png"
 }, {
     "name": "Beast Puppet",
     "shortName": "Beast Puppet",
@@ -677,7 +677,7 @@
     "mstId": 1458,
     "resourceName": "1458",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1458.png"
+    "url": "./assets/img/weapSR/CardS1458.png"
 }, {
     "name": "One's Beloved Staff",
     "shortName": "One's Beloved Staff",
@@ -685,7 +685,7 @@
     "mstId": 1472,
     "resourceName": "1472",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1472.png"
+    "url": "./assets/img/weapSR/CardS1472.png"
 }, {
     "name": "Black Holy Grail",
     "shortName": "Black Holy Grail",
@@ -693,7 +693,7 @@
     "mstId": 1474,
     "resourceName": "1474",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1474.png"
+    "url": "./assets/img/weapSR/CardS1474.png"
 }, {
     "name": "Final Prophecy",
     "shortName": "Final Prophecy",
@@ -701,7 +701,7 @@
     "mstId": 1476,
     "resourceName": "1476",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1476.png"
+    "url": "./assets/img/weapSR/CardS1476.png"
 }, {
     "name": "Demonic Violin",
     "shortName": "Demonic Violin",
@@ -709,7 +709,7 @@
     "mstId": 1478,
     "resourceName": "1478",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1478.png"
+    "url": "./assets/img/weapSR/CardS1478.png"
 }, {
     "name": "Sinner's Manuscript",
     "shortName": "Sinner's Manuscript",
@@ -717,7 +717,7 @@
     "mstId": 1492,
     "resourceName": "1492",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1492.png"
+    "url": "./assets/img/weapSR/CardS1492.png"
 }, {
     "name": "Book of Justice",
     "shortName": "Book of Justice",
@@ -725,7 +725,7 @@
     "mstId": 1564,
     "resourceName": "1564",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1564.png"
+    "url": "./assets/img/weapSR/CardS1564.png"
 }, {
     "name": "Harp of the Valiant",
     "shortName": "Harp of the Valiant",
@@ -733,7 +733,7 @@
     "mstId": 1566,
     "resourceName": "1566",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1566.png"
+    "url": "./assets/img/weapSR/CardS1566.png"
 }, {
     "name": "Villain's Book",
     "shortName": "Villain's Book",
@@ -741,7 +741,7 @@
     "mstId": 1578,
     "resourceName": "1578",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1578.png"
+    "url": "./assets/img/weapSR/CardS1578.png"
 }, {
     "name": "Mask of Pride",
     "shortName": "Mask of Pride",
@@ -749,7 +749,7 @@
     "mstId": 1580,
     "resourceName": "1580",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1580.png"
+    "url": "./assets/img/weapSR/CardS1580.png"
 }, {
     "name": "Steel Flute",
     "shortName": "Steel Flute",
@@ -757,7 +757,7 @@
     "mstId": 1586,
     "resourceName": "1586",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1586.png"
+    "url": "./assets/img/weapSR/CardS1586.png"
 }, {
     "name": "Voltage Dictionary",
     "shortName": "Voltage Dictionary",
@@ -765,7 +765,7 @@
     "mstId": 1588,
     "resourceName": "1588",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1588.png"
+    "url": "./assets/img/weapSR/CardS1588.png"
 }, {
     "name": "Forest of Darkness",
     "shortName": "Forest of Darkness",
@@ -773,7 +773,7 @@
     "mstId": 1909,
     "resourceName": "1909",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1909.png"
+    "url": "./assets/img/weapSR/CardS1909.png"
 }, {
     "name": "Blessing Staff",
     "shortName": "Blessing Staff",
@@ -781,7 +781,7 @@
     "mstId": 1911,
     "resourceName": "1911",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1911.png"
+    "url": "./assets/img/weapSR/CardS1911.png"
 }, {
     "name": "Book of Observation",
     "shortName": "Book of Observation",
@@ -789,7 +789,7 @@
     "mstId": 1923,
     "resourceName": "1923",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1923.png"
+    "url": "./assets/img/weapSR/CardS1923.png"
 }, {
     "name": "Cool Breeze",
     "shortName": "Cool Breeze",
@@ -797,7 +797,7 @@
     "mstId": 1925,
     "resourceName": "1925",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/1925.png"
+    "url": "./assets/img/weapSR/CardS1925.png"
 }, {
     "name": "Masochism's Intent",
     "shortName": "Masochism's Intent",
@@ -805,7 +805,7 @@
     "mstId": 2206,
     "resourceName": "2206",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/2206.png"
+    "url": "./assets/img/weapSR/CardS2206.png"
 }, {
     "name": "Invader's Staff of Masochism",
     "shortName": "Invader's Staff of M",
@@ -813,7 +813,7 @@
     "mstId": 2502,
     "resourceName": "2502",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/2502.png"
+    "url": "./assets/img/weapSR/CardS2502.png"
 }, {
     "name": "Wolf Strings of Depravity",
     "shortName": "Wolf Strings of Depr",
@@ -821,7 +821,7 @@
     "mstId": 2616,
     "resourceName": "2616",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/2616.png"
+    "url": "./assets/img/weapSR/CardS2616.png"
 }, {
     "name": "Conjuring Agreement",
     "shortName": "Conjuring Agreement",
@@ -829,7 +829,7 @@
     "mstId": 2620,
     "resourceName": "2620",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/2620.png"
+    "url": "./assets/img/weapSR/CardS2620.png"
 }, {
     "name": "Grimoire Weiss",
     "shortName": "Grimoire Weiss",
@@ -837,7 +837,7 @@
     "mstId": 3091,
     "resourceName": "3091",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/3091.png"
+    "url": "./assets/img/weapSR/CardS3091.png"
 }, {
     "name": "Halua Head",
     "shortName": "Halua Head",
@@ -845,7 +845,7 @@
     "mstId": 3097,
     "resourceName": "3097",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/3097.png"
+    "url": "./assets/img/weapSR/CardS3097.png"
 }, {
     "name": "Devola & Popola's Staff",
     "shortName": "Devola & Popola's St",
@@ -853,7 +853,7 @@
     "mstId": 3099,
     "resourceName": "3099",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/3099.png"
+    "url": "./assets/img/weapSR/CardS3099.png"
 }, {
     "name": "Origin of Venom",
     "shortName": "Origin of Venom",
@@ -861,7 +861,7 @@
     "mstId": 4442,
     "resourceName": "4442",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/4442.png"
+    "url": "./assets/img/weapSR/CardS4442.png"
 }, {
     "name": "Origin of Temptation",
     "shortName": "Origin of Temptation",
@@ -869,7 +869,7 @@
     "mstId": 4444,
     "resourceName": "4444",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/4444.png"
+    "url": "./assets/img/weapSR/CardS4444.png"
 }, {
     "name": "Origin of Chaos",
     "shortName": "Origin of Chaos",
@@ -877,7 +877,7 @@
     "mstId": 4446,
     "resourceName": "4446",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/4446.png"
+    "url": "./assets/img/weapSR/CardS4446.png"
 }, {
     "name": "Origin of Truth",
     "shortName": "Origin of Truth",
@@ -885,5 +885,5 @@
     "mstId": 4448,
     "resourceName": "4448",
     "rarity": "SR",
-    "url": "./assets/img/weapSR/4448.png"
+    "url": "./assets/img/weapSR/CardS4448.png"
 }]}

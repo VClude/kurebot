@@ -18,7 +18,7 @@ for (let i = 0; i < card.length; i++) {
     if(card[i].cardType === 1 && card[i].evolutionLevel === 0){
         y++;
         rarity = (card[i].rarity === 3) ? 'A' : ((card[i].rarity === 4) ? 'S' : ((card[i].rarity === 5) ? 'SR' : 'L'));
-        location = (card[i].rarity === 3) ? './assets/img/weapA/' : ((card[i].rarity === 4) ? './assets/img/weapS/' : ((card[i].rarity === 5) ? './assets/img/weapSR/' : './assets/img/weapSR/'));
+        location = (card[i].rarity === 3) ? './assets/img/weapA/' : ((card[i].rarity === 4) ? './assets/img/weapS/' : ((card[i].rarity === 5) ? './assets/img/weapSR/CardS' : './assets/img/weapSR/CardS'));
         console.log('in iteration ' + y + ' Weapon ->' + card[i].name);
         weapon.name = translate.latinize(card[i].name);
         weapon.shortName = card[i].shortName;
@@ -121,7 +121,7 @@ for (let i = 0; i < card.length; i++) {
         nightmare.mstId = card[i].cardMstId;
         nightmare.resourceName = card[i].resourceName;
         nightmare.rarity = 'SR';
-        nightmare.url = './assets/img/weapSR/' + card[i].resourceName + '.png'
+        nightmare.url = './assets/img/weapSR/CardS' + card[i].resourceName + '.png'
         
         
 
