@@ -7,7 +7,15 @@ module.exports = {
     name: 'keqing',
     description: 'keqingggg, ze pong ze pong',
     execute(message, args, client) {
-        message.channel.send({files: ['./assets/keqing.mp4']});
+        if(!args[0]){
+            message.channel.send({files: ['./assets/keqing.mp4']});
+        }
+
+        else if(args[0] == 2){
+            message.channel.send({files: ['./assets/keqing2.mp4']});
+
+        }
+        
         
   
 
