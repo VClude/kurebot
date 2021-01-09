@@ -1,0 +1,259 @@
+{
+    "payload": {
+        "gvgBattleHistory": [
+            {
+                "actTime": 1609859955,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 5202,
+                "isOwnGuild": true,
+                "readableText": "Orb8 is preparing to activate summon skill: Victorious Melody (III).",
+                "userId": 533508956,
+                "userName": "Orb8"
+            },
+            {
+                "actTime": 1609859812,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 4697,
+                "isOwnGuild": true,
+                "readableText": "edojc activated summon skill Gale Blessing (III).",
+                "userId": 496914609,
+                "userName": "edojc"
+            },
+            {
+                "actTime": 1609859765,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 4550,
+                "isOwnGuild": false,
+                "readableText": "＋Curaga＋ activated summon skill The Bell Sounds a Storm (III).",
+                "userId": 803518934,
+                "userName": "＋Curaga＋"
+            },
+            {
+                "actTime": 1609859732,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 4349,
+                "isOwnGuild": true,
+                "readableText": "edojc is preparing to activate summon skill: Gale Blessing (III).",
+                "userId": 496914609,
+                "userName": "edojc"
+            },
+            {
+                "actTime": 1609859715,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 4254,
+                "isOwnGuild": false,
+                "readableText": "＋Curaga＋ is preparing to activate summon skill: The Bell Sounds a Storm (III).",
+                "userId": 803518934,
+                "userName": "＋Curaga＋"
+            },
+            {
+                "actTime": 1609859673,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 4133,
+                "isOwnGuild": true,
+                "readableText": "Gained 6,958 lifeforce.\nAstelliaJC summoned Tempestuous Calamity (V).\n69,576 damage to 5 target(s).",
+                "userId": 0,
+                "userName": ""
+            },
+            {
+                "actTime": 1609859551,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 3603,
+                "isOwnGuild": false,
+                "readableText": "Preparing to summon Tempestuous Calamity (V).",
+                "userId": 0,
+                "userName": ""
+            },
+            {
+                "actTime": 1609859504,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 3421,
+                "isOwnGuild": true,
+                "readableText": "s4mb activated summon skill For Whom The Bell Splashes (III).",
+                "userId": 952209185,
+                "userName": "s4mb"
+            },
+            {
+                "actTime": 1609859454,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 3176,
+                "isOwnGuild": true,
+                "readableText": "s4mb is preparing to activate summon skill: For Whom The Bell Splashes (III).",
+                "userId": 952209185,
+                "userName": "s4mb"
+            },
+            {
+                "actTime": 1609859368,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2804,
+                "isOwnGuild": false,
+                "readableText": "Nimoe activated summon skill For Whom The Bell Splashes (III).",
+                "userId": 398317895,
+                "userName": "Nimoe"
+            },
+            {
+                "actTime": 1609859331,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2588,
+                "isOwnGuild": true,
+                "readableText": "Hamelinあらし activated summon skill World of Silence (III).",
+                "userId": 820235444,
+                "userName": "Hamelinあらし"
+            },
+            {
+                "actTime": 1609859318,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2506,
+                "isOwnGuild": false,
+                "readableText": "Nimoe is preparing to activate summon skill: For Whom The Bell Splashes (III).",
+                "userId": 398317895,
+                "userName": "Nimoe"
+            },
+            {
+                "actTime": 1609859271,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2356,
+                "isOwnGuild": true,
+                "readableText": "Hamelinあらし is preparing to activate summon skill: World of Silence (III).",
+                "userId": 820235444,
+                "userName": "Hamelinあらし"
+            },
+            {
+                "actTime": 1609859257,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2289,
+                "isOwnGuild": false,
+                "readableText": "Riliane activated summon skill Victorious Melody (III).\nPoorgirl's ATK Up by 12,288.\nPoorgirl's M.ATK Up by 14,910.\nTen's ATK Up by 10,987.\nTen's M.ATK Up by 14,113.\nGetLoss's ATK Up by 4,945.\nGetLoss's M.ATK Up by 13,599.\nJL's ATK Up by 13,698.\nJL's M.ATK Up by 15,741.\nOracion's ATK Up by 6,132.\nOracion's M.ATK Up by 14,733.",
+                "userId": 677416687,
+                "userName": "Riliane"
+            },
+            {
+                "actTime": 1609859242,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2203,
+                "isOwnGuild": true,
+                "readableText": "Gained 7,210 lifeforce.\nAstelliaJC summoned Meteoric Calamity (V).\n72,094 damage to 5 target(s).",
+                "userId": 0,
+                "userName": ""
+            },
+            {
+                "actTime": 1609859205,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 2057,
+                "isOwnGuild": false,
+                "readableText": "Riliane is preparing to activate summon skill: Victorious Melody (III).",
+                "userId": 677416687,
+                "userName": "Riliane"
+            },
+            {
+                "actTime": 1609859086,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 1497,
+                "isOwnGuild": false,
+                "readableText": "Preparing to summon Meteoric Calamity (V).",
+                "userId": 0,
+                "userName": ""
+            },
+            {
+                "actTime": 1609859080,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 1465,
+                "isOwnGuild": false,
+                "readableText": "GetLoss activated summon skill Gale Blessing (III).",
+                "userId": 329036869,
+                "userName": "GetLoss"
+            },
+            {
+                "actTime": 1609859026,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 1215,
+                "isOwnGuild": true,
+                "readableText": "Playsimp♫ activated summon skill The Bell Sounds a Storm (III).",
+                "userId": 247250950,
+                "userName": "Playsimp♫"
+            },
+            {
+                "actTime": 1609859000,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 1103,
+                "isOwnGuild": false,
+                "readableText": "GetLoss is preparing to activate summon skill: Gale Blessing (III).",
+                "userId": 329036869,
+                "userName": "GetLoss"
+            },
+            {
+                "actTime": 1609858975,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 957,
+                "isOwnGuild": true,
+                "readableText": "Playsimp♫ is preparing to activate summon skill: The Bell Sounds a Storm (III).",
+                "userId": 247250950,
+                "userName": "Playsimp♫"
+            },
+            {
+                "actTime": 1609858893,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 680,
+                "isOwnGuild": false,
+                "readableText": "Ten activated summon skill World of Ignorance (III).",
+                "userId": 211734109,
+                "userName": "Ten"
+            },
+            {
+                "actTime": 1609858862,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 506,
+                "isOwnGuild": true,
+                "readableText": "PecorineJC activated summon skill The Bell Sounds a Wildfire (II).",
+                "userId": 145372081,
+                "userName": "PecorineJC"
+            },
+            {
+                "actTime": 1609858833,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 346,
+                "isOwnGuild": false,
+                "readableText": "Ten is preparing to activate summon skill: World of Ignorance (III).",
+                "userId": 211734109,
+                "userName": "Ten"
+            },
+            {
+                "actTime": 1609858802,
+                "guildDataId": 2229,
+                "gvgDataId": 569650,
+                "gvgHistoryId": 169,
+                "isOwnGuild": true,
+                "readableText": "PecorineJC is preparing to activate summon skill: The Bell Sounds a Wildfire (II).",
+                "userId": 145372081,
+                "userName": "PecorineJC"
+            }
+        ],
+        "gvgBattleHistoryPage": 1
+    },
+    "status": 200,
+    "url": "/api/gvg_out_battle/get_battle_history"
+}

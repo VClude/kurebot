@@ -1,0 +1,608 @@
+{
+    "payload": {
+        "gvgLoginBonusData": {
+            "dayCount": 5,
+            "gvgLoginBonusMstId": 900001,
+            "month": 1,
+            "year": 2021
+        },
+        "gvgMvpRank": [
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "DragonerJr",
+                        "nameB": "GetLoss",
+                        "rank": 1,
+                        "userIdA": 128490587,
+                        "userIdB": 329036869,
+                        "valueA": 707559,
+                        "valueB": 153131
+                    },
+                    {
+                        "nameA": "꧁ঔ☬✞ℳ✞☬ঔৣ꧁",
+                        "nameB": "Poorgirl",
+                        "rank": 2,
+                        "userIdA": 424809103,
+                        "userIdB": 133165236,
+                        "valueA": 664208,
+                        "valueB": 140817
+                    },
+                    {
+                        "nameA": "Onimushi",
+                        "nameB": "Oracion",
+                        "rank": 3,
+                        "userIdA": 497051061,
+                        "userIdB": 907843997,
+                        "valueA": 355629,
+                        "valueB": 132194
+                    },
+                    {
+                        "nameA": "edojc",
+                        "nameB": "Ten",
+                        "rank": 4,
+                        "userIdA": 496914609,
+                        "userIdB": 211734109,
+                        "valueA": 282919,
+                        "valueB": 107087
+                    },
+                    {
+                        "nameA": "Playdate♫",
+                        "nameB": "JL",
+                        "rank": 5,
+                        "userIdA": 769928562,
+                        "userIdB": 894408540,
+                        "valueA": 197328,
+                        "valueB": 105835
+                    }
+                ],
+                "type": 1,
+                "typeName": "イノチ"
+            },
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "s4mb",
+                        "nameB": "Laer",
+                        "rank": 1,
+                        "userIdA": 952209185,
+                        "userIdB": 743187819,
+                        "valueA": 5351583,
+                        "valueB": 6483882
+                    },
+                    {
+                        "nameA": "Visclude",
+                        "nameB": "＋Curaga＋",
+                        "rank": 2,
+                        "userIdA": 185852461,
+                        "userIdB": 803518934,
+                        "valueA": 4391302,
+                        "valueB": 6474394
+                    },
+                    {
+                        "nameA": "13",
+                        "nameB": "Poorboy",
+                        "rank": 3,
+                        "userIdA": 879984003,
+                        "userIdB": 549960839,
+                        "valueA": 4083793,
+                        "valueB": 5227135
+                    },
+                    {
+                        "nameA": "Hamelinあらし",
+                        "nameB": "Ten",
+                        "rank": 4,
+                        "userIdA": 820235444,
+                        "userIdB": 211734109,
+                        "valueA": 254766,
+                        "valueB": 367448
+                    },
+                    {
+                        "nameA": "edojc",
+                        "nameB": "JL",
+                        "rank": 5,
+                        "userIdA": 496914609,
+                        "userIdB": 894408540,
+                        "valueA": 214664,
+                        "valueB": 315116
+                    }
+                ],
+                "type": 2,
+                "typeName": "回復"
+            },
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "Belldandy",
+                        "nameB": "Velova",
+                        "rank": 1,
+                        "userIdA": 948884781,
+                        "userIdB": 907649103,
+                        "valueA": 904762,
+                        "valueB": 615198
+                    },
+                    {
+                        "nameA": "Orb8",
+                        "nameB": "harunek",
+                        "rank": 2,
+                        "userIdA": 533508956,
+                        "userIdB": 800402973,
+                        "valueA": 425972,
+                        "valueB": 398948
+                    },
+                    {
+                        "nameA": "PecorineJC",
+                        "nameB": "Darren13",
+                        "rank": 3,
+                        "userIdA": 145372081,
+                        "userIdB": 306661837,
+                        "valueA": 349476,
+                        "valueB": 384021
+                    },
+                    {
+                        "nameA": "Hamelinあらし",
+                        "nameB": "Minstrel",
+                        "rank": 4,
+                        "userIdA": 820235444,
+                        "userIdB": 910124517,
+                        "valueA": 263796,
+                        "valueB": 356033
+                    },
+                    {
+                        "nameA": "Berserkerꐠ",
+                        "nameB": "Nimoe",
+                        "rank": 5,
+                        "userIdA": 383425845,
+                        "userIdB": 398317895,
+                        "valueA": 83362,
+                        "valueB": 225811
+                    }
+                ],
+                "type": 3,
+                "typeName": "味方攻撃力支援"
+            },
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "Belldandy",
+                        "nameB": "Darren13",
+                        "rank": 1,
+                        "userIdA": 948884781,
+                        "userIdB": 306661837,
+                        "valueA": 1007163,
+                        "valueB": 664256
+                    },
+                    {
+                        "nameA": "PecorineJC",
+                        "nameB": "Minstrel",
+                        "rank": 2,
+                        "userIdA": 145372081,
+                        "userIdB": 910124517,
+                        "valueA": 776440,
+                        "valueB": 603480
+                    },
+                    {
+                        "nameA": "Hamelinあらし",
+                        "nameB": "harunek",
+                        "rank": 3,
+                        "userIdA": 820235444,
+                        "userIdB": 800402973,
+                        "valueA": 393038,
+                        "valueB": 467280
+                    },
+                    {
+                        "nameA": "Orb8",
+                        "nameB": "Velova",
+                        "rank": 4,
+                        "userIdA": 533508956,
+                        "userIdB": 907649103,
+                        "valueA": 269192,
+                        "valueB": 191272
+                    },
+                    {
+                        "nameA": "Playsimp♫",
+                        "nameB": "＋Curaga＋",
+                        "rank": 5,
+                        "userIdA": 247250950,
+                        "userIdB": 803518934,
+                        "valueA": 251955,
+                        "valueB": 130864
+                    }
+                ],
+                "type": 4,
+                "typeName": "味方防御力支援"
+            },
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "Berserkerꐠ",
+                        "nameB": "Riliane",
+                        "rank": 1,
+                        "userIdA": 383425845,
+                        "userIdB": 677416687,
+                        "valueA": 1085533,
+                        "valueB": 1136622
+                    },
+                    {
+                        "nameA": "Playsimp♫",
+                        "nameB": "Nimoe",
+                        "rank": 2,
+                        "userIdA": 247250950,
+                        "userIdB": 398317895,
+                        "valueA": 777810,
+                        "valueB": 596204
+                    },
+                    {
+                        "nameA": "Greentcha",
+                        "nameB": "Naikers",
+                        "rank": 3,
+                        "userIdA": 456126373,
+                        "userIdB": 326449814,
+                        "valueA": 563848,
+                        "valueB": 480623
+                    },
+                    {
+                        "nameA": "Orb8",
+                        "nameB": "Darren13",
+                        "rank": 4,
+                        "userIdA": 533508956,
+                        "userIdB": 306661837,
+                        "valueA": 552268,
+                        "valueB": 65753
+                    },
+                    {
+                        "nameA": "PecorineJC",
+                        "nameB": "Velova",
+                        "rank": 5,
+                        "userIdA": 145372081,
+                        "userIdB": 907649103,
+                        "valueA": 170951,
+                        "valueB": 63227
+                    }
+                ],
+                "type": 5,
+                "typeName": "敵攻撃力妨害"
+            },
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "Greentcha",
+                        "nameB": "Nimoe",
+                        "rank": 1,
+                        "userIdA": 456126373,
+                        "userIdB": 398317895,
+                        "valueA": 1087671,
+                        "valueB": 996554
+                    },
+                    {
+                        "nameA": "Berserkerꐠ",
+                        "nameB": "Riliane",
+                        "rank": 2,
+                        "userIdA": 383425845,
+                        "userIdB": 677416687,
+                        "valueA": 775692,
+                        "valueB": 971488
+                    },
+                    {
+                        "nameA": "Orb8",
+                        "nameB": "Naikers",
+                        "rank": 3,
+                        "userIdA": 533508956,
+                        "userIdB": 326449814,
+                        "valueA": 771524,
+                        "valueB": 727340
+                    },
+                    {
+                        "nameA": "Playsimp♫",
+                        "nameB": "Oracion",
+                        "rank": 4,
+                        "userIdA": 247250950,
+                        "userIdB": 907843997,
+                        "valueA": 555984,
+                        "valueB": 96681
+                    },
+                    {
+                        "nameA": "PecorineJC",
+                        "nameB": "GetLoss",
+                        "rank": 5,
+                        "userIdA": 145372081,
+                        "userIdB": 329036869,
+                        "valueA": 168383,
+                        "valueB": 89633
+                    }
+                ],
+                "type": 6,
+                "typeName": "敵防御力妨害"
+            },
+            {
+                "gvgMvpRankDetailList": [
+                    {
+                        "nameA": "DragonerJr",
+                        "nameB": "GetLoss",
+                        "rank": 1,
+                        "userIdA": 128490587,
+                        "userIdB": 329036869,
+                        "valueA": 195,
+                        "valueB": 102
+                    },
+                    {
+                        "nameA": "꧁ঔ☬✞ℳ✞☬ঔৣ꧁",
+                        "nameB": "Poorgirl",
+                        "rank": 2,
+                        "userIdA": 424809103,
+                        "userIdB": 133165236,
+                        "valueA": 190,
+                        "valueB": 90
+                    },
+                    {
+                        "nameA": "edojc",
+                        "nameB": "Ten",
+                        "rank": 3,
+                        "userIdA": 496914609,
+                        "userIdB": 211734109,
+                        "valueA": 141,
+                        "valueB": 88
+                    },
+                    {
+                        "nameA": "Playdate♫",
+                        "nameB": "Oracion",
+                        "rank": 4,
+                        "userIdA": 769928562,
+                        "userIdB": 907843997,
+                        "valueA": 132,
+                        "valueB": 86
+                    },
+                    {
+                        "nameA": "Onimushi",
+                        "nameB": "JL",
+                        "rank": 5,
+                        "userIdA": 497051061,
+                        "userIdB": 894408540,
+                        "valueA": 109,
+                        "valueB": 85
+                    }
+                ],
+                "type": 7,
+                "typeName": "コンボ"
+            }
+        ],
+        "gvgResult": {
+            "battleEndTime": 1609859999,
+            "battleNum": 31,
+            "battleStartTime": 1609858800,
+            "enemyComboCount": 483,
+            "enemyFavoriteAkbMember": 0,
+            "enemyGuildCountryCode": 392,
+            "enemyGuildDataId": 17247,
+            "enemyGuildName": "Legionaire2.0",
+            "enemyRankGuildPoint": 153131,
+            "enemyRankNum": 1,
+            "enemyRankUserId": 329036869,
+            "enemyRankUserName": "GetLoss",
+            "enemySiegeWinCount": 0,
+            "enemyTotalGuildPoint": 153929,
+            "gvgDataId": 569650,
+            "gvgTitle": "Server/typeMap.gvgOutBattle.getResultRes.gvgTitle",
+            "partySequence": 2,
+            "scheduleNo": 1,
+            "selfComboCount": 1233,
+            "selfFavoriteAkbMember": 0,
+            "selfGuildCountryCode": 360,
+            "selfGuildDataId": 2229,
+            "selfGuildName": "AstelliaJC",
+            "selfRankGuildPoint": 707559,
+            "selfRankNum": 1,
+            "selfRankUserId": 128490587,
+            "selfRankUserName": "DragonerJr",
+            "selfSiegeWinCount": 11,
+            "selfTotalGuildPoint": 2770289
+        },
+        "gvgReward": [
+            {
+                "comment": "Colosseum Win Rewards",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 37,
+                "num": 10,
+                "objectId": 2,
+                "objectType": 1,
+                "rank": 4,
+                "result": 1,
+                "rewardType": 1,
+                "startTime": 1483196400
+            },
+            {
+                "comment": "Colosseum Win Rewards",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 38,
+                "num": 4,
+                "objectId": 1528,
+                "objectType": 1,
+                "rank": 4,
+                "result": 1,
+                "rewardType": 1,
+                "startTime": 1483196400
+            },
+            {
+                "comment": "Colosseum Win Rewards",
+                "createdTime": null,
+                "endTime": 1610081999,
+                "gvgRewardMstId": 344,
+                "num": 10,
+                "objectId": 346,
+                "objectType": 1,
+                "rank": 4,
+                "result": 1,
+                "rewardType": 5,
+                "startTime": 1609477200
+            },
+            {
+                "comment": "Colosseum Win Rewards",
+                "createdTime": null,
+                "endTime": 1610081999,
+                "gvgRewardMstId": 356,
+                "num": 1,
+                "objectId": 345,
+                "objectType": 1,
+                "rank": 4,
+                "result": 1,
+                "rewardType": 5,
+                "startTime": 1609477200
+            },
+            {
+                "comment": "A bonus for taking down an enemy guildship in the Colosseum.",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 35,
+                "num": 10,
+                "objectId": 2,
+                "objectType": 1,
+                "rank": 4,
+                "result": 0,
+                "rewardType": 2,
+                "startTime": 1483196400
+            },
+            {
+                "comment": "A bonus for taking down an enemy guildship in the Colosseum.",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 36,
+                "num": 3,
+                "objectId": 1529,
+                "objectType": 1,
+                "rank": 4,
+                "result": 0,
+                "rewardType": 2,
+                "startTime": 1483196400
+            },
+            {
+                "comment": "Colosseum Participation Rewards",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 33,
+                "num": 20,
+                "objectId": 2,
+                "objectType": 1,
+                "rank": 4,
+                "result": 0,
+                "rewardType": 3,
+                "startTime": 1483196400
+            },
+            {
+                "comment": "Colosseum Participation Rewards",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 34,
+                "num": 3,
+                "objectId": 1529,
+                "objectType": 1,
+                "rank": 4,
+                "result": 0,
+                "rewardType": 3,
+                "startTime": 1483196400
+            },
+            {
+                "comment": "Colosseum Participation Rewards",
+                "createdTime": null,
+                "endTime": 1610081999,
+                "gvgRewardMstId": 351,
+                "num": 5,
+                "objectId": 346,
+                "objectType": 1,
+                "rank": 4,
+                "result": 0,
+                "rewardType": 7,
+                "startTime": 1609477200
+            },
+            {
+                "comment": "Colosseum 13-15 Participants Rewards",
+                "createdTime": null,
+                "endTime": 1610081999,
+                "gvgRewardMstId": 327,
+                "num": 20,
+                "objectId": 346,
+                "objectType": 1,
+                "rank": 9,
+                "result": 1,
+                "rewardType": 4,
+                "startTime": 1609477200
+            },
+            {
+                "comment": "Colosseum 777 Combo Rewards",
+                "createdTime": null,
+                "endTime": 1893423599,
+                "gvgRewardMstId": 204,
+                "num": 7,
+                "objectId": 2,
+                "objectType": 1,
+                "rank": 9,
+                "result": 4,
+                "rewardType": 8,
+                "startTime": 1512658800
+            }
+        ],
+        "gvgUltimateArtInfo": {
+            "gvgDataId": 569650,
+            "gvgUltimateArtDataList": [
+                {
+                    "artMstId": 1483,
+                    "guildACount": 75,
+                    "guildBCount": 38,
+                    "ultimateArtMethodMstId": 1483
+                },
+                {
+                    "artMstId": 1489,
+                    "guildACount": 75,
+                    "guildBCount": 41,
+                    "ultimateArtMethodMstId": 1489
+                }
+            ]
+        },
+        "nextGvgLoginBonusRewardMstId": 900006,
+        "selfRank": [
+            {
+                "point": 4391302,
+                "rank": 2,
+                "total": 0,
+                "type": 2,
+                "typeName": "回復"
+            },
+            {
+                "point": 58184,
+                "rank": 9,
+                "total": 0,
+                "type": 4,
+                "typeName": "味方防御力支援"
+            },
+            {
+                "point": 32367,
+                "rank": 11,
+                "total": 0,
+                "type": 3,
+                "typeName": "味方攻撃力支援"
+            },
+            {
+                "point": 3625,
+                "rank": 13,
+                "total": 0,
+                "type": 1,
+                "typeName": "イノチ"
+            },
+            {
+                "point": 29,
+                "rank": 14,
+                "total": 0,
+                "type": 7,
+                "typeName": "コンボ"
+            }
+        ],
+        "useSpReward": {
+            "num": 37,
+            "objectId": 900062,
+            "objectType": 1,
+            "recoverySpValue": 111
+        }
+    },
+    "status": 200,
+    "url": "/api/gvg_out_battle/get_result"
+}

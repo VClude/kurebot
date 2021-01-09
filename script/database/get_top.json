@@ -1,0 +1,137 @@
+{
+    "payload": {
+        "bannerMstId": 158,
+        "guildData": {
+            "autoExpulsionType": 0,
+            "beforeGvgTimeType": 0,
+            "createdTime": 1593602545,
+            "currentGuildTitleMstId": 901405,
+            "favoriteAkbMember": 0,
+            "guildCountryCode": 360,
+            "guildDataId": 2229,
+            "guildDescription": "Just Casual",
+            "guildExp": 265223598,
+            "guildIdentifierId": "8gx6xa",
+            "guildLanguageUserCode": 15,
+            "guildLevel": 99,
+            "guildMasterUserId": 247250950,
+            "guildName": "AstelliaJC",
+            "guildPoint": 265223598,
+            "guildRank": 4,
+            "gvgDraw": 0,
+            "gvgLose": 27,
+            "gvgPushCallComment": "Ping!",
+            "gvgTimeType": 1,
+            "gvgWin": 162,
+            "isAutoAccept": false,
+            "isGvgPushCall": false,
+            "isRecruit": true,
+            "joinMember": 15,
+            "maxMember": 15,
+            "subscriptionActionType": 15,
+            "subscriptionComment": "Looking for new members!",
+            "subscriptionGvgJoinType": 0,
+            "subscriptionPowerType": 1,
+            "subscriptionStyleType": 1,
+            "tacticsDescription": "Technique/strategy available on discord channel Astellia"
+        },
+        "gvgLoginBonusData": {
+            "dayCount": 5,
+            "gvgLoginBonusMstId": 900001,
+            "month": 1,
+            "year": 2021
+        },
+        "gvgRankSubMsg": "Demotion at 5 losses",
+        "gvgSchedule": [
+            {
+                "battleEndTime": 1609859999,
+                "battleStartTime": 1609858800,
+                "guildDataCountryCodeA": 360,
+                "guildDataCountryCodeB": 392,
+                "guildDataIdA": 2229,
+                "guildDataIdB": 17247,
+                "guildDataNameA": "AstelliaJC",
+                "guildDataNameB": "Legionaire2.0",
+                "gvgDataId": 569650,
+                "isEndBattle": true,
+                "isMatchingFinished": true,
+                "isParticipating": 1,
+                "partySequence": 2,
+                "totalGuildPointA": 2770289,
+                "totalGuildPointB": 153929,
+                "totalGuildPowerA": 3217302,
+                "totalGuildPowerB": 2966909
+            }
+        ],
+        "gvgUltimateArtInfoList": [
+            {
+                "gvgDataId": 569650,
+                "gvgUltimateArtDataList": [
+                    {
+                        "artMstId": 1483,
+                        "guildACount": 75,
+                        "guildBCount": 38,
+                        "ultimateArtMethodMstId": 1483
+                    },
+                    {
+                        "artMstId": 1489,
+                        "guildACount": 75,
+                        "guildBCount": 41,
+                        "ultimateArtMethodMstId": 1489
+                    }
+                ]
+            }
+        ],
+        "isCalculateFinished": true,
+        "isInBattle": false,
+        "isOpenGuildBoxGacha": true,
+        "judgeLosePoint": 5,
+        "judgeWinPoint": 5,
+        "lastGvgDataId": 569650,
+        "loseCount": 0,
+        "nextGvgLoginBonusRewardMstId": 900006,
+        "nextGvgTime": null,
+        "rank": 4,
+        "selfRank": [
+            {
+                "point": 4391302,
+                "rank": 2,
+                "total": 0,
+                "type": 2,
+                "typeName": "回復"
+            },
+            {
+                "point": 58184,
+                "rank": 9,
+                "total": 0,
+                "type": 4,
+                "typeName": "味方防御力支援"
+            },
+            {
+                "point": 32367,
+                "rank": 11,
+                "total": 0,
+                "type": 3,
+                "typeName": "味方攻撃力支援"
+            },
+            {
+                "point": 3625,
+                "rank": 13,
+                "total": 0,
+                "type": 1,
+                "typeName": "イノチ"
+            },
+            {
+                "point": 29,
+                "rank": 14,
+                "total": 0,
+                "type": 7,
+                "typeName": "コンボ"
+            }
+        ],
+        "status": 1,
+        "winCount": 4
+    },
+    "status": 200,
+    "url": "/api/gvg_out_battle/get_top"
+}
