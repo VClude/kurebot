@@ -1,4 +1,5 @@
 /node_modules/
 /.idea/
 /commands/new.js
+/assets/img/your/
 bot.config.json
