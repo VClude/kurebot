@@ -1,12 +1,14 @@
 const { settings } = require("cluster");
 const bot_config = require('../bot.config.json');
-const weapA = require('../assets/json/weaponA.json');
-const weapS = require('../assets/json/weaponS.json');
+const weapA = require('../assets/json/master/weaponA.json');
+const weapS = require('../assets/json/master/weaponS.json');
+const weapSRE = require('../assets/json/master/weaponSR.json');
 const prefix = bot_config.bot_config.prefix;
 var uuid = require('uuid');
 var jimp = require('jimp');
 const mys = require('../util/mysql');
 const Chance = require('chance');
+const _ = require('lodash');
 let chance = new Chance();
 const Discord = require('discord.js');
 const util = require('../util/util');
@@ -30,28 +32,47 @@ function removeDuplicates(originalArray, prop) {
 }
 
 let pull = function(rateup) {
-    const weapSR = require(rateup);
-
+    let weapSR = require(rateup);
+    let srpool = weapSR.payload.gachaRateDetail[0].objectRarityRate[0].objectRateList;
+    let spool = weapSR.payload.gachaRateDetail[0].objectRarityRate[1].objectRateList;
     let result = roll();
+
+    let rateupPool = _.filter(
+        srpool, function(o) {
+           return o.isLimitedRateUp == 1;
+        }
+    );
+    let nonrateupPool = _.filter(
+        srpool, function(o) {
+           return o.isLimitedRateUp == 0;
+        }
+    );
+
+    
+    
 
     if(result >= 1 && result <= 3 ) {
         var number = roll();
-        var theArray = (weapSR.isRateup == true && number >= 0 && number <= 66) ? Object.keys(weapSR.rateup) : Object.keys(weapSR.pool);
+        var theArray = (number >= 0 && number <= 66) ? rateupPool : nonrateupPool;
         var randomNumber = Math.random();
         var gachaIndex  = Math.floor(randomNumber * theArray.length);
         var randomKey    = theArray[gachaIndex];
-        var randomValue  = (weapSR.isRateup == true && number >= 0 && number <= 66) ? weapSR.rateup[randomKey] : weapSR.pool[randomKey];
-        return randomValue;
+
+        var Selected = _.find(weapSRE, {resourceName:randomKey.objectId});
+        return Selected;
 
     }
 
     if(result >= 4 && result <= 20) {
-        var gachaArr  = Object.keys(weapS);
+        var number = roll();
+        var theArray = spool;
         var randomNumber = Math.random();
-        var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
-        var randomKey    = gachaArr[gachaIndex];
-        var randomValue  = weapS[randomKey]; 
-        return randomValue;
+        var gachaIndex  = Math.floor(randomNumber * theArray.length);
+        var randomKey    = theArray[gachaIndex];
+
+        var Selected = _.find(weapS, {resourceName:randomKey.objectId});
+
+        return Selected;
     }
 
     if(result >= 21 && result <= 100) {
@@ -106,14 +127,21 @@ let pullSpec = function(rateup, isRateup) {
 
 
 let pullGuaranteed = function(rateup, guaranteed) {
+        const weapSR = require(rateup);
+        let srpool = weapSR.payload.gachaRateDetail[0].objectRarityRate[0].objectRateList;
+        let rateupPool = _.filter(
+            srpool, function(o) {
+               return o.isLimitedRateUp == 1;
+            }
+        );
+        var theArray = rateupPool;
+        var randomNumber = Math.random();
+        var gachaIndex  = Math.floor(randomNumber * theArray.length);
+        var randomKey    = theArray[gachaIndex];
+        var Selected = _.find(weapSRE, {resourceName:randomKey.objectId});
 
-    const weapSR = require(rateup);
-    var gachaArr  = Object.keys(weapSR.rateup);
-    var randomNumber = Math.random();
-    var gachaIndex  = Math.floor(randomNumber * gachaArr.length);
-    var randomKey    = gachaArr[gachaIndex];
-    var randomValue  = weapSR.rateup[randomKey]; 
-    return randomValue;
+        return Selected;
+
 }
 
 // let pullGuaranteed2 = function(rateup) {
@@ -367,7 +395,6 @@ module.exports = {
                                 else {
         
                                     srcontent = removeDuplicates(srcontent, "weapid");
-        
                                     Object.keys(srcontent).forEach( (key, index) => {
                                         query = 'select * from gacha where id = ? and weapid = ?';
                                         parser = [user.user.id, srcontent[key].weapid];

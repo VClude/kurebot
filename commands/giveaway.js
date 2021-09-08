@@ -32,7 +32,7 @@ module.exports = {
         if(!allowed.includes(usersz.user.id)){
             const embed = new Discord.MessageEmbed()
             .setTitle('Command Not Available')
-            .setDescription('Heatcliff user only')
+            .setDescription('lul pepeg')
             .setColor(12745742)
             message.channel.send({embed});
             return;

@@ -1,0 +1,337 @@
+[{
+    "name": "Poet's Harp",
+    "skillid": 1350,
+    "weaponid": 49,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "CardS0049.png"
+}, {
+    "name": "Otherworldly Chronicles",
+    "skillid": 1363,
+    "weaponid": 52,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "CardS0052.png"
+}, {
+    "name": "Scepter of Power",
+    "skillid": 1029,
+    "weaponid": 55,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "CardS0055.png"
+}, {
+    "name": "Sword of Necessary Evil",
+    "skillid": 1238,
+    "weaponid": 58,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "CardS0058.png"
+}, {
+    "name": "Strongman's Hammer",
+    "skillid": 1239,
+    "weaponid": 61,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "CardS0061.png"
+}, {
+    "name": "Farmer's Bow",
+    "skillid": 1240,
+    "weaponid": 64,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "CardS0064.png"
+}, {
+    "name": "The Wolf's Offering",
+    "skillid": 1241,
+    "weaponid": 67,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "CardS0067.png"
+}, {
+    "name": "Lovely Violin",
+    "skillid": 1005,
+    "weaponid": 69,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "CardS0069.png"
+}, {
+    "name": "Chaotic Desire",
+    "skillid": 1018,
+    "weaponid": 71,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "CardS0071.png"
+}, {
+    "name": "Apprentice's Staff",
+    "skillid": 1337,
+    "weaponid": 73,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "CardS0073.png"
+}, {
+    "name": "Tunnel Treasure Chest",
+    "skillid": 1241,
+    "weaponid": 75,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "CardS0075.png"
+}, {
+    "name": "Dagger of the Covenant",
+    "skillid": 1238,
+    "weaponid": 77,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "CardS0077.png"
+}, {
+    "name": "Assassin's Kit",
+    "skillid": 1244,
+    "weaponid": 79,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "CardS0079.png"
+}, {
+    "name": "Calamitous Bow",
+    "skillid": 1240,
+    "weaponid": 81,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "CardS0081.png"
+}, {
+    "name": "Dragon Scythe",
+    "skillid": 1241,
+    "weaponid": 83,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "CardS0083.png"
+}, {
+    "name": "Scales of Fortune",
+    "skillid": 1241,
+    "weaponid": 85,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "CardS0085.png"
+}, {
+    "name": "Blessed Violin",
+    "skillid": 1351,
+    "weaponid": 151,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "CardS0151.png"
+}, {
+    "name": "Tome of Visions",
+    "skillid": 1364,
+    "weaponid": 153,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "CardS0153.png"
+}, {
+    "name": "Devilish Staff",
+    "skillid": 1029,
+    "weaponid": 156,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "CardS0156.png"
+}, {
+    "name": "Fairy Song",
+    "skillid": 1248,
+    "weaponid": 159,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "CardS0159.png"
+}, {
+    "name": "Sword of Sacrifice",
+    "skillid": 1249,
+    "weaponid": 162,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "CardS0162.png"
+}, {
+    "name": "Oblivion's Intent",
+    "skillid": 1250,
+    "weaponid": 165,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "CardS0165.png"
+}, {
+    "name": "Decimation Spear",
+    "skillid": 1248,
+    "weaponid": 168,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "CardS0168.png"
+}, {
+    "name": "Reluctant Rendezvous",
+    "skillid": 1349,
+    "weaponid": 171,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "CardS0171.png"
+}, {
+    "name": "Study of Yggdrasil",
+    "skillid": 1365,
+    "weaponid": 173,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "CardS0173.png"
+}, {
+    "name": "Staff of Insanity",
+    "skillid": 1337,
+    "weaponid": 175,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "CardS0175.png"
+}, {
+    "name": "Crystal Ball",
+    "skillid": 1248,
+    "weaponid": 177,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "CardS0177.png"
+}, {
+    "name": "Loving Blades",
+    "skillid": 1249,
+    "weaponid": 179,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "CardS0179.png"
+}, {
+    "name": "Maul of Carnage",
+    "skillid": 1250,
+    "weaponid": 181,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "CardS0181.png"
+}, {
+    "name": "Fairy Blaster",
+    "skillid": 1255,
+    "weaponid": 183,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "CardS0183.png"
+}, {
+    "name": "Maiden's Purity",
+    "skillid": 1248,
+    "weaponid": 185,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "CardS0185.png"
+}, {
+    "name": "Vigilante's Pride",
+    "skillid": 1255,
+    "weaponid": 187,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "CardS0187.png"
+}, {
+    "name": "Puppeteer's Magic",
+    "skillid": 1258,
+    "weaponid": 235,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "CardS0235.png"
+}, {
+    "name": "Ruined Gun",
+    "skillid": 1259,
+    "weaponid": 256,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "CardS0256.png"
+}, {
+    "name": "The Bard and the Fairy",
+    "skillid": 1350,
+    "weaponid": 259,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "CardS0259.png"
+}, {
+    "name": "Foreign Book",
+    "skillid": 1365,
+    "weaponid": 262,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "CardS0262.png"
+}, {
+    "name": "White Lightning Staff",
+    "skillid": 1337,
+    "weaponid": 265,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "CardS0265.png"
+}, {
+    "name": "Nameless Sword",
+    "skillid": 1260,
+    "weaponid": 267,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "CardS0267.png"
+}, {
+    "name": "Hammer of Brutality",
+    "skillid": 1261,
+    "weaponid": 269,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "CardS0269.png"
+}, {
+    "name": "Precise Bow",
+    "skillid": 1259,
+    "weaponid": 272,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "CardS0272.png"
+}, {
+    "name": "Spear of Love and Hate",
+    "skillid": 1258,
+    "weaponid": 274,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "CardS0274.png"
+}, {
+    "name": "Flute of Excess",
+    "skillid": 1005,
+    "weaponid": 277,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "CardS0277.png"
+}, {
+    "name": "White Tome",
+    "skillid": 1364,
+    "weaponid": 279,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "CardS0279.png"
+}, {
+    "name": "Staff of the Wise",
+    "skillid": 1029,
+    "weaponid": 281,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "CardS0281.png"
+}, {
+    "name": "Zealot's Grudge",
+    "skillid": 1258,
+    "weaponid": 283,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "CardS0283.png"
+}, {
+    "name": "Tragedy of the Wicked",
+    "skillid": 1260,
+    "weaponid": 285,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "CardS0285.png"
+}, {
+    "name": "Oracle Knight's Axe",
+    "skillid": 1261,
+    "weaponid": 287,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "CardS0287.png"
+}, {
+    "name": "Holy Lance",
+    "skillid": 1258,
+    "weaponid": 289,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "CardS0289.png"
+}]

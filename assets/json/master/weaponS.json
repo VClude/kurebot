@@ -1,1 +1,1329 @@
-[{"name":"War Song's Echo","skillid":1002,"url":"/assets/img/weapS/0001.png"},{"name":"Book of Regret","skillid":1014,"url":"/assets/img/weapS/0003.png"},{"name":"Staff of Submission","skillid":1026,"url":"/assets/img/weapS/0005.png"},{"name":"One Wish","skillid":993,"url":"/assets/img/weapS/0007.png"},{"name":"Fencer's Foil","skillid":990,"url":"/assets/img/weapS/0009.png"},{"name":"Meat Pulverizer","skillid":1277,"url":"/assets/img/weapS/0011.png"},{"name":"Princess' Pillage","skillid":1278,"url":"/assets/img/weapS/0013.png"},{"name":"Illusionary Scythe","skillid":993,"url":"/assets/img/weapS/0015.png"},{"name":"Slothful God's Harp","skillid":1007,"url":"/assets/img/weapS/0017.png"},{"name":"Torture Doctrine","skillid":1017,"url":"/assets/img/weapS/0019.png"},{"name":"Monk's Staff","skillid":1030,"url":"/assets/img/weapS/0021.png"},{"name":"Dark Puppet","skillid":993,"url":"/assets/img/weapS/0023.png"},{"name":"Embodiment of Love","skillid":990,"url":"/assets/img/weapS/0025.png"},{"name":"Grudge Hammer","skillid":594,"url":"/assets/img/weapS/0027.png"},{"name":"Ancient Elven Bow","skillid":1278,"url":"/assets/img/weapS/0029.png"},{"name":"Thirst for War","skillid":597,"url":"/assets/img/weapS/0031.png"},{"name":"Mirror to the World","skillid":994,"url":"/assets/img/weapS/0109.png"},{"name":"Burning Satiation","skillid":1007,"url":"/assets/img/weapS/0115.png"},{"name":"Flood Records","skillid":1015,"url":"/assets/img/weapS/0117.png"},{"name":"Engraved Blue Staff","skillid":1030,"url":"/assets/img/weapS/0119.png"},{"name":"Gourmand's Special","skillid":1282,"url":"/assets/img/weapS/0123.png"},{"name":"Revolutionary's Maul","skillid":1283,"url":"/assets/img/weapS/0125.png"},{"name":"Death's Grandeur","skillid":1284,"url":"/assets/img/weapS/0127.png"},{"name":"The Lost Spear","skillid":994,"url":"/assets/img/weapS/0129.png"},{"name":"Origin of Control","skillid":1003,"url":"/assets/img/weapS/0131.png"},{"name":"Book of Judgment","skillid":1368,"url":"/assets/img/weapS/0133.png"},{"name":"Sands of Time","skillid":1027,"url":"/assets/img/weapS/0135.png"},{"name":"Petals of Resurrection","skillid":994,"url":"/assets/img/weapS/0137.png"},{"name":"Nocturne's Sword","skillid":1282,"url":"/assets/img/weapS/0139.png"},{"name":"Death and Agony","skillid":619,"url":"/assets/img/weapS/0141.png"},{"name":"Big Bad Bow","skillid":1284,"url":"/assets/img/weapS/0143.png"},{"name":"Alternate Life","skillid":598,"url":"/assets/img/weapS/0145.png"},{"name":"Tome of Dependence","skillid":1015,"url":"/assets/img/weapS/0205.png"},{"name":"Staff of Masochism","skillid":1027,"url":"/assets/img/weapS/0207.png"},{"name":"Cursed Chains","skillid":995,"url":"/assets/img/weapS/0209.png"},{"name":"Silent Desire","skillid":992,"url":"/assets/img/weapS/0211.png"},{"name":"Waking Nightmare","skillid":1288,"url":"/assets/img/weapS/0213.png"},{"name":"Savage Crossbow","skillid":1289,"url":"/assets/img/weapS/0215.png"},{"name":"Jester's Scythe","skillid":995,"url":"/assets/img/weapS/0217.png"},{"name":"Devil's Fife","skillid":1002,"url":"/assets/img/weapS/0219.png"},{"name":"Wiseman's Notes","skillid":1017,"url":"/assets/img/weapS/0221.png"},{"name":"Cumbersome Staff","skillid":1343,"url":"/assets/img/weapS/0223.png"},{"name":"Faithful Follower","skillid":995,"url":"/assets/img/weapS/0225.png"},{"name":"Hero's Sword","skillid":992,"url":"/assets/img/weapS/0227.png"},{"name":"Death's Remains","skillid":1292,"url":"/assets/img/weapS/0229.png"},{"name":"Werewolf's Lie","skillid":1289,"url":"/assets/img/weapS/0231.png"},{"name":"Demon Spear","skillid":599,"url":"/assets/img/weapS/0233.png"},{"name":"Pink Harp","skillid":1007,"url":"/assets/img/weapS/0254.png"},{"name":"Sword of Revenge","skillid":1310,"url":"/assets/img/weapS/0311.png"},{"name":"Idol's Harp","skillid":1355,"url":"/assets/img/weapS/0315.png"},{"name":"Reincarnation","skillid":817,"url":"/assets/img/weapS/0317.png"},{"name":"Modern Palace Records","skillid":1369,"url":"/assets/img/weapS/0319.png"},{"name":"Dagger of Bonding","skillid":1295,"url":"/assets/img/weapS/0323.png"},{"name":"Azure Wing Crossbow","skillid":1296,"url":"/assets/img/weapS/0325.png"},{"name":"Veteran's Mallet","skillid":1297,"url":"/assets/img/weapS/0327.png"},{"name":"Hollow Spear","skillid":1298,"url":"/assets/img/weapS/0329.png"},{"name":"Harp of Collection","skillid":1357,"url":"/assets/img/weapS/0331.png"},{"name":"Crimson Jewel","skillid":597,"url":"/assets/img/weapS/0337.png"},{"name":"Mad Demon","skillid":1288,"url":"/assets/img/weapS/0341.png"},{"name":"Spellbook of Reversal","skillid":1369,"url":"/assets/img/weapS/0349.png"},{"name":"Sword of Misery","skillid":1295,"url":"/assets/img/weapS/0585.png"},{"name":"Hunter's Spirit","skillid":1278,"url":"/assets/img/weapS/0649.png"},{"name":"Magma Axe","skillid":1277,"url":"/assets/img/weapS/0651.png"},{"name":"Deceptive Eye","skillid":995,"url":"/assets/img/weapS/0653.png"},{"name":"Twilight Glow","skillid":1510,"url":"/assets/img/weapS/0655.png"},{"name":"Proof of Virtue","skillid":1027,"url":"/assets/img/weapS/0657.png"},{"name":"Empty Teachings","skillid":1368,"url":"/assets/img/weapS/0659.png"},{"name":"Key of Hatred","skillid":994,"url":"/assets/img/weapS/0661.png"},{"name":"Wheel of Brutality","skillid":1554,"url":"/assets/img/weapS/0679.png"},{"name":"Forest Bow","skillid":1289,"url":"/assets/img/weapS/0681.png"},{"name":"Steel Star","skillid":1292,"url":"/assets/img/weapS/0683.png"},{"name":"Black Winged Scythe","skillid":994,"url":"/assets/img/weapS/0685.png"},{"name":"Blessed Crash","skillid":1002,"url":"/assets/img/weapS/0687.png"},{"name":"Proof of Hypocrisy","skillid":1030,"url":"/assets/img/weapS/0689.png"},{"name":"Banned Book of Resurrection","skillid":1015,"url":"/assets/img/weapS/0691.png"},{"name":"Straw Puppet","skillid":993,"url":"/assets/img/weapS/0693.png"},{"name":"Azure Blade","skillid":1282,"url":"/assets/img/weapS/0753.png"},{"name":"Guided Gun","skillid":1284,"url":"/assets/img/weapS/0755.png"},{"name":"Axe of Paranoia","skillid":1283,"url":"/assets/img/weapS/0757.png"},{"name":"Possessed Halberd","skillid":993,"url":"/assets/img/weapS/0759.png"},{"name":"Wild Rose Harp","skillid":1007,"url":"/assets/img/weapS/0761.png"},{"name":"Clairvoyant Staff","skillid":1026,"url":"/assets/img/weapS/0763.png"},{"name":"Secret Map","skillid":1014,"url":"/assets/img/weapS/0765.png"},{"name":"Wheel of Perpetuity","skillid":995,"url":"/assets/img/weapS/0767.png"},{"name":"Torus Spear","skillid":1298,"url":"/assets/img/weapS/0795.png"},{"name":"F8 Magical Pistol","skillid":1296,"url":"/assets/img/weapS/0797.png"},{"name":"Hammer of Depravity","skillid":1664,"url":"/assets/img/weapS/0799.png"},{"name":"Scarlet Sword","skillid":990,"url":"/assets/img/weapS/0801.png"},{"name":"Lady's Harp","skillid":1003,"url":"/assets/img/weapS/0803.png"},{"name":"Forbidden Staff","skillid":817,"url":"/assets/img/weapS/0805.png"},{"name":"Shelved Scroll","skillid":1017,"url":"/assets/img/weapS/0807.png"},{"name":"Shears of Fate","skillid":994,"url":"/assets/img/weapS/0809.png"},{"name":"Iron Pipe","skillid":619,"url":"/assets/img/weapS/0819.png"},{"name":"Type-3 Lance","skillid":994,"url":"/assets/img/weapS/0821.png"},{"name":"Emil's Head","skillid":994,"url":"/assets/img/weapS/0823.png"},{"name":"Ancestral Double Axe","skillid":1288,"url":"/assets/img/weapS/1001.png"},{"name":"Book of Dark Rituals","skillid":1719,"url":"/assets/img/weapS/1003.png"},{"name":"Icicle Scythe","skillid":994,"url":"/assets/img/weapS/1005.png"},{"name":"Proof of Loyalty","skillid":597,"url":"/assets/img/weapS/1007.png"},{"name":"Halberd of Revenge","skillid":1769,"url":"/assets/img/weapS/1039.png"},{"name":"Staff of Retrogression","skillid":1030,"url":"/assets/img/weapS/1041.png"},{"name":"Golden Bow","skillid":1284,"url":"/assets/img/weapS/1043.png"},{"name":"Cursed Ghost Song","skillid":1002,"url":"/assets/img/weapS/1045.png"},{"name":"Enchanting Hammer","skillid":619,"url":"/assets/img/weapS/1063.png"},{"name":"Master's Teachings","skillid":1282,"url":"/assets/img/weapS/1065.png"},{"name":"Castle Gate Notes","skillid":1791,"url":"/assets/img/weapS/1067.png"},{"name":"Jewel of Intellect","skillid":599,"url":"/assets/img/weapS/1069.png"},{"name":"Double-Edged Sword","skillid":992,"url":"/assets/img/weapS/1117.png"},{"name":"Forest Aid","skillid":1026,"url":"/assets/img/weapS/1119.png"},{"name":"False Bow Gun","skillid":1278,"url":"/assets/img/weapS/1121.png"},{"name":"Composer's Magnum Opus","skillid":2006,"url":"/assets/img/weapS/1123.png"},{"name":"Criminal's Heart","skillid":1260,"url":"/assets/img/weapS/1127.png"},{"name":"Explosive Javelin","skillid":2050,"url":"/assets/img/weapS/1163.png"},{"name":"Conqueror's Sword","skillid":1310,"url":"/assets/img/weapS/1165.png"},{"name":"Jug of Death","skillid":994,"url":"/assets/img/weapS/1167.png"},{"name":"Scripture of the Dead","skillid":1368,"url":"/assets/img/weapS/1169.png"},{"name":"Halberd of Deceit","skillid":995,"url":"/assets/img/weapS/1307.png"},{"name":"Big Talk","skillid":1026,"url":"/assets/img/weapS/1309.png"},{"name":"Absolute Zero","skillid":2101,"url":"/assets/img/weapS/1311.png"},{"name":"Cardinal Flute","skillid":1007,"url":"/assets/img/weapS/1313.png"},{"name":"Spear of the Endtimes","skillid":993,"url":"/assets/img/weapS/1398.png"},{"name":"Sword of Memory","skillid":1260,"url":"/assets/img/weapS/1400.png"},{"name":"Oar Hammer","skillid":1283,"url":"/assets/img/weapS/1402.png"},{"name":"Waterfowl Bow","skillid":1255,"url":"/assets/img/weapS/1404.png"},{"name":"Dark Spider Crossbow","skillid":2174,"url":"/assets/img/weapS/1406.png"},{"name":"Blade of the Eye","skillid":990,"url":"/assets/img/weapS/1418.png"},{"name":"Lion Killer's Iron Hammer","skillid":1283,"url":"/assets/img/weapS/1420.png"},{"name":"Chivalric Order​'s Violin","skillid":2201,"url":"/assets/img/weapS/1422.png"},{"name":"Water Emperor's Staff","skillid":1027,"url":"/assets/img/weapS/1424.png"},{"name":"Waterway Sword","skillid":1282,"url":"/assets/img/weapS/1460.png"},{"name":"Unjustified Resentment","skillid":1289,"url":"/assets/img/weapS/1462.png"},{"name":"Violin of Zeal","skillid":2260,"url":"/assets/img/weapS/1464.png"},{"name":"Scroll of the Black Dragon","skillid":2033,"url":"/assets/img/weapS/1466.png"},{"name":"Senhime's Great Axe","skillid":2253,"url":"/assets/img/weapS/1468.png"},{"name":"Kamaitachi's Halberd","skillid":2595,"url":"/assets/img/weapS/1913.png"},{"name":"Spear of Devotion","skillid":3090,"url":"/assets/img/weapS/2488.png"},{"name":"Silence of Souls","skillid":995,"url":"/assets/img/weapS/2628.png"},{"name":"Gun of Pure Judgment","skillid":1284,"url":"/assets/img/weapS/2757.png"},{"name":"Grimoire Noir","skillid":1017,"url":"/assets/img/weapS/2979.png"},{"name":"Labyrinth's Song","skillid":992,"url":"/assets/img/weapS/2981.png"},{"name":"Phoenix Lance","skillid":995,"url":"/assets/img/weapS/2983.png"},{"name":"Vile Axe","skillid":1288,"url":"/assets/img/weapS/2985.png"},{"name":"Iron Will","skillid":2369,"url":"/assets/img/weapS/2987.png"}]
+[{
+   "rarity": "S",
+    "name": "War Song's Echo",
+    "skillid": 1002,
+    "resourceName": 1,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0001.png"
+}, {
+   "rarity": "S",
+    "name": "Book of Regret",
+    "skillid": 1014,
+    "resourceName": 3,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0003.png"
+}, {
+   "rarity": "S",
+    "name": "Staff of Submission",
+    "skillid": 1026,
+    "resourceName": 5,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0005.png"
+}, {
+   "rarity": "S",
+    "name": "One Wish",
+    "skillid": 993,
+    "resourceName": 7,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0007.png"
+}, {
+   "rarity": "S",
+    "name": "Fencer's Foil",
+    "skillid": 990,
+    "resourceName": 9,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0009.png"
+}, {
+   "rarity": "S",
+    "name": "Meat Pulverizer",
+    "skillid": 1277,
+    "resourceName": 11,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0011.png"
+}, {
+   "rarity": "S",
+    "name": "Princess' Pillage",
+    "skillid": 1278,
+    "resourceName": 13,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0013.png"
+}, {
+   "rarity": "S",
+    "name": "Illusionary Scythe",
+    "skillid": 993,
+    "resourceName": 15,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0015.png"
+}, {
+   "rarity": "S",
+    "name": "Slothful God's Harp",
+    "skillid": 1007,
+    "resourceName": 17,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0017.png"
+}, {
+   "rarity": "S",
+    "name": "Torture Doctrine",
+    "skillid": 1017,
+    "resourceName": 19,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0019.png"
+}, {
+   "rarity": "S",
+    "name": "Monk's Staff",
+    "skillid": 1030,
+    "resourceName": 21,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0021.png"
+}, {
+   "rarity": "S",
+    "name": "Dark Puppet",
+    "skillid": 993,
+    "resourceName": 23,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0023.png"
+}, {
+   "rarity": "S",
+    "name": "Embodiment of Love",
+    "skillid": 990,
+    "resourceName": 25,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0025.png"
+}, {
+   "rarity": "S",
+    "name": "Grudge Hammer",
+    "skillid": 594,
+    "resourceName": 27,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0027.png"
+}, {
+   "rarity": "S",
+    "name": "Ancient Elven Bow",
+    "skillid": 1278,
+    "resourceName": 29,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0029.png"
+}, {
+   "rarity": "S",
+    "name": "Thirst for War",
+    "skillid": 597,
+    "resourceName": 31,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0031.png"
+}, {
+   "rarity": "S",
+    "name": "Mirror to the World",
+    "skillid": 994,
+    "resourceName": 109,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0109.png"
+}, {
+   "rarity": "S",
+    "name": "Burning Satiation",
+    "skillid": 1007,
+    "resourceName": 115,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0115.png"
+}, {
+   "rarity": "S",
+    "name": "Flood Records",
+    "skillid": 1015,
+    "resourceName": 117,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0117.png"
+}, {
+   "rarity": "S",
+    "name": "Engraved Blue Staff",
+    "skillid": 1030,
+    "resourceName": 119,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0119.png"
+}, {
+   "rarity": "S",
+    "name": "Gourmand's Special",
+    "skillid": 1282,
+    "resourceName": 123,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0123.png"
+}, {
+   "rarity": "S",
+    "name": "Revolutionary's Maul",
+    "skillid": 1283,
+    "resourceName": 125,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0125.png"
+}, {
+   "rarity": "S",
+    "name": "Death's Grandeur",
+    "skillid": 1284,
+    "resourceName": 127,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0127.png"
+}, {
+   "rarity": "S",
+    "name": "The Lost Spear",
+    "skillid": 994,
+    "resourceName": 129,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0129.png"
+}, {
+   "rarity": "S",
+    "name": "Origin of Control",
+    "skillid": 1003,
+    "resourceName": 131,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0131.png"
+}, {
+   "rarity": "S",
+    "name": "Book of Judgment",
+    "skillid": 1368,
+    "resourceName": 133,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0133.png"
+}, {
+   "rarity": "S",
+    "name": "Sands of Time",
+    "skillid": 1027,
+    "resourceName": 135,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0135.png"
+}, {
+   "rarity": "S",
+    "name": "Petals of Resurrection",
+    "skillid": 994,
+    "resourceName": 137,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0137.png"
+}, {
+   "rarity": "S",
+    "name": "Nocturne's Sword",
+    "skillid": 1282,
+    "resourceName": 139,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0139.png"
+}, {
+   "rarity": "S",
+    "name": "Death and Agony",
+    "skillid": 619,
+    "resourceName": 141,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0141.png"
+}, {
+   "rarity": "S",
+    "name": "Big Bad Bow",
+    "skillid": 1284,
+    "resourceName": 143,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0143.png"
+}, {
+   "rarity": "S",
+    "name": "Alternate Life",
+    "skillid": 598,
+    "resourceName": 145,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0145.png"
+}, {
+   "rarity": "S",
+    "name": "Tome of Dependence",
+    "skillid": 1015,
+    "resourceName": 205,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0205.png"
+}, {
+   "rarity": "S",
+    "name": "Staff of Masochism",
+    "skillid": 1027,
+    "resourceName": 207,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0207.png"
+}, {
+   "rarity": "S",
+    "name": "Cursed Chains",
+    "skillid": 995,
+    "resourceName": 209,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0209.png"
+}, {
+   "rarity": "S",
+    "name": "Silent Desire",
+    "skillid": 992,
+    "resourceName": 211,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0211.png"
+}, {
+   "rarity": "S",
+    "name": "Waking Nightmare",
+    "skillid": 1288,
+    "resourceName": 213,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0213.png"
+}, {
+   "rarity": "S",
+    "name": "Savage Crossbow",
+    "skillid": 1289,
+    "resourceName": 215,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0215.png"
+}, {
+   "rarity": "S",
+    "name": "Jester's Scythe",
+    "skillid": 995,
+    "resourceName": 217,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0217.png"
+}, {
+   "rarity": "S",
+    "name": "Devil's Fife",
+    "skillid": 1002,
+    "resourceName": 219,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0219.png"
+}, {
+   "rarity": "S",
+    "name": "Wiseman's Notes",
+    "skillid": 1017,
+    "resourceName": 221,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0221.png"
+}, {
+   "rarity": "S",
+    "name": "Cumbersome Staff",
+    "skillid": 1343,
+    "resourceName": 223,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0223.png"
+}, {
+   "rarity": "S",
+    "name": "Faithful Follower",
+    "skillid": 995,
+    "resourceName": 225,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0225.png"
+}, {
+   "rarity": "S",
+    "name": "Hero's Sword",
+    "skillid": 992,
+    "resourceName": 227,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0227.png"
+}, {
+   "rarity": "S",
+    "name": "Death's Remains",
+    "skillid": 1292,
+    "resourceName": 229,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0229.png"
+}, {
+   "rarity": "S",
+    "name": "Werewolf's Lie",
+    "skillid": 1289,
+    "resourceName": 231,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0231.png"
+}, {
+   "rarity": "S",
+    "name": "Demon Spear",
+    "skillid": 599,
+    "resourceName": 233,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0233.png"
+}, {
+   "rarity": "S",
+    "name": "Pink Harp",
+    "skillid": 1007,
+    "resourceName": 254,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0254.png"
+}, {
+   "rarity": "S",
+    "name": "Sword of Revenge",
+    "skillid": 1310,
+    "resourceName": 311,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0311.png"
+}, {
+   "rarity": "S",
+    "name": "Idol's Harp",
+    "skillid": 1355,
+    "resourceName": 315,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0315.png"
+}, {
+   "rarity": "S",
+    "name": "Reincarnation",
+    "skillid": 817,
+    "resourceName": 317,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0317.png"
+}, {
+   "rarity": "S",
+    "name": "Modern Palace Records",
+    "skillid": 1369,
+    "resourceName": 319,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0319.png"
+}, {
+   "rarity": "S",
+    "name": "Dagger of Bonding",
+    "skillid": 1295,
+    "resourceName": 323,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0323.png"
+}, {
+   "rarity": "S",
+    "name": "Azure Wing Crossbow",
+    "skillid": 1296,
+    "resourceName": 325,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0325.png"
+}, {
+   "rarity": "S",
+    "name": "Veteran's Mallet",
+    "skillid": 1297,
+    "resourceName": 327,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0327.png"
+}, {
+   "rarity": "S",
+    "name": "Hollow Spear",
+    "skillid": 1298,
+    "resourceName": 329,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0329.png"
+}, {
+   "rarity": "S",
+    "name": "Harp of Collection",
+    "skillid": 1357,
+    "resourceName": 331,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0331.png"
+}, {
+   "rarity": "S",
+    "name": "Crimson Jewel",
+    "skillid": 597,
+    "resourceName": 337,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0337.png"
+}, {
+   "rarity": "S",
+    "name": "Mad Demon",
+    "skillid": 1288,
+    "resourceName": 341,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0341.png"
+}, {
+   "rarity": "S",
+    "name": "Spellbook of Reversal",
+    "skillid": 1369,
+    "resourceName": 349,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0349.png"
+}, {
+   "rarity": "S",
+    "name": "Sword of Misery",
+    "skillid": 1295,
+    "resourceName": 585,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0585.png"
+}, {
+   "rarity": "S",
+    "name": "Hunter's Spirit",
+    "skillid": 1278,
+    "resourceName": 649,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0649.png"
+}, {
+   "rarity": "S",
+    "name": "Magma Axe",
+    "skillid": 1277,
+    "resourceName": 651,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0651.png"
+}, {
+   "rarity": "S",
+    "name": "Deceptive Eye",
+    "skillid": 995,
+    "resourceName": 653,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0653.png"
+}, {
+   "rarity": "S",
+    "name": "Twilight Glow",
+    "skillid": 1510,
+    "resourceName": 655,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0655.png"
+}, {
+   "rarity": "S",
+    "name": "Proof of Virtue",
+    "skillid": 1027,
+    "resourceName": 657,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0657.png"
+}, {
+   "rarity": "S",
+    "name": "Empty Teachings",
+    "skillid": 1368,
+    "resourceName": 659,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0659.png"
+}, {
+   "rarity": "S",
+    "name": "Key of Hatred",
+    "skillid": 994,
+    "resourceName": 661,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0661.png"
+}, {
+   "rarity": "S",
+    "name": "Wheel of Brutality",
+    "skillid": 1554,
+    "resourceName": 679,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0679.png"
+}, {
+   "rarity": "S",
+    "name": "Forest Bow",
+    "skillid": 1289,
+    "resourceName": 681,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0681.png"
+}, {
+   "rarity": "S",
+    "name": "Steel Star",
+    "skillid": 1292,
+    "resourceName": 683,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0683.png"
+}, {
+   "rarity": "S",
+    "name": "Black Winged Scythe",
+    "skillid": 994,
+    "resourceName": 685,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0685.png"
+}, {
+   "rarity": "S",
+    "name": "Blessed Crash",
+    "skillid": 1002,
+    "resourceName": 687,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0687.png"
+}, {
+   "rarity": "S",
+    "name": "Proof of Hypocrisy",
+    "skillid": 1030,
+    "resourceName": 689,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0689.png"
+}, {
+   "rarity": "S",
+    "name": "Banned Book of Resurrection",
+    "skillid": 1015,
+    "resourceName": 691,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0691.png"
+}, {
+   "rarity": "S",
+    "name": "Straw Puppet",
+    "skillid": 993,
+    "resourceName": 693,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0693.png"
+}, {
+   "rarity": "S",
+    "name": "Azure Blade",
+    "skillid": 1282,
+    "resourceName": 753,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0753.png"
+}, {
+   "rarity": "S",
+    "name": "Guided Gun",
+    "skillid": 1284,
+    "resourceName": 755,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0755.png"
+}, {
+   "rarity": "S",
+    "name": "Axe of Paranoia",
+    "skillid": 1283,
+    "resourceName": 757,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0757.png"
+}, {
+   "rarity": "S",
+    "name": "Possessed Halberd",
+    "skillid": 993,
+    "resourceName": 759,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0759.png"
+}, {
+   "rarity": "S",
+    "name": "Wild Rose Harp",
+    "skillid": 1007,
+    "resourceName": 761,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0761.png"
+}, {
+   "rarity": "S",
+    "name": "Clairvoyant Staff",
+    "skillid": 1026,
+    "resourceName": 763,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0763.png"
+}, {
+   "rarity": "S",
+    "name": "Secret Map",
+    "skillid": 1014,
+    "resourceName": 765,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0765.png"
+}, {
+   "rarity": "S",
+    "name": "Wheel of Perpetuity",
+    "skillid": 995,
+    "resourceName": 767,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0767.png"
+}, {
+   "rarity": "S",
+    "name": "Torus Spear",
+    "skillid": 1298,
+    "resourceName": 795,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0795.png"
+}, {
+   "rarity": "S",
+    "name": "F8 Magical Pistol",
+    "skillid": 1296,
+    "resourceName": 797,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS0797.png"
+}, {
+   "rarity": "S",
+    "name": "Hammer of Depravity",
+    "skillid": 1664,
+    "resourceName": 799,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0799.png"
+}, {
+   "rarity": "S",
+    "name": "Scarlet Sword",
+    "skillid": 990,
+    "resourceName": 801,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS0801.png"
+}, {
+   "rarity": "S",
+    "name": "Lady's Harp",
+    "skillid": 1003,
+    "resourceName": 803,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS0803.png"
+}, {
+   "rarity": "S",
+    "name": "Forbidden Staff",
+    "skillid": 817,
+    "resourceName": 805,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS0805.png"
+}, {
+   "rarity": "S",
+    "name": "Shelved Scroll",
+    "skillid": 1017,
+    "resourceName": 807,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS0807.png"
+}, {
+   "rarity": "S",
+    "name": "Shears of Fate",
+    "skillid": 994,
+    "resourceName": 809,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0809.png"
+}, {
+   "rarity": "S",
+    "name": "Iron Pipe",
+    "skillid": 619,
+    "resourceName": 819,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS0819.png"
+}, {
+   "rarity": "S",
+    "name": "Type-3 Lance",
+    "skillid": 994,
+    "resourceName": 821,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS0821.png"
+}, {
+   "rarity": "S",
+    "name": "Emil's Head",
+    "skillid": 994,
+    "resourceName": 823,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS0823.png"
+}, {
+   "rarity": "S",
+    "name": "Ancestral Double Axe",
+    "skillid": 1288,
+    "resourceName": 1001,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS1001.png"
+}, {
+   "rarity": "S",
+    "name": "Book of Dark Rituals",
+    "skillid": 1719,
+    "resourceName": 1003,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS1003.png"
+}, {
+   "rarity": "S",
+    "name": "Icicle Scythe",
+    "skillid": 994,
+    "resourceName": 1005,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS1005.png"
+}, {
+   "rarity": "S",
+    "name": "Proof of Loyalty",
+    "skillid": 597,
+    "resourceName": 1007,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS1007.png"
+}, {
+   "rarity": "S",
+    "name": "Proof of Purity",
+    "skillid": 992,
+    "resourceName": 1019,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1019.png"
+}, {
+   "rarity": "S",
+    "name": "Ice Fall Staff",
+    "skillid": 1030,
+    "resourceName": 1021,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS1021.png"
+}, {
+   "rarity": "S",
+    "name": "Ornamental Cannon",
+    "skillid": 1289,
+    "resourceName": 1023,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1023.png"
+}, {
+   "rarity": "S",
+    "name": "Two Fools",
+    "skillid": 1357,
+    "resourceName": 1025,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS1025.png"
+}, {
+   "rarity": "S",
+    "name": "Halberd of Revenge",
+    "skillid": 1769,
+    "resourceName": 1039,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS1039.png"
+}, {
+   "rarity": "S",
+    "name": "Staff of Retrogression",
+    "skillid": 1030,
+    "resourceName": 1041,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS1041.png"
+}, {
+   "rarity": "S",
+    "name": "Golden Bow",
+    "skillid": 1284,
+    "resourceName": 1043,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1043.png"
+}, {
+   "rarity": "S",
+    "name": "Cursed Ghost Song",
+    "skillid": 1002,
+    "resourceName": 1045,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS1045.png"
+}, {
+   "rarity": "S",
+    "name": "Enchanting Hammer",
+    "skillid": 619,
+    "resourceName": 1063,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS1063.png"
+}, {
+   "rarity": "S",
+    "name": "Master's Teachings",
+    "skillid": 1282,
+    "resourceName": 1065,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1065.png"
+}, {
+   "rarity": "S",
+    "name": "Castle Gate Notes",
+    "skillid": 1791,
+    "resourceName": 1067,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS1067.png"
+}, {
+   "rarity": "S",
+    "name": "Jewel of Intellect",
+    "skillid": 599,
+    "resourceName": 1069,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS1069.png"
+}, {
+   "rarity": "S",
+    "name": "Double-Edged Sword",
+    "skillid": 992,
+    "resourceName": 1117,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1117.png"
+}, {
+   "rarity": "S",
+    "name": "Forest Aid",
+    "skillid": 1026,
+    "resourceName": 1119,
+    "attribute": "Wind",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS1119.png"
+}, {
+   "rarity": "S",
+    "name": "False Bow Gun",
+    "skillid": 1278,
+    "resourceName": 1121,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1121.png"
+}, {
+   "rarity": "S",
+    "name": "Composer's Magnum Opus",
+    "skillid": 2006,
+    "resourceName": 1123,
+    "attribute": "Water",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS1123.png"
+}, {
+   "rarity": "S",
+    "name": "Criminal's Heart",
+    "skillid": 1260,
+    "resourceName": 1127,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1127.png"
+}, {
+   "rarity": "S",
+    "name": "Explosive Javelin",
+    "skillid": 2050,
+    "resourceName": 1163,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS1163.png"
+}, {
+   "rarity": "S",
+    "name": "Conqueror's Sword",
+    "skillid": 1310,
+    "resourceName": 1165,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1165.png"
+}, {
+   "rarity": "S",
+    "name": "Jug of Death",
+    "skillid": 994,
+    "resourceName": 1167,
+    "attribute": "Water",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS1167.png"
+}, {
+   "rarity": "S",
+    "name": "Scripture of the Dead",
+    "skillid": 1368,
+    "resourceName": 1169,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS1169.png"
+}, {
+   "rarity": "S",
+    "name": "Halberd of Deceit",
+    "skillid": 995,
+    "resourceName": 1307,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS1307.png"
+}, {
+   "rarity": "S",
+    "name": "Big Talk",
+    "skillid": 1026,
+    "resourceName": 1309,
+    "attribute": "Fire",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS1309.png"
+}, {
+   "rarity": "S",
+    "name": "Absolute Zero",
+    "skillid": 2101,
+    "resourceName": 1311,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1311.png"
+}, {
+   "rarity": "S",
+    "name": "Cardinal Flute",
+    "skillid": 1007,
+    "resourceName": 1313,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS1313.png"
+}, {
+   "rarity": "S",
+    "name": "Black Bomb",
+    "skillid": 995,
+    "resourceName": 1372,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS1372.png"
+}, {
+   "rarity": "S",
+    "name": "Anchor Rod",
+    "skillid": 1260,
+    "resourceName": 1380,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1380.png"
+}, {
+   "rarity": "S",
+    "name": "Spear of the Endtimes",
+    "skillid": 993,
+    "resourceName": 1398,
+    "attribute": "Fire",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS1398.png"
+}, {
+   "rarity": "S",
+    "name": "Sword of Memory",
+    "skillid": 1260,
+    "resourceName": 1400,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1400.png"
+}, {
+   "rarity": "S",
+    "name": "Oar Hammer",
+    "skillid": 1283,
+    "resourceName": 1402,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS1402.png"
+}, {
+   "rarity": "S",
+    "name": "Waterfowl Bow",
+    "skillid": 1255,
+    "resourceName": 1404,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1404.png"
+}, {
+   "rarity": "S",
+    "name": "Dark Spider Crossbow",
+    "skillid": 2174,
+    "resourceName": 1406,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1406.png"
+}, {
+   "rarity": "S",
+    "name": "Blade of the Eye",
+    "skillid": 990,
+    "resourceName": 1418,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1418.png"
+}, {
+   "rarity": "S",
+    "name": "Lion Killer's Iron Hammer",
+    "skillid": 1283,
+    "resourceName": 1420,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS1420.png"
+}, {
+   "rarity": "S",
+    "name": "Chivalric Order​'s Violin",
+    "skillid": 2201,
+    "resourceName": 1422,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS1422.png"
+}, {
+   "rarity": "S",
+    "name": "Water Emperor's Staff",
+    "skillid": 1027,
+    "resourceName": 1424,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS1424.png"
+}, {
+   "rarity": "S",
+    "name": "Waterway Sword",
+    "skillid": 1282,
+    "resourceName": 1460,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS1460.png"
+}, {
+   "rarity": "S",
+    "name": "Unjustified Resentment",
+    "skillid": 1289,
+    "resourceName": 1462,
+    "attribute": "Wind",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS1462.png"
+}, {
+   "rarity": "S",
+    "name": "Violin of Zeal",
+    "skillid": 2260,
+    "resourceName": 1464,
+    "attribute": "Fire",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS1464.png"
+}, {
+   "rarity": "S",
+    "name": "Scroll of the Black Dragon",
+    "skillid": 2033,
+    "resourceName": 1466,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS1466.png"
+}, {
+   "rarity": "S",
+    "name": "Senhime's Great Axe",
+    "skillid": 2253,
+    "resourceName": 1468,
+    "attribute": "Fire",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS1468.png"
+}, {
+   "rarity": "S",
+    "name": "Kamaitachi's Halberd",
+    "skillid": 2595,
+    "resourceName": 1913,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS1913.png"
+}, {
+   "rarity": "S",
+    "name": "Light in the Darkness",
+    "skillid": 993,
+    "resourceName": 2208,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS2208.png"
+}, {
+   "rarity": "S",
+    "name": "Changing of the Guard",
+    "skillid": 1283,
+    "resourceName": 2392,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS2392.png"
+}, {
+   "rarity": "S",
+    "name": "Spear of Devotion",
+    "skillid": 3090,
+    "resourceName": 2488,
+    "attribute": "Water",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS2488.png"
+}, {
+   "rarity": "S",
+    "name": "Silence of Souls",
+    "skillid": 995,
+    "resourceName": 2628,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS2628.png"
+}, {
+   "rarity": "S",
+    "name": "Gun of Pure Judgment",
+    "skillid": 1284,
+    "resourceName": 2757,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS2757.png"
+}, {
+   "rarity": "S",
+    "name": "Grimoire Noir",
+    "skillid": 1017,
+    "resourceName": 2979,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS2979.png"
+}, {
+   "rarity": "S",
+    "name": "Labyrinth's Song",
+    "skillid": 992,
+    "resourceName": 2981,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS2981.png"
+}, {
+   "rarity": "S",
+    "name": "Phoenix Lance",
+    "skillid": 995,
+    "resourceName": 2983,
+    "attribute": "Wind",
+    "type": "Polearm",
+    "url": "./assets/img/weapSR/CardS2983.png"
+}, {
+   "rarity": "S",
+    "name": "Vile Axe",
+    "skillid": 1288,
+    "resourceName": 2985,
+    "attribute": "Wind",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS2985.png"
+}, {
+   "rarity": "S",
+    "name": "Iron Will",
+    "skillid": 2369,
+    "resourceName": 2987,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS2987.png"
+}, {
+   "rarity": "S",
+    "name": "Frontier Flask",
+    "skillid": 597,
+    "resourceName": 3329,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS3329.png"
+}, {
+   "rarity": "S",
+    "name": "Permafrost",
+    "skillid": 995,
+    "resourceName": 4635,
+    "attribute": "Wind",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS4635.png"
+}, {
+   "rarity": "S",
+    "name": "Wizard’s Dagger",
+    "skillid": 2369,
+    "resourceName": 5694,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS5694.png"
+}, {
+   "rarity": "S",
+    "name": "Photosphere Violin",
+    "skillid": 3322,
+    "resourceName": 5696,
+    "attribute": "Wind",
+    "type": "Instrument",
+    "url": "./assets/img/weapSR/CardS5696.png"
+}, {
+   "rarity": "S",
+    "name": "Rapid-fire Pistol",
+    "skillid": 1335,
+    "resourceName": 6681,
+    "attribute": "Fire",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS6681.png"
+}, {
+   "rarity": "S",
+    "name": "Someone's Memory",
+    "skillid": 1369,
+    "resourceName": 6683,
+    "attribute": "Fire",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS6683.png"
+}, {
+   "rarity": "S",
+    "name": "Burned at the Throne",
+    "skillid": 3346,
+    "resourceName": 6685,
+    "attribute": "Fire",
+    "type": "Artifact",
+    "url": "./assets/img/weapSR/CardS6685.png"
+}, {
+   "rarity": "S",
+    "name": "Sword of Obedience",
+    "skillid": 990,
+    "resourceName": 6687,
+    "attribute": "Fire",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS6687.png"
+}, {
+   "rarity": "S",
+    "name": "Book of Kraken",
+    "skillid": 2485,
+    "resourceName": 7357,
+    "attribute": "Water",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS7357.png"
+}, {
+   "rarity": "S",
+    "name": "Mark of Loyalty",
+    "skillid": 1283,
+    "resourceName": 7359,
+    "attribute": "Water",
+    "type": "Hammer",
+    "url": "./assets/img/weapSR/CardS7359.png"
+}, {
+   "rarity": "S",
+    "name": "Nameless Blade",
+    "skillid": 992,
+    "resourceName": 8738,
+    "attribute": "Wind",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS8738.png"
+}, {
+   "rarity": "S",
+    "name": "Grimoire Rubrum",
+    "skillid": 3306,
+    "resourceName": 8740,
+    "attribute": "Wind",
+    "type": "Tome",
+    "url": "./assets/img/weapSR/CardS8740.png"
+}, {
+   "rarity": "S",
+    "name": "Butchering Blade",
+    "skillid": 595,
+    "resourceName": 9015,
+    "attribute": "Water",
+    "type": "Sword",
+    "url": "./assets/img/weapSR/CardS9015.png"
+}, {
+   "rarity": "S",
+    "name": "Shepherd Staff",
+    "skillid": 829,
+    "resourceName": 9017,
+    "attribute": "Water",
+    "type": "Staff",
+    "url": "./assets/img/weapSR/CardS9017.png"
+}, {
+   "rarity": "S",
+    "name": "Echo of Oceanworlds",
+    "skillid": 1301,
+    "resourceName": 9246,
+    "attribute": "Water",
+    "type": "Bow",
+    "url": "./assets/img/weapSR/CardS9246.png"
+}]

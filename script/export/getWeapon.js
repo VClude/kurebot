@@ -9,6 +9,7 @@ var nightmares = [];
 var weaponA = [],weaponS = [],weaponSR = [],nightmaresSR = [];
 var hammer = [],polearm = [],sword = [],bow = [],artifact = [],instrument = [],tome = [],staff = [];
 
+
 var y = 0;
 for (let i = 0; i < card.length; i++) {
 
@@ -18,11 +19,91 @@ for (let i = 0; i < card.length; i++) {
     if(card[i].cardType === 1 && card[i].evolutionLevel === 0){
         y++;
         rarity = (card[i].rarity === 3) ? 'A' : ((card[i].rarity === 4) ? 'S' : ((card[i].rarity === 5) ? 'SR' : 'L'));
-        location = (card[i].rarity === 3) ? '/assets/img/weapA/' : ((card[i].rarity === 4) ? '/assets/img/weapS/' : ((card[i].rarity === 5) ? '/assets/img/weapSR/CardS' : '/assets/img/weapSR/CardS'));
+        location = (card[i].rarity === 3) ? '/assets/img/weapA/' : ((card[i].rarity === 4) ? '/assets/img/weapSR/CardS' : ((card[i].rarity === 5) ? '/assets/img/weapSR/CardS' : '/assets/img/weapSR/CardS'));
         console.log('in iteration ' + y + ' Weapon ->' + card[i].name);
         weapon.name = translate.latinize(card[i].name);
         weapon.skillid = card[i].frontSkillMstId;
-        weapon.url = location + card[i].resourceName + '.png'
+        weapon.weaponid = card[i].cardMstId;
+        switch(card[i].attribute){
+            case 1:
+                weapon.attribute = 'Fire';
+                break;
+            case 2:
+                weapon.attribute = 'Water';
+                break;
+            case 3:
+                weapon.attribute = 'Wind';
+                break;
+            default:
+                break;
+        }
+
+        switch(card[i].weaponType){
+            case 1:
+                weapon.type = 'Instrument';
+                break;
+            case 2:
+                weapon.type = 'Instrument';
+                break;
+            case 3:
+                weapon.type = 'Instrument';
+                break;
+            case 4:
+                weapon.type = 'Tome';
+                break;
+            case 5:
+                weapon.type = 'Artifact';
+                break;
+            case 6:
+                weapon.type = 'Staff';
+                break;
+            case 7:
+                weapon.type = 'Sword';
+                break;
+            case 8:
+                weapon.type = 'Sword';
+                break;
+            case 9:
+                weapon.type = 'Sword';
+                break;
+            case 10:
+                weapon.type = 'Sword';
+                break;
+            case 11:
+                weapon.type = 'Hammer';
+                break;
+            case 12:
+                weapon.type = 'Hammer';
+                break;
+            case 13:
+                weapon.type = 'Hammer';
+                break;
+            case 14:
+                weapon.type = 'Bow';
+                break;
+            case 15:
+                weapon.type = 'Bow';
+                break;
+            case 16:
+                weapon.type = 'Bow';
+                break;
+            case 17:
+                weapon.type = 'Bow';
+                break;
+            case 18:
+                weapon.type = 'Polearm';
+                break;
+            case 19:
+                weapon.type = 'Polearm';
+                break;
+            case 20:
+                weapon.type = 'Polearm';
+                break;
+            default:
+                break;
+        }
+        link = parseInt(i);
+        weapon.url = location + card[link].resourceName + '.png'
         console.log(weapon);
         //putting to master data
         switch(rarity){
