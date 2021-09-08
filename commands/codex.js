@@ -68,7 +68,7 @@ module.exports = {
     
                             });
                             let dsa = toInteger(length / 20);
-                            emsg.setFooter("**!s codex ** <number> to navigate || **!s codex ** <weapon name> to view specific weapon");
+                            emsg.setFooter("!s codex  <number> to navigate || !s codex  <weapon name> to view specific weapon");
 
                         }
                         else{
@@ -110,7 +110,7 @@ module.exports = {
     
                             });
                             let dsa = toInteger(length / 20);
-                            emsg.setFooter("**!s codex ** <number> to navigate || **!s codex ** <weapon name> to view specific weapon");
+                            emsg.setFooter("!s codex  <number> to navigate || !s codex  <weapon name> to view specific weapon");
 
                         }
                         else{

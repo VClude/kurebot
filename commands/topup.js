@@ -9,10 +9,10 @@ const Discord = require('discord.js');
 
 module.exports = {
     name: 'topup',
-    description: 'topup crystal (!s topup <amount crystal>)',
+    description: 'topup fixed amount of crystal (!s topup)',
     execute(message, args, client) {
         let isnew = false;
-        args[0] = 1500;
+        args[0] = 3000;
         const user = message.guild.members.cache.get(message.author.id);
         const DATE_FORMATER = require( 'dateformat' );
         let datetime = DATE_FORMATER( new Date(), "yyyy-mm-dd" );

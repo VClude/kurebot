@@ -26,7 +26,7 @@ for (const file of cmdFiles){
 
 client.on("ready", () => {
    console.log('bot is ready');
-    client.user.setActivity("Vote Sleeping Beauty");
+    client.user.setActivity("!s help");
 });
 
 client.on('message', message => {
